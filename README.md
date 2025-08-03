@@ -2,7 +2,8 @@
 
 This repository presents a complete data science pipeline for analyzing used car prices, powered by Python (Pandas, Seaborn) and Tableau for interactive dashboarding.
 
-![Used Cars Tableau Dashboard](Used%20Cars.jpg)
+
+![Used Cars](https://github.com/user-attachments/assets/cb4cb1c4-448f-4cb3-920f-625e3d3d5cd7)
 
 ---
 
@@ -52,7 +53,4 @@ The Jupyter notebook in this repo includes:
 | `BodyType`           | Hatchback, SUV, Sedan, etc.            |
 | `Price`              | Asking price (in thousands ₹)          |
 
-
-
-## 📦 Repository Structure
 
