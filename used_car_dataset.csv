@@ -1,0 +1,2483 @@
+﻿ID,Brand,Model,Type,Year,Age,KmDriven,Transmission,Owner,FuelType,AskPrice
+C0001,Maruti Suzuki,Baleno,Hatchback,2019,5,45000,Automatic,First,Petrol,685000
+C0002,Maruti Suzuki,Alto-K10,Hatchback,2018,6,70000,Automatic,First,Petrol,395000
+C0003,Maruti Suzuki,Ertiga,MUV,2017,7,59000,Automatic,Second,Petrol,555000
+C0004,Renault,KWID,Hatchback,2019,5,48073,Automatic,Second,Petrol,355000
+C0005,MG,Hector,SUV,2019,5,32618,Automatic,First,Petrol,1250000
+C0006,Hyundai,Venue,SUV,2021,3,17000,Manual,First,Petrol,685000
+C0007,Maruti Suzuki,Ertiga,MUV,2018,6,70000,Manual,Second,Petrol,749000
+C0008,Hyundai,Creta,SUV,2023,1,5000,Automatic,First,Petrol,1600000
+C0009,Hyundai,Alcazar,SUV,2022,2,47110,Manual,Second,Diesel,1695000
+C0010,Maruti Suzuki,Baleno,Hatchback,2018,6,30000,Manual,Second,Petrol,630000
+C0011,Hyundai,Creta,SUV,2022,2,30000,Automatic,Second,Petrol,1690000
+C0012,Skoda,Kushaq,SUV,2023,1,12000,Automatic,First,Petrol,1800000
+C0013,Hyundai,Creta,SUV,2017,7,70000,Manual,Second,Petrol,765000
+C0014,Hyundai,Creta,SUV,2017,7,54000,Automatic,First,Petrol,811000
+C0015,Kia,Carens,MPV,2023,1,24000,Manual,First,Petrol,1225000
+C0016,Maruti Suzuki,Ignis,Hatchback,2023,1,13000,Manual,Second,Petrol,610000
+C0017,Honda,City,Sedan,2016,8,93000,Automatic,Second,Petrol,575000
+C0018,Hyundai,Verna,Sedan,2022,2,69000,Automatic,First,Diesel,1250000
+C0019,Kia,Sonet,SUV,2020,4,34500,Automatic,First,Petrol,935000
+C0020,Mahindra,Scorpio-N,SUV,2023,1,15905,Automatic,First,Diesel,2350000
+C0021,Toyota,Innova Crysta,MPV,2021,3,21000,Manual,First,Diesel,2125000
+C0022,Maruti Suzuki,Wagon-R,Hatchback,2016,8,50000,Manual,First,Petrol,245000
+C0023,Tata,Nexon,SUV,2022,2,40000,Automatic,Second,Petrol,680000
+C0024,Maruti Suzuki,Baleno,Hatchback,2017,7,47000,Automatic,First,Petrol,575000
+C0025,Maruti Suzuki,Ertiga,MUV,2020,4,59000,Automatic,First,Petrol,980000
+C0026,Tata,Nexon,SUV,2018,6,95000,Automatic,Second,Petrol,575000
+C0027,Mahindra,Thar,SUV,2022,2,11000,Manual,First,Diesel,1675000
+C0028,Skoda,Kushaq,SUV,2021,3,74000,Automatic,First,Petrol,1199000
+C0029,Maruti Suzuki,Eeco,MPV,2021,3,49000,Manual,First,Petrol,540000
+C0030,Hyundai,Creta,SUV,2023,1,35000,Automatic,First,Diesel,2025000
+C0031,Hyundai,Creta,SUV,2018,6,66000,Automatic,Second,Petrol,1075000
+C0032,Maruti Suzuki,Swift,Hatchback,2018,6,65000,Automatic,Second,Petrol,590000
+C0033,Mahindra,Thar,SUV,2023,1,28000,Automatic,First,Diesel,1785000
+C0034,Toyota,Innova Crysta,MPV,2022,2,31000,Automatic,First,Diesel,2700000
+C0035,Honda,City,Sedan,2016,8,93000,Automatic,Second,Petrol,575000
+C0036,Tata,Altroz,Hachback,2021,3,33000,Manual,First,Petrol,545000
+C0037,Maruti Suzuki,Celerio,Hatchback,2018,6,37000,Automatic,Second,Petrol,460000
+C0038,Hyundai,Grand i10 Nios,Hatchback,2022,2,36000,Automatic,First,Petrol,690000
+C0039,Renault,KWID,Hatchback,2017,7,65663,Automatic,Second,Petrol,325000
+C0040,Maruti Suzuki,Baleno,Hatchback,2018,6,31000,Manual,First,Petrol,549000
+C0041,Hyundai,Alcazar,SUV,2022,2,37000,Automatic,First,Diesel,1820000
+C0042,Maruti Suzuki,Alto K10,Hatchback,2016,8,56000,Manual,First,Petrol,275000
+C0043,Toyota,Fortuner,SUV,2021,3,60000,Automatic,First,Petrol,3200000
+C0044,Kia,Seltos,SUV,2021,3,41000,Automatic,First,Petrol,1390000
+C0045,Toyota,Glanza,Hatchback,2021,3,28000,Automatic,Second,Petrol,750000
+C0046,Tata,Harrier,SUV,2022,2,14000,Automatic,First,Diesel,1875000
+C0047,Kia,Seltos,SUV,2020,4,50200,Automatic,First,Petrol,1300000
+C0048,Maruti Suzuki,Wagon-R,Hatchback,2023,1,30000,Manual,First,Petrol,675000
+C0049,Renault,KWID,Hatchback,2017,7,54000,Automatic,Second,Petrol,365000
+C0050,Hyundai,Creta,SUV,2016,8,63000,Manual,Second,Petrol,650000
+C0051,Honda,City,Sedan,2018,6,62000,Manual,First,Petrol,695000
+C0052,Honda,Amaze,Sedan,2021,3,56001,Automatic,First,Diesel,1125000
+C0053,Honda,City,Sedan,2016,8,95000,Manual,Second,Petrol,535000
+C0054,Maruti Suzuki,S-Presso,Hatchback,2021,3,39000,Automatic,First,Petrol,465000
+C0055,Maruti Suzuki,Dzire,Sedan,2022,2,44000,Automatic,First,Petrol,780000
+C0056,Maruti Suzuki,Swift,Hatchback,2019,5,59000,Manual,First,Petrol,540000
+C0057,MG,ASTOR,SUV,2022,2,32000,Automatic,First,Petrol,1275000
+C0058,Renault,KWID,Hatchback,2017,7,78537,Automatic,First,Petrol,375000
+C0059,Maruti Suzuki,Baleno,Hatchback,2018,6,39848,Manual,First,Petrol,479931
+C0060,Toyota,Innova Crysta,MPV,2022,2,25000,Automatic,First,Diesel,2600000
+C0061,Mahindra,Thar,SUV,2022,2,14000,Automatic,First,Petrol,1550000
+C0062,Tata,Tiago,Hatchback,2021,3,74000,Manual,Second,Petrol,515000
+C0063,Toyota,Innova Crysta,MPV,2021,3,42000,Manual,Second,Diesel,2550000
+C0064,Maruti Suzuki,Grand Vitara,SUV,2023,1,21209,Manual,First,Petrol,1290000
+C0065,Toyota,Glanza,Hatchback,2020,4,87000,Manual,First,Petrol,733000
+C0066,Tata,Tiago,Hatchback,2018,6,30000,Automatic,First,Petrol,355000
+C0067,Honda,City,Sedan,2016,8,63000,Manual,Second,Petrol,600000
+C0068,Honda,Amaze,Sedan,2016,8,65000,Manual,First,Petrol,410000
+C0069,Maruti Suzuki,Swift,Hatchback,2022,2,35000,Automatic,First,Petrol,745000
+C0070,Volkswagen,Virtus,Sedan,2022,2,50000,Automatic,First,Petrol,1299000
+C0071,MG,Hector,SUV,2023,1,29000,Automatic,First,Petrol,2295000
+C0072,Mahindra,Thar,SUV,2021,3,13000,Automatic,First,Diesel,1700000
+C0073,Mahindra,XUV700,SUV,2023,1,4000,Manual,First,Petrol,2100000
+C0074,Maruti Suzuki,Baleno,Hatchback,2021,3,57000,Automatic,Second,Petrol,685000
+C0075,MG,ASTOR,SUV,2021,3,12110,Automatic,First,Petrol,1295000
+C0076,Hyundai,New i20,Hatchback,2022,2,13162,Automatic,First,Petrol,975000
+C0077,Mahindra,Thar,SUV,2021,3,41000,Manual,Second,Diesel,1450000
+C0078,Toyota,Innova Crysta,MPV,2022,2,8000,Automatic,First,Diesel,3375000
+C0079,Toyota,Fortuner,SUV,2024,0,2596,Manual,First,Diesel,3899999
+C0080,Mahindra,Thar,SUV,2023,1,24500,Automatic,First,Petrol,1410000
+C0081,Honda,City,Sedan,2021,3,125000,Manual,First,Diesel,1075000
+C0082,Kia,Seltos,SUV,2022,2,30891,Automatic,First,Diesel,1875000
+C0083,Hyundai,Alcazar,SUV,2023,1,2500,Automatic,First,Petrol,1800000
+C0084,Maruti Suzuki,Swift,Hatchback,2019,5,32000,Manual,Second,Petrol,575000
+C0085,Mahindra,Thar,SUV,2021,3,66000,Manual,First,Diesel,1425000
+C0086,Maruti Suzuki,Alto-K10,Hatchback,2019,5,62000,Manual,First,Petrol,360000
+C0087,Hyundai,Venue,SUV,2022,2,55000,Manual,First,Diesel,1250000
+C0088,Mahindra,Bolero Neo,SUV,2023,1,35000,Automatic,Second,Diesel,1050000
+C0089,Mahindra,XUV700,SUV,2024,0,16666,Automatic,First,Diesel,2599999
+C0090,Skoda,Kushaq,SUV,2022,2,38917,Manual,First,Petrol,1225000
+C0091,Maruti Suzuki,Baleno,Hatchback,2016,8,55000,Automatic,First,Petrol,655000
+C0092,Maruti Suzuki,Ertiga,MUV,2022,2,8638,Manual,First,Petrol,1150000
+C0093,Maruti Suzuki,Swift,Hatchback,2021,3,29000,Automatic,First,Petrol,765000
+C0094,MG,ASTOR,SUV,2024,0,260,Manual,First,Petrol,1495000
+C0095,Hyundai,Verna,Sedan,2023,1,15120,Automatic,First,Petrol,1550000
+C0096,Tata,Altroz,Hatchback,2021,3,21000,Manual,Second,Petrol,535000
+C0097,Mahindra,Scorpio-N,SUV,2022,2,20000,Manual,First,Diesel,1945000
+C0098,Maruti Suzuki,Swift,Hatchback,2018,6,38000,Manual,Second,Petrol,480000
+C0099,Mahindra,Thar,SUV,2021,3,30000,Automatic,First,Diesel,1540000
+C0100,Maruti Suzuki,Wagon-R,Hatchback,2021,3,71000,Manual,First,Petrol,475000
+C0101,Hyundai,Creta,SUV,2023,1,4800,Automatic,Second,Diesel,1950000
+C0102,Maruti Suzuki,Baleno,Hatchback,2017,7,59000,Manual,First,Petrol,515000
+C0103,Maruti Suzuki,XL6,MUV,2022,2,76000,Manual,First,Petrol,1000000
+C0104,Maruti Suzuki,Ertiga,MUV,2021,3,38000,Automatic,First,Petrol,1155000
+C0105,Maruti Suzuki,Swift,Hatchback,2024,0,6000,Automatic,First,Petrol,1150000
+C0106,Hyundai,Verna,Sedan,2018,6,57546,Automatic,First,Petrol,849999
+C0107,Maruti Suzuki,Swift,Hatchback,2018,6,48000,Automatic,Second,Petrol,535000
+C0108,Toyota,Fortuner,SUV,2021,3,40000,Automatic,First,Diesel,4100000
+C0109,Maruti Suzuki,XL6,MUV,2021,3,22864,Automatic,First,Petrol,1095000
+C0110,Hyundai,Grand i10 Nios,Hatchback,2020,4,33145,Manual,First,Petrol,600000
+C0111,Hyundai,Venue,SUV,2022,2,38000,Manual,First,Petrol,1040000
+C0112,Honda,City,Sedan,2023,1,9500,Automatic,First,Petrol,1475000
+C0113,Hyundai,Creta,SUV,2021,3,96000,Automatic,First,Diesel,1700000
+C0114,Maruti Suzuki,XL6,MUV,2019,5,65000,Manual,First,Petrol,925000
+C0115,Maruti Suzuki,Celerio,Hatchback,2018,6,38000,Automatic,Second,Petrol,380000
+C0116,Maruti Suzuki,Celerio,Hatchback,2016,8,36000,Automatic,First,Petrol,399999
+C0117,Hyundai,Creta,SUV,2022,2,19000,Automatic,First,Diesel,2290000
+C0118,Renault,Triber,MUV,2020,4,59000,Manual,First,Petrol,675000
+C0119,Kia,Seltos,SUV,2022,2,15000,Automatic,First,Petrol,1800000
+C0120,Mahindra,XUV700,SUV,2022,2,6789,Automatic,First,Diesel,2000000
+C0121,Toyota,Glanza,Hatchback,2020,4,38000,Automatic,First,Petrol,574000
+C0122,Toyota,Innova Crysta,MPV,2024,0,6110,Manual,First,Diesel,2785000
+C0123,Honda,City,Sedan,2018,6,58000,Manual,First,Petrol,574000
+C0124,Maruti Suzuki,Swift,Hatchback,2021,3,41000,Manual,First,Petrol,679000
+C0125,Renault,KWID,Hatchback,2017,7,67000,Manual,Second,Petrol,250000
+C0126,Maruti Suzuki,Swift,Hatchback,2023,1,11000,Automatic,First,Petrol,725000
+C0127,Honda,City,Sedan,2017,7,28000,Automatic,First,Petrol,685000
+C0128,Maruti Suzuki,Celerio,Hatchback,2017,7,142000,Automatic,First,Petrol,345000
+C0129,Renault,KWID,Hatchback,2019,5,18000,Manual,First,Petrol,325000
+C0130,Maruti Suzuki,Alto-K10,Hatchback,2017,7,65000,Automatic,First,Petrol,300000
+C0131,Maruti Suzuki,Celerio,Hatchback,2017,7,67000,Automatic,Second,Petrol,450000
+C0132,Maruti Suzuki,Swift,Hatchback,2019,5,7000,Automatic,Second,Petrol,650000
+C0133,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0134,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0135,Maruti Suzuki,Swift,Hatchback,2018,6,42175,Automatic,First,Petrol,429000
+C0136,Kia,Seltos,SUV,2023,1,27000,Automatic,First,Diesel,1775000
+C0137,Skoda,Kushaq,SUV,2022,2,10000,Automatic,First,Petrol,1361000
+C0138,Hyundai,Verna,Sedan,2023,1,12700,Manual,First,Petrol,1575000
+C0139,Honda,Amaze,Sedan,2020,4,41000,Manual,Second,Petrol,575000
+C0140,Mahindra,Scorpio Classic,SUV,2024,0,33000,Manual,First,Diesel,1850000
+C0141,Maruti Suzuki,Swift,Hatchback,2018,6,45000,Manual,Second,Petrol,510000
+C0142,Maruti Suzuki,Baleno,Hatchback,2019,5,53000,Manual,Second,Petrol,635000
+C0143,Renault,KWID,Hatchback,2019,5,18000,Manual,First,Petrol,324000
+C0144,Renault,KWID,Hatchback,2018,6,37000,Automatic,Second,Petrol,325000
+C0145,Tata,Tigor,Sedan,2018,6,800000,Manual,Second,Petrol,485000
+C0146,Maruti Suzuki,Baleno,Hatchback,2019,5,38032,Automatic,Second,Petrol,690000
+C0147,MG,Hector,SUV,2019,5,17000,Automatic,First,Petrol,1390000
+C0148,Honda,City,Sedan,2017,7,69000,Manual,Second,Petrol,610000
+C0149,Maruti Suzuki,Ertiga,MUV,2019,5,15000,Automatic,Second,Petrol,1055000
+C0150,Maruti Suzuki,Wagon R,Hatchback,2016,8,65000,Automatic,Second,Petrol,460000
+C0151,Toyota,Fortuner,SUV,2021,3,77000,Automatic,First,Diesel,3890000
+C0152,Tata,Harrier,SUV,2021,3,50000,Automatic,First,Diesel,1699000
+C0153,Hyundai,Venue,SUV,2022,2,13000,Manual,First,Petrol,825000
+C0154,Maruti Suzuki,Baleno,Hatchback,2017,7,47231,Manual,First,Petrol,535101
+C0155,Maruti Suzuki,Eeco,MPV,2019,5,38000,Manual,First,Petrol,410000
+C0156,Hyundai,Alcazar,SUV,2022,2,24000,Automatic,First,Diesel,1875000
+C0157,Hyundai,Grand i10 Nios,Hatchback,2020,4,51500,Automatic,Second,Petrol,499999
+C0158,Renault,KWID,Hatchback,2018,6,67000,Manual,Second,Petrol,299000
+C0159,Honda,Amaze,Sedan,2017,7,50000,Manual,Second,Petrol,460000
+C0160,Hyundai,Creta,SUV,2023,1,10110,Manual,First,Petrol,1095000
+C0161,Renault,KWID,Hatchback,2017,7,90000,Automatic,First,Petrol,290000
+C0162,Maruti Suzuki,XL6,MUV,2020,4,70000,Manual,First,Petrol,1100000
+C0163,Maruti Suzuki,Ignis,Hatchback,2022,2,21260,Manual,First,Petrol,535000
+C0164,Maruti Suzuki,Alto-K10,Hatchback,2019,5,80000,Automatic,Second,Petrol,280000
+C0165,Kia,Seltos,SUV,2020,4,42000,Manual,First,Petrol,1080000
+C0166,Maruti Suzuki,Celerio,Hatchback,2018,6,72000,Automatic,First,Petrol,400000
+C0167,Toyota,Innova Crysta,MPV,2022,2,61000,Manual,First,Diesel,2450000
+C0168,Toyota,Fortuner,SUV,2023,1,35000,Manual,First,Diesel,4000000
+C0169,Toyota,Glanza,Hatchback,2020,4,79000,Automatic,First,Petrol,650000
+C0170,Hyundai,Alcazar,SUV,2022,2,23950,Automatic,First,Diesel,2075000
+C0171,Hyundai,Creta,SUV,2016,8,58000,Automatic,Second,Petrol,745000
+C0172,Maruti Suzuki,Brezza,SUV,2024,0,20000,Manual,First,Petrol,1100000
+C0173,Renault,KWID,Hatchback,2022,2,36000,Automatic,First,Petrol,485000
+C0174,Tata,Punch,SUV,2022,2,19100,Manual,First,Petrol,651000
+C0175,Maruti Suzuki,XL6,MUV,2021,3,62035,Automatic,First,Petrol,1095000
+C0176,Hyundai,Creta,SUV,2018,6,48000,Manual,Second,Petrol,765000
+C0177,Kia,Sonet,SUV,2020,4,42000,Automatic,First,Petrol,785000
+C0178,Kia,Sonet,SUV,2021,3,26000,Manual,First,Petrol,875000
+C0179,Renault,KWID,Hatchback,2020,4,31000,Automatic,First,Petrol,390000
+C0180,Mahindra,Thar,SUV,2023,1,7300,Automatic,First,Diesel,1571000
+C0181,Mahindra,Bolero Neo,SUV,2022,2,41000,Manual,First,Diesel,950000
+C0182,Maruti Suzuki,Swift,Hatchback,2022,2,25772,Manual,First,Petrol,699999
+C0183,Toyota,Innova Crysta,MPV,2021,3,37200,Automatic,First,Diesel,2590000
+C0184,Hyundai,Creta,SUV,2019,5,49000,Automatic,First,Petrol,995000
+C0185,Mahindra,Bolero,SUV,2021,3,80000,Manual,Second,Diesel,925000
+C0186,Tata,Tiago,Hatchback,2020,4,28300,Manual,Second,Petrol,495000
+C0187,Renault,Triber,MUV,2021,3,55000,Manual,First,Petrol,350000
+C0188,Toyota,Innova Crysta,MPV,2022,2,35000,Automatic,First,Diesel,2695000
+C0189,Kia,Carens,MPV,2022,2,77000,Automatic,First,Diesel,1725000
+C0190,Toyota,Innova Crysta,MPV,2023,1,12500,Manual,First,Diesel,2425000
+C0191,Hyundai,Verna,Sedan,2017,7,38000,Automatic,Second,Petrol,825000
+C0192,Tata,Tiago,Hatchback,2019,5,35967,Manual,First,Petrol,410000
+C0193,Hyundai,Alcazar,SUV,2024,0,4700,Manual,First,Diesel,2100000
+C0194,Mahindra,Thar,SUV,2021,3,38000,Automatic,First,Diesel,1600000
+C0195,Mahindra,Thar,SUV,2021,3,46000,Automatic,First,Diesel,1620000
+C0196,Kia,Sonet,SUV,2023,1,2400,Automatic,First,Diesel,1325000
+C0197,Honda,Amaze,Sedan,2019,5,67000,Automatic,Second,Petrol,575000
+C0198,Maruti Suzuki,Baleno,Hatchback,2016,8,55000,Manual,Second,Petrol,530000
+C0199,Kia,Seltos,SUV,2021,3,100000,Automatic,First,Diesel,1350000
+C0200,Hyundai,Venue,SUV,2019,5,52000,Manual,Second,Petrol,725000
+C0201,Honda,Amaze,Sedan,2022,2,21000,Automatic,First,Petrol,795000
+C0202,Maruti Suzuki,Swift,Hatchback,2019,5,48000,Manual,First,Petrol,525000
+C0203,Maruti Suzuki,Swift,Hatchback,2022,2,19245,Automatic,First,Petrol,690000
+C0204,Honda,City,Sedan,2021,3,15000,Automatic,First,Petrol,1425000
+C0205,Maruti Suzuki,Swift,Hatchback,2020,4,65000,Manual,First,Petrol,600000
+C0206,Honda,City,Sedan,2018,6,48000,Manual,Second,Petrol,575000
+C0207,Renault,KWID,Hatchback,2016,8,40000,Manual,Second,Petrol,145000
+C0208,Honda,City,Sedan,2017,7,28305,Automatic,First,Petrol,681000
+C0209,Maruti Suzuki,Ertiga,MUV,2017,7,46000,Automatic,Second,Petrol,725000
+C0210,Maruti Suzuki,S-Presso,Hatchback,2021,3,25000,Automatic,Second,Petrol,450000
+C0211,Maruti Suzuki,Ignis,Hatchback,2020,4,28000,Automatic,Second,Petrol,649999
+C0212,Honda,City,Sedan,2016,8,29000,Automatic,First,Petrol,675000
+C0213,Hyundai,Creta,SUV,2022,2,9000,Manual,First,Petrol,1495000
+C0214,Hyundai,Venue,SUV,2020,4,30000,Manual,First,Petrol,705000
+C0215,Tata,Tigor,Sedan,2022,2,18000,Manual,First,Petrol,800000
+C0216,Kia,Sonet,SUV,2023,1,2400,Automatic,First,Petrol,1325000
+C0217,Honda,City,Sedan,2016,8,111000,Automatic,First,Petrol,450000
+C0218,Maruti Suzuki,Baleno,Hatchback,2017,7,51000,Manual,First,Petrol,485000
+C0219,Maruti Suzuki,Ertiga,MUV,2021,3,19500,Manual,First,Petrol,1100000
+C0220,Honda,City,Sedan,2016,8,56000,Automatic,Second,Petrol,625000
+C0221,Toyota,Innova Crysta,MPV,2022,2,7000,Automatic,First,Petrol,2250000
+C0222,Mahindra,XUV700,SUV,2024,0,1450,Automatic,First,Diesel,2727000
+C0223,Honda,Amaze,Sedan,2021,3,31986,Manual,First,Petrol,675000
+C0224,Tata,Harrier,SUV,2023,1,29000,Manual,First,Diesel,1795000
+C0225,Honda,Amaze,Sedan,2020,4,25000,Manual,First,Petrol,655000
+C0226,Maruti Suzuki,Baleno,Hatchback,2016,8,63200,Automatic,Second,Petrol,585000
+C0227,Kia,Sonet,SUV,2023,1,43000,Manual,First,Diesel,1090000
+C0228,MG,Hector,SUV,2021,3,50000,Automatic,Second,Petrol,1399000
+C0229,Tata,Nexon,SUV,2018,6,38000,Manual,First,Petrol,595000
+C0230,Toyota,Glanza,Hatchback,2021,3,28000,Automatic,Second,Petrol,750000
+C0231,Maruti Suzuki,Grand Vitara,SUV,2023,1,20000,Automatic,First,Petrol,1795000
+C0232,Kia,Seltos,SUV,2022,2,18000,Automatic,First,Petrol,1495000
+C0233,Mahindra,Scorpio N,SUV,2023,1,12000,Automatic,First,Diesel,2400000
+C0234,Hyundai,Alcazar,SUV,2022,2,33000,Automatic,First,Diesel,1899000
+C0235,Maruti Suzuki,Brezza,SUV,2022,2,33000,Automatic,First,Petrol,890000
+C0236,Hyundai,Verna,Sedan,2021,3,46000,Automatic,First,Petrol,1200000
+C0237,Hyundai,Creta,SUV,2021,3,25000,Manual,First,Petrol,1295000
+C0238,Renault,KWID,Hatchback,2017,7,33000,Automatic,Second,Petrol,375000
+C0239,MG,Hector,SUV,2019,5,16000,Automatic,Second,Petrol,1250000
+C0240,Hyundai,Creta,SUV,2019,5,38000,Automatic,Second,Petrol,950000
+C0241,Hyundai,Creta,SUV,2020,4,54000,Manual,First,Petrol,1090000
+C0242,Hyundai,Tucson,SUV,2021,3,29168,Automatic,First,Diesel,2600000
+C0243,Maruti Suzuki,Baleno,Hatchback,2019,5,21000,Manual,First,Petrol,675000
+C0244,Hyundai,Creta,SUV,2022,2,33000,Automatic,First,Diesel,1835000
+C0245,Honda,City,Sedan,2017,7,73000,Automatic,First,Petrol,590000
+C0246,Honda,City,Sedan,2017,7,81000,Automatic,First,Petrol,699000
+C0247,Hyundai,Creta,SUV,2023,1,34000,Automatic,First,Diesel,1950000
+C0248,Honda,City,Sedan,2016,8,40000,Manual,First,Petrol,625000
+C0249,Hyundai,Alcazar,SUV,2021,3,100000,Automatic,First,Diesel,1450000
+C0250,Hyundai,Creta,SUV,2018,6,54000,Manual,Second,Petrol,895000
+C0251,MG,Hector,SUV,2020,4,65000,Manual,Second,Petrol,1125000
+C0252,Hyundai,Verna,Sedan,2022,2,50000,Manual,First,Diesel,1200000
+C0253,Mahindra,Thar,SUV,2022,2,39000,Manual,First,Diesel,1450000
+C0254,Kia,Seltos,SUV,2021,3,35000,Automatic,First,Diesel,1735000
+C0255,Maruti Suzuki,Wagon R,Hatchback,2017,7,41000,Automatic,First,Petrol,465000
+C0256,Kia,Seltos,SUV,2019,5,22000,Automatic,Second,Petrol,1195000
+C0257,Mahindra,XUV700,SUV,2023,1,5000,Automatic,First,Diesel,2950000
+C0258,Hyundai,Creta,SUV,2019,5,50000,Manual,First,Petrol,975000
+C0259,Renault,Triber,MUV,2022,2,39000,Automatic,First,Diesel,750000
+C0260,Hyundai,Creta,SUV,2017,7,67000,Automatic,First,Petrol,790000
+C0261,Maruti Suzuki,Celerio,Hatchback,2016,8,94000,Automatic,Second,Petrol,305000
+C0262,Toyota,Fortuner,SUV,2023,1,19000,Automatic,First,Diesel,3950000
+C0263,Hyundai,Creta,SUV,2017,7,77000,Manual,First,Petrol,770000
+C0264,Tata,Harrier,SUV,2024,0,4200,Automatic,First,Diesel,2125000
+C0265,Tata,Harrier,SUV,2022,2,20000,Automatic,First,Diesel,2150000
+C0266,Maruti Suzuki,Baleno,Hatchback,2020,4,45124,Manual,First,Petrol,650000
+C0267,Maruti Suzuki,Ignis,Hatchback,2017,7,88000,Manual,Second,Petrol,410000
+C0268,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0269,Honda,City,Sedan,2018,6,82000,Manual,Second,Petrol,650000
+C0270,Toyota,Fortuner,SUV,2023,1,19500,Automatic,Second,Diesel,4370000
+C0271,Tata,Tigor,Sedan,2017,7,49000,Automatic,Second,Petrol,430000
+C0272,Honda,City,Sedan,2017,7,70000,Manual,Second,Petrol,685000
+C0273,Kia,Seltos,SUV,2021,3,35213,Automatic,First,Petrol,1095000
+C0274,Tata,Nexon,SUV,2020,4,30000,Manual,First,Petrol,775000
+C0275,Tata,Nexon,SUV,2019,5,31000,Manual,First,Petrol,600000
+C0276,Hyundai,Creta,SUV,2020,4,55000,Automatic,Second,Petrol,1325000
+C0277,Maruti Suzuki,Ertiga,MUV,2023,1,8500,Automatic,First,Petrol,1051000
+C0278,Maruti Suzuki,Baleno,Hatchback,2018,6,72000,Automatic,Second,Petrol,530000
+C0279,Maruti Suzuki,Swift,Hatchback,2016,8,1,Manual,First,Petrol,510000
+C0280,Toyota,Innova Crysta,MPV,2022,2,21000,Automatic,First,Diesel,2590000
+C0281,Tata,Harrier,SUV,2021,3,29336,Manual,First,Diesel,2185000
+C0282,Mahindra,Bolero Neo,SUV,2023,1,,Manual,First,Diesel,1000000
+C0283,Tata,Harrier,SUV,2022,2,48000,Automatic,First,Diesel,2099999
+C0284,Skoda,Kushaq,SUV,2024,0,13000,Automatic,First,Petrol,1475000
+C0285,Honda,Amaze,Sedan,2019,5,45000,Automatic,First,Petrol,649999
+C0286,Toyota,Land Cruiser,SUV,2023,1,15000,Automatic,First,Diesel,24700000
+C0287,Maruti Suzuki,Ignis,Hatchback,2018,6,31000,Manual,First,Petrol,419000
+C0288,Maruti Suzuki,Swift,Hatchback,2020,4,45000,Manual,First,Petrol,525000
+C0289,Hyundai,Verna,Sedan,2020,4,58000,Manual,Second,Petrol,950000
+C0290,Maruti Suzuki,Swift,Hatchback,2023,1,11000,Automatic,First,Petrol,815000
+C0291,Skoda,Slavia,Sedan,2022,2,40400,Automatic,First,Petrol,1451000
+C0292,Tata,Punch ,SUV,2022,2,7200,Manual,First,Petrol,6500000
+C0293,Skoda,Kushaq,SUV,2022,2,39500,Automatic,First,Petrol,1290000
+C0294,Maruti Suzuki,Alto K10,Hatchback,2018,6,10500,Automatic,Second,Petrol,375000
+C0295,Maruti Suzuki,Fronx,SUV,2023,1,13000,Automatic,First,Petrol,920000
+C0296,Mahindra,Thar,SUV,2021,3,45000,Manual,First,Petrol,1370000
+C0297,Maruti Suzuki,Celerio,Hatchback,2017,7,44000,Automatic,Second,Petrol,425000
+C0298,Honda,City,Sedan,2021,3,37000,Automatic,First,Petrol,1150000
+C0299,MG,Hector,SUV,2020,4,65000,Automatic,First,Petrol,1375000
+C0300,Hyundai,Creta,SUV,2017,7,69000,Automatic,Second,Petrol,785000
+C0301,Maruti Suzuki,Wagon-R,Hatchback,2016,8,79000,Manual,First,Petrol,380000
+C0302,MG,ASTOR,SUV,2023,1,24000,Automatic,First,Petrol,1640000
+C0303,Hyundai,Creta,SUV,2021,3,41000,Manual,First,Petrol,1050000
+C0304,Maruti Suzuki,Grand Vitara,SUV,2023,1,35000,Manual,First,Petrol,1275000
+C0305,Maruti Suzuki,Baleno,Hatchback,2021,3,38000,Manual,First,Petrol,750000
+C0306,Kia,Seltos,SUV,2020,4,16000,Automatic,First,Petrol,1385000
+C0307,Tata,Nexon,SUV,2018,6,62000,Automatic,Second,Petrol,675000
+C0308,Maruti Suzuki,Baleno,Hatchback,2022,2,41000,Manual,First,Petrol,640000
+C0309,Maruti Suzuki,Baleno,Hatchback,2018,6,110000,Manual,First,Petrol,585000
+C0310,MG,Hector,SUV,2020,4,40000,Automatic,First,Petrol,1321111
+C0311,Maruti Suzuki,Swift,Hatchback,2023,1,3,Manual,First,Petrol,760000
+C0312,Hyundai,Verna,Sedan,2019,5,55000,Manual,First,Petrol,850000
+C0313,Hyundai,Creta,SUV,2023,1,11000,Manual,First,Petrol,1340000
+C0314,Hyundai,New i20,Hatchback,2024,0,3500,Manual,First,Petrol,820000
+C0315,Maruti Suzuki,Wagon-R,Hatchback,2019,5,52468,Manual,First,Petrol,435000
+C0316,Volkswagen,Virtus,Sedan,2022,2,14000,Automatic,First,Petrol,1740000
+C0317,Maruti Suzuki,Swift,Hatchback,2016,8,60000,Manual,First,Petrol,359000
+C0318,Kia,Seltos,SUV,2023,1,12000,Automatic,First,Petrol,1625000
+C0319,Honda,Amaze,Sedan,2017,7,110000,Manual,Second,Petrol,420000
+C0320,Kia,Sonet,SUV,2021,3,34000,Automatic,First,Diesel,1295000
+C0321,MG,Hector,SUV,2021,3,24745,Automatic,Second,Petrol,1430000
+C0322,MG,Hector,SUV,2020,4,47000,Automatic,First,Petrol,1350000
+C0323,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0324,Toyota,Fortuner,SUV,2023,1,40000,Automatic,First,Diesel,4250000
+C0325,Hyundai,Verna,Sedan,2019,5,79146,Automatic,Second,Petrol,965000
+C0326,Maruti Suzuki,Ertiga,MUV,2019,5,47110,Manual,Second,Petrol,769000
+C0327,Maruti Suzuki,Swift,Hatchback,2018,6,29000,Automatic,First,Petrol,549000
+C0328,Maruti Suzuki,Wagon-R,Hatchback,2018,6,18052,Manual,Second,Petrol,371000
+C0329,Maruti Suzuki,Wagon-R,Hatchback,2020,4,26600,Automatic,First,Petrol,550000
+C0330,Hyundai,Creta,SUV,2021,3,38000,Manual,First,Diesel,1249000
+C0331,Mahindra,Bolero,SUV,2022,2,56800,Manual,First,Diesel,838000
+C0332,Kia,Seltos,SUV,2021,3,95000,Manual,Second,Diesel,1350000
+C0333,Maruti Suzuki,Ertiga,MUV,2019,5,15000,Automatic,Second,Petrol,1055000
+C0334,Tata,Nexon,SUV,2022,2,20000,Automatic,Second,Diesel,1000000
+C0335,Hyundai,Creta,SUV,2017,7,160000,Automatic,Second,Petrol,799000
+C0336,Toyota,Fortuner,SUV,2022,2,27000,Automatic,First,Diesel,4400000
+C0337,Tata,Nexon,SUV,2019,5,34000,Automatic,First,Petrol,875000
+C0338,Hyundai,New i20,Hatchback,2023,1,46000,Manual,First,Petrol,725000
+C0339,Kia,Seltos,SUV,2022,2,79000,Automatic,Second,Diesel,1650000
+C0340,Tata,Tiago,Hatchback,2017,7,80000,Manual,Second,Petrol,325000
+C0341,Maruti Suzuki,Swift,Hatchback,2020,4,46000,Manual,First,Petrol,655000
+C0342,Mahindra,Thar,SUV,2021,3,20000,Manual,First,Diesel,1199000
+C0343,Renault,KWID,Hatchback,2017,7,42193,Automatic,Second,Petrol,390000
+C0344,Maruti Suzuki,Ignis,Hatchback,2018,6,52000,Automatic,First,Petrol,480000
+C0345,Maruti Suzuki,XL6,MUV,2022,2,26000,Manual,First,Petrol,935000
+C0346,MG,Hector,SUV,2023,1,17000,Automatic,First,Petrol,2025000
+C0347,Toyota,Innova Crysta,MPV,2022,2,80000,Manual,First,Diesel,2720000
+C0348,Hyundai,Creta,SUV,2017,7,50000,Manual,First,Petrol,799999
+C0349,Hyundai,Verna,Sedan,2023,1,23000,Automatic,First,Petrol,1525000
+C0350,Maruti Suzuki,Grand Vitara,SUV,2022,2,27000,Manual,First,Petrol,1575000
+C0351,Maruti Suzuki,Ertiga,MUV,2020,4,40000,Automatic,First,Petrol,900000
+C0352,Toyota,Fortuner,SUV,2022,2,61000,Automatic,First,Diesel,3600000
+C0353,Hyundai,Alcazar,SUV,2023,1,24000,Automatic,Second,Diesel,1975000
+C0354,Renault,Kiger,SUV,2021,3,12300,Manual,Second,Petrol,580000
+C0355,Renault,Kiger,SUV,2022,2,11425,Automatic,First,Petrol,749000
+C0356,Honda,City,Sedan,2017,7,55000,Manual,Second,Petrol,625000
+C0357,Hyundai,Creta,SUV,2022,2,25000,Automatic,First,Petrol,1650000
+C0358,Hyundai,Creta,SUV,2019,5,52000,Automatic,First,Petrol,1075000
+C0359,Maruti Suzuki,Baleno,Hatchback,2019,5,50000,Manual,First,Petrol,575000
+C0360,Maruti Suzuki,Wagon R,Hatchback,2016,8,55000,Manual,Second,Petrol,315000
+C0361,Hyundai,Creta,SUV,2019,5,78000,Automatic,First,Petrol,1045000
+C0362,Honda,Amaze,Sedan,2019,5,67000,Automatic,Second,Petrol,575000
+C0363,Toyota,Fortuner,SUV,2022,2,50000,Manual,First,Diesel,4000000
+C0364,Maruti Suzuki,Baleno,Hatchback,2017,7,46000,Manual,First,Petrol,421000
+C0365,Maruti Suzuki,Swift,Hatchback,2019,5,98000,Automatic,First,Petrol,640000
+C0366,Mahindra,Scorpio N,SUV,2023,1,60000,Automatic,First,Diesel,1951000
+C0367,Maruti Suzuki,Baleno,Hatchback,2019,5,35000,Automatic,First,Petrol,700000
+C0368,Hyundai,Venue,SUV,2021,3,68000,Automatic,Second,Petrol,820000
+C0369,Tata,Nexon,SUV,2020,4,18231,Manual,First,Petrol,539101
+C0370,MG,ASTOR,SUV,2024,0,8000,Automatic,First,Petrol,1800000
+C0371,Maruti Suzuki,Baleno,Hatchback,2017,7,81000,Manual,Second,Petrol,575000
+C0372,Tata,Altroz,Hatchback,2020,4,12600,Manual,First,Petrol,575000
+C0373,Maruti Suzuki,S-Presso,Hatchback,2019,5,17000,Automatic,Second,Petrol,390000
+C0374,Kia,Seltos,SUV,2020,4,49900,Manual,First,Petrol,999000
+C0375,Kia,Seltos,SUV,2021,3,58000,Automatic,First,Petrol,1299999
+C0376,Hyundai,Creta,SUV,2016,8,62000,Manual,First,Petrol,645000
+C0377,MG,Hector,SUV,2020,4,27000,Automatic,Second,Petrol,1300000
+C0378,Tata,Tiago,Hatchback,2017,7,39065,Manual,First,Petrol,448000
+C0379,Maruti Suzuki,Ertiga,MUV,2017,7,44000,Automatic,First,Petrol,785000
+C0380,Hyundai,Venue,SUV,2021,3,33000,Manual,First,Petrol,795000
+C0381,Toyota,Innova Crysta,MPV,2022,2,32500,Manual,First,Diesel,2900000
+C0382,Maruti Suzuki,Celerio,Hatchback,2017,7,57000,Automatic,Second,Petrol,319000
+C0383,Mahindra,Thar,SUV,2021,3,55000,Automatic,First,Petrol,1175000
+C0384,Hyundai,Venue,SUV,2022,2,53000,Manual,Second,Petrol,955000
+C0385,Hyundai,Verna,Sedan,2019,5,37000,Manual,Second,Petrol,825000
+C0386,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0387,Honda,City,Sedan,2022,2,16000,Automatic,First,Petrol,1385000
+C0388,Hyundai,Verna,Sedan,2022,2,40000,Automatic,First,Diesel,1399000
+C0389,Maruti Suzuki,Celerio,Hatchback,2022,2,39270,Automatic,First,Petrol,585000
+C0390,Maruti Suzuki,XL6,MUV,2020,4,38000,Manual,First,Petrol,1150000
+C0391,Maruti Suzuki,XL6,MUV,2019,5,61231,Automatic,First,Petrol,825101
+C0392,Kia,Carens,MPV,2022,2,24000,Automatic,First,Diesel,1920000
+C0393,Maruti Suzuki,S-Presso,Hatchback,2021,3,14000,Automatic,First,Petrol,475000
+C0394,Tata,Tiago,Hatchback,2017,7,71352,Manual,Second,Petrol,325000
+C0395,Honda,City,Sedan,2018,6,15000,Manual,First,Petrol,769999
+C0396,Hyundai,Verna,Sedan,2021,3,65000,Manual,Second,Petrol,890000
+C0397,Kia,Sonet,SUV,2021,3,730000,Automatic,Second,Petrol,930000
+C0398,Tata,Altroz,Hachback,2023,1,59500,Manual,First,Diesel,950000
+C0399,Honda,City,Sedan,2019,5,49000,Automatic,First,Petrol,1021000
+C0400,Renault,KWID,Hatchback,2018,6,38000,Automatic,Second,Petrol,380000
+C0401,Mahindra,Thar,SUV,2022,2,58600,Automatic,First,Diesel,1800000
+C0402,Renault,KWID,Hatchback,2021,3,7000,Manual,First,Petrol,385000
+C0403,Tata,Nexon,SUV,2022,2,5000,Automatic,First,Petrol,1125000
+C0404,Maruti Suzuki,Wagon-R,Hatchback,2017,7,36000,Manual,First,Petrol,394000
+C0405,Honda,City,Sedan,2021,3,38000,Automatic,First,Petrol,1195000
+C0406,Renault,Triber,MUV,2020,4,27500,Manual,First,Petrol,520000
+C0407,Honda,City,Sedan,2018,6,38000,Automatic,Second,Petrol,715000
+C0408,Maruti Suzuki,S-Presso,Hatchback,2020,4,55000,Manual,Second,Petrol,340000
+C0409,Kia,Sonet,SUV,2022,2,29000,Automatic,First,Diesel,1260000
+C0410,Maruti Suzuki,Grand Vitara,SUV,2024,0,2480,Manual,First,Petrol,1350000
+C0411,Maruti Suzuki,Wagon-R,Hatchback,2017,7,82000,Manual,Second,Petrol,395000
+C0412,Maruti Suzuki,Celerio,Hatchback,2017,7,80000,Manual,Second,Petrol,240000
+C0413,Kia,Seltos,SUV,2022,2,85000,Manual,First,Diesel,1160000
+C0414,Renault,KWID,Hatchback,2017,7,65663,Automatic,Second,Petrol,325000
+C0415,Hyundai,Creta,SUV,2022,2,25000,Automatic,First,Petrol,1650000
+C0416,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0417,Hyundai,Creta,SUV,2022,2,48000,Manual,First,Diesel,1620000
+C0418,Maruti Suzuki,Ertiga,MUV,2019,5,38500,Manual,Second,Petrol,799000
+C0419,Honda,City,Sedan,2020,4,60766,Automatic,First,Petrol,1150000
+C0420,Maruti Suzuki,XL6,MUV,2019,5,52500,Manual,Second,Petrol,875000
+C0421,Maruti Suzuki,XL6,MUV,2021,3,45000,Manual,Second,Petrol,1025000
+C0422,Honda,City,Sedan,2020,4,69000,Manual,First,Petrol,899000
+C0423,Maruti Suzuki,Jimny,SUV,2023,1,1800,Automatic,First,Petrol,1450000
+C0424,Hyundai,Grand i10 Nios,Hatchback,2020,4,40000,Manual,First,Petrol,565000
+C0425,Maruti Suzuki,Wagon-R,Hatchback,2016,8,14352,Automatic,Second,Petrol,372000
+C0426,Honda,City,Sedan,2016,8,59000,Automatic,Second,Petrol,725000
+C0427,Renault,KWID,Hatchback,2019,5,34000,Automatic,First,Petrol,365000
+C0428,Honda,City,Sedan,2021,3,38000,Automatic,First,Petrol,1198000
+C0429,Toyota,Glanza,Hatchback,2021,3,22000,Manual,Second,Petrol,840000
+C0430,Tata,Tiago,Hatchback,2017,7,29000,Manual,First,Petrol,410000
+C0431,Hyundai,Creta,SUV,2021,3,33000,Automatic,First,Petrol,1245000
+C0432,Renault,KWID,Hatchback,2019,5,5800,Automatic,First,Petrol,299000
+C0433,Maruti Suzuki,Swift,Hatchback,2018,6,45000,Manual,First,Petrol,545000
+C0434,Maruti Suzuki,Wagon-R,Hatchback,2016,8,48231,Manual,First,Petrol,335101
+C0435,Maruti Suzuki,Celerio,Hatchback,2019,5,65000,Manual,First,Petrol,480000
+C0436,Toyota,Fortuner,SUV,2021,3,65000,Automatic,First,Diesel,3851000
+C0437,Maruti Suzuki,Swift,Hatchback,2022,2,33000,Automatic,First,Petrol,755000
+C0438,Renault,KWID,Hatchback,2016,8,13340,Automatic,First,Petrol,335000
+C0439,Hyundai,Creta,SUV,2023,1,21000,Manual,First,Diesel,1495000
+C0440,Hyundai,Creta,SUV,2024,0,3100,Automatic,First,Petrol,2190000
+C0441,Maruti Suzuki,Baleno,Hatchback,2018,6,31000,Automatic,First,Petrol,685000
+C0442,Toyota,Fortuner,SUV,2022,2,35000,Automatic,First,Diesel,4200000
+C0443,Mahindra,XUV700,SUV,2023,1,17000,Automatic,First,Diesel,2570000
+C0444,Kia,Seltos,SUV,2021,3,46000,Manual,First,Diesel,1085000
+C0445,Maruti Suzuki,Swift,Hatchback,2021,3,15505,Manual,Second,Petrol,590000
+C0446,Maruti Suzuki,S-Presso,Hatchback,2022,2,25000,Automatic,First,Petrol,525000
+C0447,Maruti Suzuki,Eeco,MPV,2020,4,32000,Manual,First,Petrol,460000
+C0448,Renault,KWID,Hatchback,2017,7,60000,Automatic,First,Petrol,310000
+C0449,Toyota,Innova Crysta,MPV,2022,2,15000,Manual,First,Diesel,2340000
+C0450,Hyundai,Verna,Sedan,2016,8,57000,Manual,First,Petrol,590000
+C0451,Maruti Suzuki,Celerio,Hatchback,2020,4,28000,Manual,First,Petrol,500000
+C0452,Honda,City,Sedan,2017,7,55000,Automatic,Second,Petrol,721000
+C0453,Hyundai,Creta,SUV,2022,2,112000,Manual,First,Diesel,1375000
+C0454,Toyota,Fortuner,SUV,2022,2,45000,Automatic,First,Diesel,4100000
+C0455,Maruti Suzuki,Ignis,Hatchback,2018,6,44000,Manual,First,Petrol,460000
+C0456,Mahindra,XUV700,SUV,2022,2,75000,Automatic,First,Diesel,1800000
+C0457,Maruti Suzuki,Swift,Hatchback,2017,7,25000,Manual,Second,Petrol,415000
+C0458,Hyundai,Creta,SUV,2020,4,67000,Automatic,First,Petrol,1465000
+C0459,Hyundai,Verna,Sedan,2019,5,56000,Automatic,First,Petrol,775000
+C0460,Honda,City,Sedan,2017,7,49000,Automatic,First,Petrol,885000
+C0461,Renault,KWID,Hatchback,2017,7,63663,Automatic,Second,Petrol,325000
+C0462,Maruti Suzuki,Swift,Hatchback,2018,6,62000,Manual,First,Petrol,515000
+C0463,MG,Hector,SUV,2023,1,20000,Automatic,Second,Petrol,1750000
+C0464,Maruti Suzuki,Wagon-R,Hatchback,2017,7,43000,Automatic,Second,Petrol,425000
+C0465,Tata,Nexon,SUV,2020,4,69000,Automatic,First,Petrol,624000
+C0466,Honda,City,Sedan,2016,8,67000,Automatic,Second,Petrol,675000
+C0467,Maruti Suzuki,Swift,Hatchback,2024,0,2600,Automatic,First,Petrol,865000
+C0468,Tata,Altroz,Hatchback,2022,2,11400,Manual,First,Petrol,699000
+C0469,Toyota,Fortuner,SUV,2023,1,20000,Automatic,First,Diesel,3850000
+C0470,Maruti Suzuki,Alto-K10,Hatchback,2017,7,84000,Manual,Second,Petrol,300000
+C0471,Maruti Suzuki,Dzire,Sedan,2021,3,15000,Automatic,First,Petrol,795000
+C0472,Hyundai,Aura,Sedan,2021,3,20000,Manual,Second,Petrol,565000
+C0473,Maruti Suzuki,Swift,Hatchback,2023,1,16000,Automatic,First,Petrol,845000
+C0474,Maruti Suzuki,Swift,Hatchback,2023,1,11000,Automatic,First,Petrol,725000
+C0475,Maruti Suzuki,Ertiga,MUV,2020,4,18000,Manual,First,Petrol,899000
+C0476,Maruti Suzuki,Eeco,MPV,2020,4,30000,Automatic,First,Petrol,350000
+C0477,Skoda,Kodiaq,SUV,2021,3,25296,Automatic,First,Petrol,3299000
+C0478,Toyota,Fortuner,SUV,2023,1,6400,Automatic,First,Diesel,4250000
+C0479,Hyundai,Alcazar,SUV,2021,3,40500,Automatic,First,Petrol,1659000
+C0480,MG,Hector,SUV,2020,4,45000,Automatic,Second,Petrol,1225000
+C0481,MG,Hector,SUV,2023,1,7600,Automatic,First,Petrol,2185000
+C0482,Maruti Suzuki,Alto-K10,Hatchback,2016,8,75000,Manual,Second,Petrol,238000
+C0483,Maruti Suzuki,Alto-K10,Hatchback,2018,6,46000,Automatic,First,Petrol,345000
+C0484,Renault,KWID,Hatchback,2019,5,60000,Automatic,Second,Petrol,320000
+C0485,MG,Hector,SUV,2021,3,36000,Automatic,First,Petrol,1600000
+C0486,Tata,Harrier,SUV,2022,2,31000,Automatic,First,Diesel,2050000
+C0487,Hyundai,Grand i10 Nios,Hatchback,2022,2,18400,Automatic,First,Petrol,850000
+C0488,Tata,Tigor,Sedan,2022,2,4600,Automatic,Second,Petrol,675000
+C0489,Maruti Suzuki,Swift,Hatchback,2018,6,66000,Automatic,Second,Petrol,575000
+C0490,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0491,Maruti Suzuki,Wagon-R,Hatchback,2018,6,62000,Manual,Second,Petrol,397000
+C0492,Hyundai,Venue,SUV,2022,2,3000,Manual,First,Petrol,1160000
+C0493,Hyundai,Creta,SUV,2020,4,70000,Automatic,Second,Petrol,1155000
+C0494,Maruti Suzuki,Baleno,Hatchback,2020,4,52450,Manual,First,Petrol,610000
+C0495,Maruti Suzuki,Wagon-R,Hatchback,2017,7,95000,Manual,Second,Petrol,280000
+C0496,Maruti Suzuki,Swift,Hatchback,2021,3,38000,Manual,First,Petrol,715000
+C0497,Renault,Triber,MUV,2022,2,35000,Automatic,First,Petrol,735000
+C0498,Maruti Suzuki,Alto-K10,Hatchback,2016,8,41000,Automatic,Second,Petrol,255000
+C0499,Renault,Triber,MUV,2020,4,26700,Automatic,First,Petrol,624999
+C0500,Kia,Seltos,SUV,2022,2,20890,Automatic,Second,Petrol,1445000
+C0501,Mahindra,Thar,SUV,2021,3,26000,Automatic,Second,Petrol,1490000
+C0502,Maruti Suzuki,Ignis,Hatchback,2022,2,33506,Manual,First,Petrol,544000
+C0503,Hyundai,Venue,SUV,2020,4,30000,Automatic,First,Petrol,890000
+C0504,Renault,Triber,MUV,2020,4,26000,Automatic,First,Petrol,625000
+C0505,Mahindra,Thar,SUV,2021,3,34000,Automatic,First,Petrol,1325000
+C0506,Honda,City,Sedan,2022,2,27000,Manual,First,Petrol,1098000
+C0507,Hyundai,Grand i10 Nios,Hatchback,2020,4,100000,Manual,First,Petrol,549000
+C0508,Maruti Suzuki,Wagon-R,Hatchback,2017,7,79000,Automatic,First,Petrol,440000
+C0509,Toyota,Glanza,Hatchback,2019,5,64000,Manual,First,Petrol,689000
+C0510,Mahindra,Thar,SUV,2022,2,27000,Automatic,Second,Petrol,1290000
+C0511,Renault,KWID,Hatchback,2016,8,23,Manual,Second,Petrol,210000
+C0512,Honda,City,Sedan,2016,8,33950,Automatic,First,Petrol,650000
+C0513,Tata,Altroz,Hatchback,2020,4,74000,Manual,First,Petrol,580000
+C0514,Mahindra,Scorpio N,SUV,2022,2,29000,Automatic,First,Diesel,2149999
+C0515,MG,ASTOR,SUV,2022,2,47200,Automatic,First,Petrol,1190000
+C0516,Maruti Suzuki,Celerio,Hatchback,2018,6,82000,Automatic,First,Petrol,425000
+C0517,Toyota,Glanza,Hatchback,2022,2,9000,Manual,First,Petrol,775000
+C0518,Kia,Seltos,SUV,2022,2,25000,Automatic,First,Petrol,1525000
+C0519,Hyundai,Creta,SUV,2019,5,64000,Automatic,First,Petrol,1040000
+C0520,Renault,KWID,Hatchback,2017,7,65000,Automatic,Second,Petrol,320000
+C0521,Maruti Suzuki,Swift,Hatchback,2019,5,58900,Automatic,First,Petrol,495000
+C0522,Maruti Suzuki,Swift,Hatchback,2022,2,52000,Automatic,First,Petrol,645000
+C0523,Honda,City,Sedan,2021,3,43000,Automatic,First,Petrol,1040000
+C0524,Maruti Suzuki,Wagon-R,Hatchback,2019,5,25000,Automatic,Second,Petrol,525000
+C0525,Hyundai,Verna,Sedan,2018,6,74000,Automatic,First,Petrol,880000
+C0526,Tata,Nexon,SUV,2018,6,52000,Automatic,First,Petrol,645000
+C0527,Mahindra,Thar,SUV,2022,2,32500,Automatic,First,Diesel,1775000
+C0528,Maruti Suzuki,Swift,Hatchback,2022,2,60000,Manual,Second,Petrol,550000
+C0529,Skoda,Kushaq,SUV,2023,1,17694,Automatic,First,Petrol,1850000
+C0530,Maruti Suzuki,XL6,MUV,2021,3,25524,Automatic,First,Petrol,1149000
+C0531,MG,Hector,SUV,2023,1,42000,Manual,First,Diesel,2025000
+C0532,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0533,Honda,Amaze,Sedan,2022,2,16000,Manual,First,Petrol,665000
+C0534,Toyota,Fortuner,SUV,2021,3,36000,Automatic,First,Diesel,3750000
+C0535,Maruti Suzuki,Celerio,Hatchback,2018,6,55000,Automatic,First,Petrol,392000
+C0536,Renault,KWID,Hatchback,2016,8,77000,Manual,First,Petrol,255000
+C0537,Hyundai,Creta,SUV,2021,3,45000,Automatic,First,Diesel,1699000
+C0538,Maruti Suzuki,Alto-K10,Hatchback,2019,5,80000,Automatic,Second,Petrol,280000
+C0539,Maruti Suzuki,Wagon R,Hatchback,2018,6,64000,Automatic,First,Petrol,451000
+C0540,Maruti Suzuki,Celerio,Hatchback,2017,7,61000,Automatic,Second,Petrol,455000
+C0541,Honda,Amaze,Sedan,2021,3,78000,Automatic,Second,Diesel,1075000
+C0542,Hyundai,Creta,SUV,2019,5,29569,Automatic,First,Petrol,1100000
+C0543,Mahindra,Thar,SUV,2024,0,8000,Manual,First,Diesel,1550000
+C0544,Maruti Suzuki,Grand Vitara,SUV,2023,1,8400,Manual,First,Petrol,1450000
+C0545,Maruti Suzuki,Ignis,Hatchback,2019,5,520000,Manual,First,Petrol,450000
+C0546,Renault,KWID,Hatchback,2016,8,88000,Automatic,Second,Petrol,180000
+C0547,Honda,City,Sedan,2022,2,10000,Automatic,First,Petrol,1299000
+C0548,Tata,Nexon,SUV,2020,4,55000,Automatic,First,Petrol,695000
+C0549,Kia,Sonet,SUV,2020,4,20200,Automatic,First,Petrol,1000000
+C0550,Maruti Suzuki,Eeco,MPV,2023,1,35000,Manual,Second,Petrol,600000
+C0551,Kia,Seltos,SUV,2021,3,9020,Manual,First,Petrol,1300000
+C0552,Hyundai,Verna,Sedan,2018,6,51000,Manual,Second,Petrol,695000
+C0553,Kia,Sonet,SUV,2021,3,84000,Automatic,First,Petrol,875000
+C0554,Tata,Tigor,Sedan,2019,5,67321,Manual,First,Petrol,389101
+C0555,Renault,KWID,Hatchback,2021,3,73146,Manual,First,Petrol,300000
+C0556,Hyundai,Verna,Sedan,2021,3,55000,Manual,First,Petrol,1045000
+C0557,Kia,Seltos,SUV,2021,3,47000,Automatic,First,Petrol,1475000
+C0558,Renault,Kiger,SUV,2022,2,10000,Automatic,First,Petrol,695000
+C0559,Maruti Suzuki,Swift,Hatchback,2016,8,102000,Manual,Second,Petrol,385000
+C0560,Maruti Suzuki,Ertiga,MUV,2018,6,65000,Automatic,Second,Petrol,675000
+C0561,Skoda,Slavia,Sedan,2022,2,4950,Automatic,First,Petrol,1670000
+C0562,Renault,Triber,MUV,2020,4,17000,Manual,First,Petrol,545000
+C0563,Mahindra,XUV700,SUV,2022,2,39000,Automatic,First,Petrol,1950000
+C0564,Hyundai,Creta,SUV,2019,5,68000,Automatic,Second,Petrol,1175000
+C0565,Kia,Sonet,SUV,2020,4,35000,Manual,First,Petrol,950000
+C0566,Honda,City,Sedan,2016,8,74000,Automatic,Second,Petrol,590000
+C0567,Hyundai,Creta,SUV,2017,7,60000,Automatic,First,Petrol,850000
+C0568,Maruti Suzuki,Baleno,Hatchback,2021,3,50000,Manual,First,Petrol,755000
+C0569,Hyundai,Creta,SUV,2017,7,82000,Automatic,First,Petrol,830000
+C0570,Kia,Seltos,SUV,2021,3,39000,Automatic,First,Petrol,1400000
+C0571,Honda,Amaze,Sedan,2021,3,78000,Automatic,Second,Diesel,1075000
+C0572,Renault,KWID,Hatchback,2016,8,50588,Manual,Second,Petrol,325000
+C0573,Honda,City,Sedan,2016,8,79000,Automatic,Second,Petrol,675000
+C0574,Maruti Suzuki,XL6,MUV,2019,5,40000,Automatic,First,Petrol,1125000
+C0575,Tata,Nexon,SUV,2023,1,7800,Automatic,First,Petrol,895000
+C0576,Honda,Amaze,Sedan,2016,8,64000,Manual,Second,Petrol,415000
+C0577,Hyundai,Creta,SUV,2017,7,66000,Manual,Second,Petrol,675000
+C0578,Kia,Sonet,SUV,2024,0,800,Manual,First,Petrol,170000
+C0579,Renault,KWID,Hatchback,2017,7,62000,Automatic,First,Petrol,399999
+C0580,Maruti Suzuki,Alto-K10,Hatchback,2018,6,72000,Automatic,First,Petrol,370000
+C0581,Maruti Suzuki,Eeco,MPV,2018,6,68321,Manual,First,Petrol,335101
+C0582,Maruti Suzuki,Swift,Hatchback,2016,8,61000,Manual,First,Petrol,359000
+C0583,Maruti Suzuki,Wagon R,Hatchback,2017,7,74000,Automatic,First,Petrol,449000
+C0584,Mahindra,Thar,SUV,2021,3,16700,Automatic,First,Diesel,1750000
+C0585,Maruti Suzuki,Dzire,Sedan,2018,6,25000,Automatic,Second,Petrol,630000
+C0586,Hyundai,Creta,SUV,2019,5,68000,Automatic,Second,Petrol,1175000
+C0587,Hyundai,Venue,SUV,2021,3,40000,Manual,First,Petrol,765000
+C0588,Mahindra,Scorpio Classic,SUV,2023,1,28000,Manual,First,Diesel,1750000
+C0589,Maruti Suzuki,Swift,Hatchback,2020,4,20000,Manual,First,Petrol,549000
+C0590,Hyundai,Venue,SUV,2022,2,32000,Manual,First,Petrol,975000
+C0591,Toyota,Innova Crysta,MPV,2021,3,111000,Automatic,First,Diesel,2425000
+C0592,Renault,KWID,Hatchback,2017,7,65663,Automatic,Second,Petrol,325000
+C0593,Nissan,Magnite,SUV,2021,3,62000,Manual,First,Petrol,540000
+C0594,Maruti Suzuki,Baleno,Hatchback,2022,2,27000,Manual,First,Petrol,960000
+C0595,Honda,Amaze,Sedan,2022,2,25000,Manual,First,Petrol,765000
+C0596,Maruti Suzuki,Baleno,Hatchback,2020,4,31000,Manual,First,Petrol,690000
+C0597,Maruti Suzuki,Wagon-R,Hatchback,2018,6,48231,Automatic,First,Petrol,385101
+C0598,Hyundai,Creta,SUV,2018,6,760000,Manual,Second,Petrol,885000
+C0599,Hyundai,Alcazar,SUV,2021,3,23000,Automatic,Second,Petrol,1599999
+C0600,Hyundai,Creta,SUV,2022,2,16000,Manual,First,Petrol,1098000
+C0601,MG,Gloster,SUV,2022,2,39000,Automatic,First,Diesel,3290000
+C0602,Honda,Amaze,Sedan,2019,5,44000,Manual,First,Petrol,550000
+C0603,Hyundai,Alcazar,SUV,2021,3,58000,Automatic,First,Diesel,1985000
+C0604,MG,Hector,SUV,2019,5,72000,Automatic,First,Petrol,1025000
+C0605,Hyundai,Creta,SUV,2018,6,23000,Automatic,First,Petrol,985111
+C0606,Tata,Nexon,SUV,2019,5,49000,Manual,First,Petrol,650000
+C0607,Toyota,Fortuner,SUV,2021,3,78000,Automatic,First,Diesel,3651000
+C0608,Toyota,Innova Crysta,MPV,2021,3,67000,Automatic,First,Diesel,1875000
+C0609,Maruti Suzuki,Wagon-R,Hatchback,2019,5,25000,Automatic,Second,Petrol,525000
+C0610,Hyundai,Creta,SUV,2022,2,42000,Manual,First,Diesel,1390000
+C0611,Hyundai,Aura,Sedan,2021,3,25000,Manual,Second,Petrol,575000
+C0612,Toyota,Urban Cruiser Hyryder,SUV,2023,1,8000,Automatic,First,Petrol,1890000
+C0613,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0614,Maruti Suzuki,Ertiga,MUV,2022,2,22000,Manual,Second,Petrol,960000
+C0615,Toyota,Fortuner,SUV,2024,0,24000,Manual,First,Diesel,4550000
+C0616,Maruti Suzuki,Celerio,Hatchback,2022,2,20000,Automatic,First,Diesel,625000
+C0617,Tata,Tiago,Hatchback,2018,6,52000,Automatic,First,Petrol,495000
+C0618,Toyota,Urban Cruiser Hyryder,SUV,2023,1,24000,Automatic,First,Petrol,1895000
+C0619,Maruti Suzuki,Eeco,MPV,2021,3,19000,Automatic,Second,Petrol,400000
+C0620,Kia,Sonet,SUV,2020,4,47000,Automatic,First,Petrol,1165000
+C0621,Mahindra,Scorpio-N,SUV,2023,1,20000,Automatic,First,Diesel,2550000
+C0622,Maruti Suzuki,Baleno,Hatchback,2016,8,45000,Manual,Second,Petrol,545000
+C0623,Hyundai,Creta,SUV,2019,5,21000,Manual,First,Petrol,870000
+C0624,MG,Hector,SUV,2021,3,39652,Manual,First,Diesel,1305000
+C0625,Tata,Nexon,SUV,2022,2,13000,Manual,First,Petrol,899000
+C0626,Maruti Suzuki,Baleno,Hatchback,2018,6,65000,Manual,Second,Petrol,525000
+C0627,Renault,Triber,MUV,2019,5,43000,Manual,First,Petrol,565000
+C0628,Hyundai,Venue,SUV,2021,3,28000,Manual,First,Diesel,1050000
+C0629,Maruti Suzuki,Jimny,SUV,2024,0,11000,Automatic,First,Petrol,1190000
+C0630,Hyundai,Creta,SUV,2019,5,68000,Automatic,Second,Petrol,1175000
+C0631,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0632,Maruti Suzuki,Brezza,SUV,2022,2,33000,Automatic,First,Petrol,890000
+C0633,Hyundai,New i20,Hatchback,2023,1,7200,Manual,First,Petrol,900000
+C0634,Maruti Suzuki,Alto K10,Hatchback,2017,7,27000,Automatic,Second,Petrol,380000
+C0635,Maruti Suzuki,Baleno,Hatchback,2018,6,30000,Manual,Second,Petrol,699000
+C0636,Kia,Seltos,SUV,2022,2,30000,Automatic,First,Diesel,1870000
+C0637,Mahindra,Thar,SUV,2021,3,41000,Automatic,First,Diesel,1470000
+C0638,Hyundai,Creta,SUV,2020,4,70000,Automatic,Second,Petrol,1155000
+C0639,Hyundai,Alcazar,SUV,2022,2,37000,Automatic,First,Diesel,1815000
+C0640,MG,Gloster,SUV,2022,2,84000,Automatic,First,Diesel,3400000
+C0641,Maruti Suzuki,Alto-K10,Hatchback,2017,7,43400,Automatic,First,Petrol,275000
+C0642,Maruti Suzuki,Swift,Hatchback,2019,5,49805,Manual,First,Petrol,545000
+C0643,Maruti Suzuki,Swift,Hatchback,2019,5,7000,Automatic,Second,Petrol,650000
+C0644,Hyundai,i20 N Line,Hatchback,2023,1,14800,Automatic,First,Petrol,1050000
+C0645,MG,ASTOR,SUV,2022,2,16000,Automatic,First,Petrol,1125000
+C0646,Maruti Suzuki,Swift,Hatchback,2021,3,34000,Manual,Second,Petrol,670000
+C0647,Maruti Suzuki,Baleno,Hatchback,2020,4,40000,Manual,First,Petrol,695000
+C0648,MG,Hector,SUV,2019,5,49067,Automatic,First,Petrol,1475000
+C0649,Tata,Nexon,SUV,2021,3,25945,Automatic,First,Petrol,1045000
+C0650,Maruti Suzuki,Baleno,Hatchback,2022,2,54000,Manual,First,Petrol,725000
+C0651,Toyota,Glanza,Hatchback,2022,2,51321,Manual,First,Petrol,625101
+C0652,Maruti Suzuki,Celerio,Hatchback,2018,6,45000,Automatic,Second,Petrol,475000
+C0653,Maruti Suzuki,Swift,Hatchback,2020,4,37540,Automatic,First,Petrol,640000
+C0654,Renault,KWID,Hatchback,2018,6,42000,Manual,First,Petrol,360000
+C0655,Hyundai,Grand i10 Nios,Hatchback,2020,4,100000,Manual,First,Petrol,549000
+C0656,Maruti Suzuki,Swift,Hatchback,2018,6,22000,Manual,Second,Petrol,590000
+C0657,Maruti Suzuki,S-Presso,Hatchback,2021,3,,Automatic,First,Petrol,425000
+C0658,Skoda,Slavia,Sedan,2024,0,3000,Automatic,First,Petrol,1650000
+C0659,MG,Hector,SUV,2020,4,80000,Automatic,First,Petrol,1250000
+C0660,Hyundai,Aura,Sedan,2020,4,53000,Manual,First,Petrol,650000
+C0661,Renault,KWID,Hatchback,2017,7,63663,Automatic,Second,Petrol,325000
+C0662,Honda,City,Sedan,2018,6,70000,Manual,Second,Petrol,595000
+C0663,Honda,City,Sedan,2018,6,76000,Automatic,Second,Petrol,850000
+C0664,Tata,Nexon,SUV,2019,5,36788,Automatic,Second,Petrol,780000
+C0665,Maruti Suzuki,Swift,Hatchback,2019,5,53000,Manual,First,Petrol,500000
+C0666,Toyota,Innova Crysta,MPV,2021,3,43000,Automatic,First,Diesel,2100000
+C0667,Kia,Seltos,SUV,2020,4,52000,Automatic,First,Petrol,1225000
+C0668,Hyundai,Venue,SUV,2019,5,68216,Manual,Second,Petrol,650000
+C0669,Renault,KWID,Hatchback,2016,8,77000,Automatic,Second,Petrol,195000
+C0670,Volkswagen,Taigun,SUV,2022,2,55000,Automatic,Second,Petrol,1425000
+C0671,Kia,Sonet,SUV,2021,3,61000,Automatic,Second,Petrol,795000
+C0672,Maruti Suzuki,Celerio,Hatchback,2016,8,42114,Automatic,First,Petrol,395000
+C0673,Hyundai,Grand i10 Nios,Hatchback,2021,3,51000,Manual,First,Petrol,650000
+C0674,MG,Hector,SUV,2021,3,48000,Automatic,Second,Petrol,1375000
+C0675,Maruti Suzuki,Swift,Hatchback,2017,7,57000,Manual,Second,Petrol,399500
+C0676,Maruti Suzuki,Eeco,MPV,2022,2,40000,Manual,Second,Petrol,525000
+C0677,Skoda,Slavia,Sedan,2022,2,72000,Manual,First,Petrol,1189000
+C0678,Maruti Suzuki,Baleno,Hatchback,2019,5,46000,Automatic,First,Petrol,649000
+C0679,Maruti Suzuki,Wagon-R,Hatchback,2021,3,21000,Manual,First,Petrol,565000
+C0680,Maruti Suzuki,Swift,Hatchback,2020,4,63110,Automatic,First,Petrol,595000
+C0681,Toyota,Fortuner,SUV,2022,2,22310,Automatic,First,Diesel,4400000
+C0682,Maruti Suzuki,Swift,Hatchback,2018,6,60000,Automatic,Second,Petrol,513000
+C0683,Maruti Suzuki,Swift,Hatchback,2017,7,120000,Manual,First,Petrol,490000
+C0684,Honda,Amaze,Sedan,2017,7,75600,Manual,First,Petrol,490000
+C0685,Maruti Suzuki,Ertiga,MUV,2016,8,92000,Manual,First,Petrol,695000
+C0686,Maruti Suzuki,Baleno,Hatchback,2018,6,34184,Automatic,Second,Petrol,725000
+C0687,Tata,Nexon,SUV,2019,5,66800,Manual,Second,Petrol,650000
+C0688,Nissan,Magnite,SUV,2023,1,30000,Manual,First,Petrol,560000
+C0689,Maruti Suzuki,Wagon-R,Hatchback,2018,6,19300,Manual,First,Petrol,461000
+C0690,Mahindra,Thar,SUV,2020,4,65000,Automatic,First,Petrol,1310000
+C0691,Tata,Altroz,Hachback,2021,3,62000,Manual,First,Petrol,511000
+C0692,Maruti Suzuki,Baleno,Hatchback,2023,1,13000,Automatic,First,Petrol,925000
+C0693,Renault,KWID,Hatchback,2017,7,65563,Automatic,Second,Petrol,325000
+C0694,Tata,Harrier,SUV,2022,2,17800,Automatic,First,Diesel,1999999
+C0695,Honda,City,Sedan,2017,7,18110,Automatic,Second,Petrol,575000
+C0696,Renault,KWID,Hatchback,2017,7,70000,Automatic,First,Petrol,350000
+C0697,Tata,Tiago,Hatchback,2020,4,44118,Manual,First,Petrol,470000
+C0698,Maruti Suzuki,Celerio,Hatchback,2016,8,45000,Automatic,Second,Petrol,320000
+C0699,Maruti Suzuki,Baleno,Hatchback,2018,6,,Manual,First,Petrol,485000
+C0700,Maruti Suzuki,Baleno,Hatchback,2017,7,51000,Manual,First,Petrol,485000
+C0701,Tata,Tiago,Hatchback,2017,7,73555,Manual,Second,Petrol,295555
+C0702,Hyundai,Creta,SUV,2021,3,60000,Manual,Second,Diesel,1240000
+C0703,Honda,Amaze,Sedan,2019,5,52000,Manual,First,Petrol,645000
+C0704,Maruti Suzuki,Wagon-R,Hatchback,2019,5,65000,Automatic,First,Petrol,450000
+C0705,Hyundai,Verna,Sedan,2020,4,55000,Automatic,Second,Petrol,890000
+C0706,Maruti Suzuki,Ertiga,MUV,2023,1,52895,Manual,First,Petrol,1130000
+C0707,Skoda,Kushaq,SUV,2022,2,30000,Automatic,First,Petrol,1450000
+C0708,Maruti Suzuki,Baleno,Hatchback,2024,0,9000,Manual,First,Petrol,18500
+C0709,Kia,Seltos,SUV,2020,4,46000,Manual,First,Petrol,1070000
+C0710,Tata,Nexon,SUV,2022,2,44000,Automatic,First,Petrol,810000
+C0711,Tata,Nexon,SUV,2018,6,14000,Manual,Second,Petrol,750000
+C0712,Kia,Seltos,SUV,2021,3,97000,Manual,First,Petrol,1250000
+C0713,Renault,KWID,Hatchback,2017,7,65858,Manual,Second,Petrol,150000
+C0714,Maruti Suzuki,Wagon-R,Hatchback,2016,8,65000,Manual,Second,Petrol,310000
+C0715,Maruti Suzuki,Swift,Hatchback,2019,5,50000,Automatic,Second,Petrol,521111
+C0716,Mahindra,XUV700,SUV,2022,2,28581,Automatic,First,Petrol,2550000
+C0717,Hyundai,Creta,SUV,2021,3,62000,Manual,Second,Diesel,1390000
+C0718,MG,ASTOR,SUV,2024,0,36000,Automatic,First,Petrol,1550000
+C0719,Kia,Seltos,SUV,2019,5,61000,Automatic,First,Petrol,1049000
+C0720,Maruti Suzuki,Swift,Hatchback,2017,7,65000,Manual,First,Petrol,421000
+C0721,Maruti Suzuki,Baleno,Hatchback,2017,7,45000,Manual,First,Petrol,474000
+C0722,Mahindra,Bolero Neo,SUV,2022,2,45000,Manual,First,Diesel,990000
+C0723,Maruti Suzuki,Wagon R,Hatchback,2020,4,91000,Manual,Second,Petrol,524999
+C0724,Kia,Seltos,SUV,2021,3,54000,Manual,First,Petrol,1190000
+C0725,Mahindra,Thar,SUV,2021,3,10000,Automatic,Second,Petrol,1345000
+C0726,Maruti Suzuki,Baleno,Hatchback,2016,8,63100,Automatic,Second,Petrol,585000
+C0727,Honda,Amaze,Sedan,2016,8,7500,Manual,First,Petrol,439999
+C0728,Renault,Triber,MUV,2021,3,39000,Automatic,First,Petrol,650000
+C0729,Mahindra,Thar,SUV,2021,3,48700,Manual,First,Petrol,1290000
+C0730,Tata,Tiago,Hatchback,2020,4,33000,Automatic,Second,Petrol,495000
+C0731,Maruti Suzuki,Wagon-R,Hatchback,2016,8,34000,Automatic,First,Petrol,425000
+C0732,Honda,City,Sedan,2017,7,59000,Automatic,First,Petrol,875000
+C0733,MG,Hector,SUV,2019,5,23000,Automatic,First,Petrol,1195000
+C0734,Tata,Tiago,Hatchback,2018,6,64000,Automatic,First,Petrol,490000
+C0735,Renault,Kiger,SUV,2021,3,12000,Automatic,First,Petrol,875000
+C0736,Hyundai,Alcazar,SUV,2021,3,53000,Automatic,First,Diesel,1860000
+C0737,Renault,KWID,Hatchback,2018,6,110000,Manual,Second,Petrol,285000
+C0738,Volkswagen,Taigun,SUV,2021,3,20000,Automatic,First,Petrol,1620000
+C0739,Hyundai,Creta,SUV,2020,4,40000,Manual,First,Petrol,1165000
+C0740,Maruti Suzuki,Swift,Hatchback,2017,7,69300,Manual,First,Petrol,530000
+C0741,Kia,Sonet,SUV,2022,2,13000,Manual,First,Diesel,1090000
+C0742,MG,ASTOR,SUV,2023,1,8900,Automatic,First,Petrol,1325000
+C0743,Maruti Suzuki,Celerio,Hatchback,2017,7,62000,Automatic,First,Petrol,370000
+C0744,Nissan,Magnite,SUV,2023,1,15000,Manual,First,Petrol,650000
+C0745,Hyundai,Venue,SUV,2019,5,41973,Automatic,Second,Petrol,749991
+C0746,Hyundai,Venue,SUV,2023,1,6000,Manual,First,Petrol,890000
+C0747,Maruti Suzuki,Celerio,Hatchback,2019,5,45000,Automatic,Second,Petrol,450000
+C0748,Volkswagen,Virtus,Sedan,2023,1,17000,Automatic,First,Petrol,1800000
+C0749,Mahindra,Bolero,SUV,2022,2,13500,Manual,First,Diesel,865000
+C0750,Kia,Carens,MPV,2022,2,11000,Manual,First,Petrol,1125000
+C0751,Kia,Seltos,SUV,2021,3,26000,Automatic,Second,Petrol,1275000
+C0752,Toyota,Urban Cruiser Hyryder,SUV,2023,1,9100,Automatic,First,Petrol,2120000
+C0753,Maruti Suzuki,Eeco,MPV,2022,2,8500,Manual,Second,Petrol,550000
+C0754,Hyundai,Verna,Sedan,2016,8,65426,Automatic,Second,Petrol,570000
+C0755,Hyundai,Creta,SUV,2019,5,24000,Automatic,Second,Petrol,1175000
+C0756,Mahindra,Thar,SUV,2023,1,26000,Manual,First,Diesel,1490000
+C0757,Hyundai,Creta,SUV,2017,7,54000,Automatic,First,Petrol,940000
+C0758,Maruti Suzuki,Wagon-R,Hatchback,2023,1,10000,Manual,First,Petrol,525000
+C0759,Maruti Suzuki,XL6,MUV,2019,5,57000,Automatic,Second,Petrol,1150000
+C0760,Renault,KWID,Hatchback,2017,7,59000,Manual,Second,Petrol,350000
+C0761,Kia,Seltos,SUV,2020,4,16800,Automatic,First,Petrol,1540000
+C0762,Maruti Suzuki,Baleno,Hatchback,2019,5,46000,Automatic,First,Petrol,649000
+C0763,Hyundai,Creta,SUV,2017,7,85000,Automatic,First,Petrol,669000
+C0764,Tata,Tiago,Hatchback,2017,7,39629,Automatic,First,Petrol,450000
+C0765,Mahindra,Bolero Neo,SUV,2023,1,5500,Manual,First,Diesel,1050000
+C0766,Maruti Suzuki,Baleno,Hatchback,2023,1,40600,Manual,First,Petrol,755000
+C0767,Honda,City,Sedan,2018,6,38000,Manual,First,Petrol,730000
+C0768,Renault,Triber,MUV,2020,4,42000,Manual,First,Petrol,525000
+C0769,Maruti Suzuki,Swift,Hatchback,2019,5,70000,Automatic,First,Petrol,675000
+C0770,Hyundai,Verna,Sedan,2020,4,50400,Manual,Second,Petrol,965000
+C0771,Hyundai,Creta,SUV,2017,7,69000,Automatic,Second,Petrol,785000
+C0772,Hyundai,Aura,Sedan,2021,3,38000,Manual,Second,Petrol,485000
+C0773,Mahindra,XUV700,SUV,2022,2,31000,Automatic,First,Petrol,1695000
+C0774,Maruti Suzuki,Swift,Hatchback,2020,4,33000,Manual,First,Petrol,625000
+C0775,Honda,City,Sedan,2016,8,37000,Automatic,First,Petrol,690000
+C0776,Toyota,Innova Crysta,MPV,2021,3,72000,Manual,First,Diesel,2630000
+C0777,Maruti Suzuki,Wagon R,Hatchback,2022,2,12000,Manual,First,Petrol,550000
+C0778,Kia,Seltos,SUV,2022,2,30000,Automatic,First,Petrol,1325000
+C0779,Kia,Seltos,SUV,2020,4,35231,Manual,First,Petrol,849101
+C0780,Hyundai,Alcazar,SUV,2023,1,2500,Automatic,First,Petrol,1800000
+C0781,Hyundai,Verna,Sedan,2018,6,57000,Automatic,First,Petrol,851000
+C0782,Toyota,Innova Crysta,MPV,2022,2,6100,Manual,First,Diesel,2195000
+C0783,Kia,Seltos,SUV,2019,5,19000,Manual,First,Petrol,1170000
+C0784,Renault,KWID,Hatchback,2019,5,89000,Manual,First,Petrol,265000
+C0785,Honda,Amaze,Sedan,2019,5,67000,Automatic,Second,Petrol,575000
+C0786,Maruti Suzuki,Celerio,Hatchback,2019,5,82000,Automatic,First,Petrol,490000
+C0787,Maruti Suzuki,Celerio,Hatchback,2017,7,142000,Automatic,First,Petrol,345000
+C0788,Maruti Suzuki,Wagon-R,Hatchback,2016,8,39000,Automatic,Second,Petrol,445000
+C0789,Maruti Suzuki,Fronx,SUV,2024,0,4500,Automatic,First,Petrol,850000
+C0790,Kia,Seltos,SUV,2023,1,10000,Automatic,First,Diesel,2030000
+C0791,Toyota,Fortuner,SUV,2021,3,40000,Automatic,First,Diesel,4050000
+C0792,Tata,Nexon,SUV,2020,4,30500,Automatic,Second,Petrol,900000
+C0793,Mahindra,XUV700,SUV,2022,2,79000,Automatic,First,Diesel,2350000
+C0794,Maruti Suzuki,Baleno,Hatchback,2016,8,55000,Automatic,Second,Petrol,445000
+C0795,Honda,City,Sedan,2017,7,70000,Automatic,First,Petrol,825000
+C0796,Hyundai,Venue,SUV,2021,3,50000,Manual,First,Diesel,875000
+C0797,Hyundai,Creta,SUV,2021,3,85000,Manual,First,Diesel,1221000
+C0798,Hyundai,Grand i10 Nios,Hatchback,2020,4,27500,Manual,Second,Petrol,540000
+C0799,Honda,City,Sedan,2016,8,85000,Automatic,Second,Petrol,649999
+C0800,Maruti Suzuki,Alto-K10,Hatchback,2018,6,64000,Automatic,First,Petrol,330000
+C0801,Hyundai,Creta,SUV,2021,3,29997,Manual,First,Petrol,1300000
+C0802,Maruti Suzuki,Swift,Hatchback,2018,6,32321,Manual,First,Petrol,489101
+C0803,Maruti Suzuki,Baleno,Hatchback,2022,2,30000,Manual,First,Petrol,825000
+C0804,Hyundai,Venue,SUV,2023,1,12000,Automatic,First,Petrol,1195000
+C0805,Honda,City,Sedan,2017,7,67555,Automatic,First,Petrol,695000
+C0806,Hyundai,Creta,SUV,2016,8,65000,Manual,Second,Petrol,875000
+C0807,Maruti Suzuki,Alto-K10,Hatchback,2016,8,38000,Automatic,Second,Petrol,335000
+C0808,Maruti Suzuki,Eeco,MPV,2022,2,26080,Manual,First,Petrol,570000
+C0809,Hyundai,Grand i10 Nios,Hatchback,2020,4,35000,Automatic,Second,Petrol,625000
+C0810,Tata,Harrier,SUV,2022,2,21000,Manual,First,Diesel,1750000
+C0811,Honda,City,Sedan,2022,2,13000,Automatic,First,Petrol,1175000
+C0812,Maruti Suzuki,Baleno,Hatchback,2019,5,65000,Manual,First,Petrol,575000
+C0813,Renault,Triber,MUV,2021,3,25152,Manual,First,Petrol,615000
+C0814,Renault,KWID,Hatchback,2017,7,100000,Manual,Second,Petrol,190000
+C0815,Kia,Carens,MPV,2024,0,2700,Automatic,First,Petrol,1750000
+C0816,Kia,Seltos,SUV,2021,3,70000,Manual,First,Diesel,1150000
+C0817,Skoda,Kushaq,SUV,2023,1,16000,Manual,Second,Petrol,1250000
+C0818,Hyundai,Creta,SUV,2022,2,27000,Automatic,Second,Petrol,1425000
+C0819,Mahindra,Scorpio N,SUV,2022,2,18900,Automatic,First,Petrol,1965000
+C0820,Hyundai,Alcazar,SUV,2023,1,16000,Automatic,First,Diesel,2250000
+C0821,Maruti Suzuki,Swift,Hatchback,2019,5,26000,Automatic,First,Petrol,680000
+C0822,Hyundai,Creta,SUV,2017,7,54000,Automatic,First,Petrol,940000
+C0823,Kia,Seltos,SUV,2020,4,50693,Automatic,First,Petrol,1395000
+C0824,Hyundai,Creta,SUV,2020,4,44000,Automatic,First,Petrol,1535000
+C0825,Renault,Kiger,SUV,2022,2,49000,Automatic,First,Petrol,640000
+C0826,Kia,Seltos,SUV,2022,2,62000,Manual,First,Petrol,1450000
+C0827,MG,Hector,SUV,2021,3,20530,Automatic,First,Petrol,1587000
+C0828,Hyundai,Grand i10 Nios,Hatchback,2021,3,7200,Automatic,Second,Petrol,725000
+C0829,Maruti Suzuki,Swift,Hatchback,2017,7,55000,Manual,First,Petrol,570000
+C0830,Tata,Nexon,SUV,2022,2,13000,Manual,First,Petrol,1250000
+C0831,Maruti Suzuki,Ertiga,MUV,2022,2,27000,Manual,Second,Petrol,1070000
+C0832,Mahindra,Thar,SUV,2022,2,27000,Automatic,First,Diesel,1550000
+C0833,Maruti Suzuki,Celerio,Hatchback,2019,5,37710,Automatic,First,Petrol,540000
+C0834,Mahindra,Thar,SUV,2021,3,20000,Automatic,Second,Petrol,1425000
+C0835,Renault,KWID,Hatchback,2017,7,55000,Automatic,Second,Petrol,365000
+C0836,Renault,KWID,Hatchback,2019,5,94000,Automatic,First,Petrol,390000
+C0837,Hyundai,Venue,SUV,2023,1,7500,Automatic,First,Petrol,1350000
+C0838,MG,Hector,SUV,2021,3,61000,Automatic,First,Petrol,990000
+C0839,Renault,Triber,MUV,2021,3,80000,Manual,First,Petrol,555000
+C0840,Mahindra,Bolero,SUV,2022,2,30800,Manual,First,Diesel,850000
+C0841,Maruti Suzuki,Grand Vitara,SUV,2023,1,50000,Automatic,First,Petrol,1950000
+C0842,Honda,City,Sedan,2021,3,38000,Automatic,First,Petrol,1199000
+C0843,Tata,Tiago,Hatchback,2019,5,49000,Automatic,First,Petrol,495000
+C0844,Honda,City,Sedan,2017,7,81000,Automatic,Second,Petrol,770000
+C0845,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0846,Maruti Suzuki,Wagon-R,Hatchback,2018,6,35000,Manual,First,Petrol,375000
+C0847,Hyundai,Creta,SUV,2022,2,40000,Automatic,First,Diesel,1850000
+C0848,Hyundai,Alcazar,SUV,2023,1,13000,Automatic,First,Diesel,1990000
+C0849,Hyundai,Venue,SUV,2020,4,52000,Automatic,First,Petrol,750000
+C0850,Mahindra,XUV700,SUV,2023,1,25095,Automatic,First,Diesel,1990000
+C0851,Kia,Seltos,SUV,2022,2,36500,Automatic,First,Diesel,1950000
+C0852,Mahindra,Bolero,SUV,2022,2,55800,Automatic,Second,Diesel,590000
+C0853,Honda,Amaze,Sedan,2023,1,16173,Automatic,First,Petrol,846000
+C0854,Maruti Suzuki,Wagon-R,Hatchback,2023,1,17000,Automatic,First,Petrol,699000
+C0855,Toyota,Innova Crysta,MPV,2021,3,38000,Automatic,Second,Petrol,2000000
+C0856,Maruti Suzuki,Grand Vitara,SUV,2024,0,1600,Manual,First,Petrol,1350000
+C0857,Tata,Tiago,Hatchback,2016,8,110818,Manual,Second,Petrol,325000
+C0858,Hyundai,Venue,SUV,2020,4,51055,Automatic,First,Petrol,899999
+C0859,Hyundai,Creta,SUV,2018,6,50000,Manual,Second,Petrol,750000
+C0860,Honda,City,Sedan,2018,6,75000,Manual,Second,Petrol,865000
+C0861,Maruti Suzuki,Ignis,Hatchback,2018,6,28200,Manual,First,Petrol,435000
+C0862,Toyota,Fortuner,SUV,2022,2,40000,Automatic,First,Diesel,4275000
+C0863,Mahindra,Scorpio Classic,SUV,2023,1,20500,Manual,Second,Diesel,1685000
+C0864,Renault,KWID,Hatchback,2018,6,57000,Manual,First,Petrol,295000
+C0865,Hyundai,Venue,SUV,2019,5,53000,Manual,Second,Petrol,869000
+C0866,Maruti Suzuki,Ignis,Hatchback,2018,6,36000,Automatic,Second,Petrol,570000
+C0867,Toyota,Glanza,Hatchback,2023,1,42000,Manual,First,Petrol,825000
+C0868,Maruti Suzuki,Alto K10,Hatchback,2016,8,63000,Automatic,Second,Petrol,375000
+C0869,Hyundai,Alcazar,SUV,2023,1,13000,Automatic,First,Petrol,2195000
+C0870,Maruti Suzuki,S-Presso,Hatchback,2022,2,25000,Automatic,First,Petrol,525000
+C0871,Maruti Suzuki,XL6,MUV,2021,3,20858,Manual,First,Petrol,1051000
+C0872,Maruti Suzuki,Brezza,SUV,2020,4,37000,Automatic,First,Petrol,950000
+C0873,Tata,Nexon,SUV,2020,4,90000,Manual,First,Petrol,630000
+C0874,Honda,Amaze,Sedan,2023,1,28756,Automatic,First,Petrol,830000
+C0875,Maruti Suzuki,Baleno,Hatchback,2020,4,72000,Manual,First,Petrol,620000
+C0876,MG,ASTOR,SUV,2023,1,40000,Manual,First,Petrol,1395000
+C0877,Tata,Tiago,Hatchback,2022,2,11000,Automatic,First,Petrol,685000
+C0878,Maruti Suzuki,Swift,Hatchback,2020,4,44566,Manual,First,Petrol,565000
+C0879,Kia,Sonet,SUV,2021,3,730000,Automatic,Second,Petrol,930000
+C0880,Renault,KWID,Hatchback,2017,7,51000,Automatic,First,Petrol,365000
+C0881,MG,Hector,SUV,2019,5,45000,Automatic,Second,Petrol,1290000
+C0882,Maruti Suzuki,Swift,Hatchback,2022,2,9000,Manual,Second,Petrol,670000
+C0883,Hyundai,Verna,Sedan,2021,3,30000,Manual,First,Diesel,950000
+C0884,MG,ASTOR,SUV,2023,1,27000,Automatic,First,Petrol,1275000
+C0885,Hyundai,Creta,SUV,2018,6,68000,Automatic,First,Petrol,850000
+C0886,Mahindra,Thar,SUV,2023,1,25000,Manual,First,Petrol,1200000
+C0887,Honda,Amaze,Sedan,2017,7,41000,Manual,Second,Petrol,425000
+C0888,Maruti Suzuki,Wagon-R,Hatchback,2023,1,15000,Manual,First,Petrol,800000
+C0889,Maruti Suzuki,Swift,Hatchback,2021,3,54000,Manual,First,Petrol,589000
+C0890,Hyundai,Creta,SUV,2017,7,160000,Automatic,Second,Petrol,845000
+C0891,Mahindra,Thar,SUV,2021,3,18000,Automatic,First,Diesel,1495000
+C0892,MG,Hector,SUV,2019,5,52000,Automatic,First,Petrol,1350000
+C0893,Hyundai,Verna,Sedan,2019,5,68580,Automatic,Second,Petrol,850000
+C0894,Tata,Nexon,SUV,2019,5,29000,Manual,Second,Petrol,644999
+C0895,Honda,Amaze,Sedan,2019,5,50000,Manual,Second,Petrol,525000
+C0896,Maruti Suzuki,Swift,Hatchback,2019,5,53000,Manual,First,Petrol,500000
+C0897,Hyundai,Aura,Sedan,2020,4,29000,Manual,First,Hybrid/CNG,650000
+C0898,Maruti Suzuki,Baleno,Hatchback,2019,5,38923,Automatic,First,Petrol,695000
+C0899,Maruti Suzuki,Ertiga,MUV,2017,7,68350,Manual,Second,Hybrid/CNG,675000
+C0900,Hyundai,Creta,SUV,2019,5,68000,Automatic,Second,Petrol,1175000
+C0901,MG,ASTOR,SUV,2022,2,63000,Automatic,First,Petrol,1245000
+C0902,Maruti Suzuki,Wagon-R,Hatchback,2021,3,44000,Automatic,First,Hybrid/CNG,585000
+C0903,Maruti Suzuki,Wagon R 1.0,Hatchback,2018,6,47000,Manual,First,Hybrid/CNG,425000
+C0904,Hyundai,Grand i10 Nios,Hatchback,2022,2,80000,Automatic,First,Hybrid/CNG,600000
+C0905,Maruti Suzuki,Ertiga,MUV,2022,2,56000,Manual,First,Hybrid/CNG,1170000
+C0906,Honda,City,Sedan,2018,6,57700,Manual,First,Hybrid/CNG,890000
+C0907,Honda,Amaze,Sedan,2020,4,68000,Automatic,First,Petrol,595000
+C0908,Maruti Suzuki,Ertiga,MUV,2022,2,50000,Manual,First,Hybrid/CNG,1050000
+C0909,Tata,Nexon,SUV,2019,5,52000,Automatic,First,Hybrid/CNG,510000
+C0910,Maruti Suzuki,Celerio,Hatchback,2017,7,57000,Automatic,First,Hybrid/CNG,399000
+C0911,Hyundai,Creta,SUV,2023,1,27500,Manual,First,Petrol,1200000
+C0912,Hyundai,Verna,Sedan,2019,5,39500,Automatic,Second,Hybrid/CNG,825000
+C0913,Maruti Suzuki,Celerio,Hatchback,2018,6,85000,Manual,First,Hybrid/CNG,421000
+C0914,Maruti Suzuki,Grand Vitara,SUV,2023,1,17000,Manual,First,Petrol,1300000
+C0915,Honda,City,Sedan,2017,7,76000,Manual,First,Hybrid/CNG,549000
+C0916,Honda,City,Sedan,2017,7,61000,Manual,Second,Hybrid/CNG,590000
+C0917,Maruti Suzuki,Swift,Hatchback,2023,1,16700,Manual,Second,Petrol,650000
+C0918,Maruti Suzuki,Celerio,Hatchback,2017,7,75000,Automatic,Second,Hybrid/CNG,300000
+C0919,Mahindra,Thar,SUV,2022,2,25000,Automatic,First,Diesel,1553000
+C0920,Renault,KWID,Hatchback,2019,5,25000,Automatic,First,Hybrid/CNG,375000
+C0921,Maruti Suzuki,Alto-K10,Hatchback,2017,7,52385,Automatic,First,Hybrid/CNG,299000
+C0922,Honda,City,Sedan,2022,2,21000,Manual,Second,Petrol,1190000
+C0923,Maruti Suzuki,Ertiga,MUV,2022,2,68000,Manual,Second,Hybrid/CNG,950000
+C0924,Renault,KWID,Hatchback,2023,1,14543,Automatic,First,Petrol,670000
+C0925,Mahindra,Scorpio-N,SUV,2022,2,9500,Automatic,First,Petrol,2250000
+C0926,Hyundai,Verna,Sedan,2017,7,38000,Automatic,Second,Petrol,825000
+C0927,Maruti Suzuki,Wagon-R,Hatchback,2017,7,96000,Automatic,First,Hybrid/CNG,350000
+C0928,Toyota,Glanza,Hatchback,2020,4,15000,Automatic,First,Petrol,845000
+C0929,Maruti Suzuki,XL6,MUV,2019,5,53110,Automatic,Second,Petrol,895000
+C0930,Maruti Suzuki,Celerio,Hatchback,2020,4,50000,Automatic,First,Petrol,330000
+C0931,Tata,Altroz,Hatchback,2020,4,39000,Manual,First,Petrol,475000
+C0932,Maruti Suzuki,S-Presso,Hatchback,2022,2,49530,Manual,First,Petrol,440000
+C0933,Maruti Suzuki,Celerio,Hatchback,2019,5,74000,Manual,Second,Petrol,470000
+C0934,Maruti Suzuki,Grand Vitara,SUV,2023,1,20000,Automatic,First,Hybrid/CNG,1800000
+C0935,Maruti Suzuki,Celerio,Hatchback,2018,6,42000,Automatic,First,Petrol,425000
+C0936,Toyota,Innova Crysta,MPV,2021,3,81499,Automatic,First,Diesel,2100000
+C0937,Maruti Suzuki,Celerio,Hatchback,2016,8,60000,Manual,Second,Hybrid/CNG,350000
+C0938,Maruti Suzuki,Wagon R,Hatchback,2018,6,39000,Manual,First,Petrol,340000
+C0939,Mahindra,Thar,SUV,2022,2,27000,Automatic,First,Diesel,1775000
+C0940,Maruti Suzuki,Baleno,Hatchback,2020,4,30211,Manual,First,Petrol,650000
+C0941,Toyota,Glanza,Hatchback,2020,4,60000,Manual,Second,Petrol,699000
+C0942,Maruti Suzuki,Eeco,MPV,2017,7,66000,Manual,Second,Petrol,380000
+C0943,Maruti Suzuki,Swift,Hatchback,2022,2,34000,Manual,First,Hybrid/CNG,599000
+C0944,Mahindra,Thar,SUV,2023,1,32000,Automatic,First,Diesel,1500000
+C0945,Maruti Suzuki,Eeco,MPV,2021,3,41000,Automatic,First,Hybrid/CNG,425000
+C0946,Tata,Tiago,Hatchback,2022,2,35000,Manual,First,Hybrid/CNG,600000
+C0947,Maruti Suzuki,Ertiga,MUV,2020,4,55000,Automatic,First,Petrol,990000
+C0948,Maruti Suzuki,Wagon-R,Hatchback,2017,7,50000,Automatic,First,Hybrid/CNG,435000
+C0949,Renault,KWID,Hatchback,2016,8,40000,Manual,Second,Petrol,145000
+C0950,MG,Hector,SUV,2021,3,23000,Automatic,First,Petrol,1475000
+C0951,Maruti Suzuki,Alto K10,Hatchback,2019,5,78000,Automatic,First,Petrol,475000
+C0952,Maruti Suzuki,Wagon-R,Hatchback,2019,5,72500,Manual,First,Hybrid/CNG,425000
+C0953,Maruti Suzuki,Celerio,Hatchback,2019,5,120000,Automatic,Second,Hybrid/CNG,300000
+C0954,Maruti Suzuki,Baleno,Hatchback,2017,7,50000,Automatic,First,Petrol,425000
+C0955,Mahindra,Thar,SUV,2022,2,19000,Manual,First,Diesel,1599000
+C0956,Hyundai,Creta,SUV,2023,1,15000,Automatic,First,Petrol,1690000
+C0957,Maruti Suzuki,Swift,Hatchback,2016,8,47500,Manual,First,Petrol,530000
+C0958,Hyundai,Creta,SUV,2022,2,44000,Manual,First,Petrol,1350000
+C0959,Maruti Suzuki,XL6,MUV,2020,4,78000,Automatic,First,Petrol,1050000
+C0960,Mahindra,Thar,SUV,2021,3,28500,Automatic,Second,Petrol,1300000
+C0961,Maruti Suzuki,Swift,Hatchback,2022,2,75000,Manual,First,Petrol,575000
+C0962,Maruti Suzuki,Swift,Hatchback,2024,0,18950,Automatic,First,Petrol,950000
+C0963,Hyundai,Creta,SUV,2021,3,90000,Automatic,First,Diesel,1650000
+C0964,Maruti Suzuki,Eeco,MPV,2023,1,53000,Automatic,First,Hybrid/CNG,580000
+C0965,Maruti Suzuki,Eeco,MPV,2020,4,63000,Automatic,First,Hybrid/CNG,349000
+C0966,Hyundai,Grand i10 Nios,Hatchback,2023,1,10000,Manual,Second,Petrol,635000
+C0967,Honda,Amaze,Sedan,2016,8,86000,Manual,Second,Hybrid/CNG,425000
+C0968,Tata,Tiago,Hatchback,2020,4,52252,Manual,First,Hybrid/CNG,340000
+C0969,Kia,Sonet,SUV,2021,3,34000,Automatic,First,Hybrid/CNG,899000
+C0970,Kia,Seltos,SUV,2022,2,30000,Automatic,First,Diesel,2075000
+C0971,Maruti Suzuki,Baleno,Hatchback,2017,7,20300,Automatic,First,Petrol,525000
+C0972,Maruti Suzuki,S-Presso,Hatchback,2020,4,35000,Manual,First,Petrol,420000
+C0973,Skoda,Slavia,Sedao,2022,2,22940,Manual,First,Petrol,1195000
+C0974,Hyundai,Aura,Sedan,2021,3,49000,Manual,First,Diesel,790000
+C0975,Hyundai,Grand i10 Nios,Hatchback,2021,3,55000,Manual,First,Hybrid/CNG,625000
+C0976,Maruti Suzuki,Celerio,Hatchback,2017,7,62000,Automatic,First,Hybrid/CNG,411000
+C0977,Mahindra,Thar,SUV,2021,3,51000,Automatic,Second,Diesel,1590000
+C0978,Tata,Tigor,Sedan,2023,1,20000,Manual,Second,Hybrid/CNG,730000
+C0979,Maruti Suzuki,Wagon-R,Hatchback,2019,5,45640,Manual,Second,Petrol,460000
+C0980,Hyundai,Creta,SUV,2020,4,123000,Automatic,First,Petrol,1150000
+C0981,Tata,Tiago,Hatchback,2018,6,42000,Automatic,First,Hybrid/CNG,535000
+C0982,Maruti Suzuki,Wagon-R,Hatchback,2021,3,60000,Manual,First,Hybrid/CNG,510000
+C0983,Maruti Suzuki,Wagon R 1.0,Hatchback,2021,3,89000,Manual,First,Hybrid/CNG,560000
+C0984,Maruti Suzuki,Ertiga,MUV,2020,4,51000,Automatic,Second,Hybrid/CNG,950000
+C0985,Volkswagen,Taigun,SUV,2022,2,55000,Automatic,Second,Petrol,1425000
+C0986,Renault,KWID,Hatchback,2017,7,22000,Manual,Second,Petrol,285000
+C0987,Maruti Suzuki,Eeco,MPV,2020,4,70000,Manual,Second,Petrol,450000
+C0988,Maruti Suzuki,Baleno,Hatchback,2021,3,17532,Manual,First,Petrol,704429
+C0989,Toyota,Innova Crysta,MPV,2022,2,16800,Automatic,First,Diesel,3400000
+C0990,Skoda,Kushaq,SUV,2021,3,34000,Manual,First,Petrol,1250000
+C0991,Maruti Suzuki,Baleno,Hatchback,2018,6,19000,Manual,First,Petrol,525000
+C0992,Hyundai,Grand i10 Nios,Hatchback,2021,3,65900,Automatic,First,Hybrid/CNG,651000
+C0993,Tata,Harrier,SUV,2021,3,52000,Automatic,First,Petrol,2050000
+C0994,Tata,Harrier,SUV,2022,2,50000,Manual,First,Diesel,1750000
+C0995,Maruti Suzuki,Wagon-R,Hatchback,2016,8,89700,Manual,Second,Petrol,369000
+C0996,Maruti Suzuki,Wagon-R,Hatchback,2023,1,35000,Automatic,First,Hybrid/CNG,750000
+C0997,Maruti Suzuki,Eeco,MPV,2016,8,51000,Manual,Second,Petrol,400000
+C0998,Maruti Suzuki,Wagon-R,Hatchback,2019,5,76000,Manual,First,Hybrid/CNG,450000
+C0999,Maruti Suzuki,Ertiga,MUV,2020,4,64185,Manual,First,Hybrid/CNG,985000
+C1000,Renault,KWID,Hatchback,2020,4,45011,Manual,First,Petrol,375000
+C1001,Maruti Suzuki,Celerio,Hatchback,2018,6,72000,Automatic,First,Petrol,400000
+C1002,Mahindra,Scorpio Classic,SUV,2022,2,11000,Manual,First,Diesel,1768000
+C1003,Maruti Suzuki,Ertiga,MUV,2022,2,5000,Manual,First,Petrol,1060000
+C1004,Maruti Suzuki,Baleno,Hatchback,2016,8,120000,Manual,First,Hybrid/CNG,590000
+C1005,Maruti Suzuki,Eeco,MPV,2023,1,20000,Manual,Second,Hybrid/CNG,600000
+C1006,Maruti Suzuki,Wagon-R,Hatchback,2019,5,65000,Automatic,First,Petrol,600000
+C1007,Maruti Suzuki,Ertiga,MUV,2024,0,3000,Manual,First,Hybrid/CNG,1199000
+C1008,Hyundai,Verna,Sedan,2016,8,65426,Automatic,Second,Petrol,570000
+C1009,Maruti Suzuki,Celerio,Hatchback,2018,6,42000,Automatic,Second,Hybrid/CNG,550000
+C1010,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,535000
+C1011,Maruti Suzuki,Grand Vitara,SUV,2023,1,9000,Manual,First,Petrol,1450000
+C1012,Volkswagen,Tiguan,SUV,2024,0,1,Automatic,First,Petrol,3175000
+C1013,Hyundai,Creta,SUV,2018,6,23000,Automatic,First,Petrol,1035111
+C1014,Maruti Suzuki,Ertiga,MUV,2016,8,114000,Manual,Second,Hybrid/CNG,619000
+C1015,Kia,Seltos,SUV,2019,5,79000,Manual,Second,Petrol,1095000
+C1016,Maruti Suzuki,Eeco,MPV,2016,8,152000,Automatic,Second,Hybrid/CNG,380786
+C1017,Maruti Suzuki,Jimny,SUV,2023,1,5500,Manual,First,Petrol,955000
+C1018,Maruti Suzuki,Baleno,Hatchback,2017,7,65000,Automatic,Second,Hybrid/CNG,570000
+C1019,Maruti Suzuki,Ertiga,MUV,2019,5,64000,Automatic,Second,Hybrid/CNG,820000
+C1020,Toyota,Urban Cruiser Hyryder,SUV,2024,0,1900,Automatic,First,Hybrid/CNG,2125000
+C1021,Maruti Suzuki,Baleno,Hatchback,2016,8,25000,Manual,First,Petrol,515000
+C1022,Hyundai,Verna,Sedan,2024,0,8499,Automatic,First,Petrol,1574999
+C1023,Maruti Suzuki,Wagon-R,Hatchback,2016,8,57000,Automatic,First,Petrol,399000
+C1024,Honda,Amaze,Sedan,2016,8,39000,Manual,Second,Petrol,285000
+C1025,Maruti Suzuki,Baleno,Hatchback,2019,5,110000,Automatic,First,Petrol,475000
+C1026,Honda,Amaze,Sedan,2017,7,55000,Manual,First,Petrol,395000
+C1027,Renault,KWID,Hatchback,2016,8,85000,Manual,First,Hybrid/CNG,179000
+C1028,Maruti Suzuki,S-Presso,Hatchback,2022,2,7253,Manual,First,Petrol,495000
+C1029,Maruti Suzuki,Ertiga,MUV,2019,5,63000,Automatic,Second,Hybrid/CNG,820000
+C1030,Maruti Suzuki,Wagon-R,Hatchback,2022,2,65000,Automatic,Second,Hybrid/CNG,595000
+C1031,Maruti Suzuki,Celerio,Hatchback,2019,5,78000,Manual,First,Hybrid/CNG,530000
+C1032,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,515000
+C1033,Renault,KWID,Hatchback,2019,5,42000,Automatic,Second,Hybrid/CNG,380000
+C1034,Hyundai,Verna,Sedan,2019,5,39000,Automatic,First,Hybrid/CNG,825000
+C1035,Maruti Suzuki,Alto-K10,Hatchback,2018,6,58296,Automatic,First,Petrol,420000
+C1036,Tata,Tigor,Sedan,2018,6,54750,Automatic,First,Hybrid/CNG,450000
+C1037,Hyundai,Creta,SUV,2022,2,16000,Manual,First,Petrol,1300000
+C1038,Honda,City,Sedan,2017,7,70000,Automatic,Second,Hybrid/CNG,775000
+C1039,Honda,City,Sedan,2019,5,78000,Automatic,Second,Hybrid/CNG,810000
+C1040,Kia,Seltos,SUV,2022,2,8690,Manual,First,Petrol,1495000
+C1041,Maruti Suzuki,Ertiga,MUV,2019,5,65000,Automatic,Second,Hybrid/CNG,820000
+C1042,Kia,Sonet,SUV,2023,1,8100,Automatic,First,Petrol,1175000
+C1043,Tata,Tiago,Hatchback,2021,3,19000,Automatic,First,Petrol,665000
+C1044,Hyundai,Aura,Sedan,2023,1,1234,Automatic,First,Hybrid/CNG,250000
+C1045,Maruti Suzuki,Ignis,Hatchback,2021,3,42000,Automatic,First,Hybrid/CNG,540000
+C1046,Tata,Tiago,Hatchback,2018,6,68000,Automatic,First,Petrol,399000
+C1047,Maruti Suzuki,Wagon-R,Hatchback,2020,4,72500,Manual,First,Hybrid/CNG,425000
+C1048,Maruti Suzuki,Celerio,Hatchback,2017,7,80000,Automatic,Second,Hybrid/CNG,450000
+C1049,Maruti Suzuki,Baleno,Hatchback,2016,8,77000,Automatic,Second,Hybrid/CNG,489999
+C1050,Maruti Suzuki,Celerio,Hatchback,2018,6,92000,Automatic,Second,Petrol,425000
+C1051,Maruti Suzuki,Celerio,Hatchback,2016,8,45000,Automatic,Second,Petrol,325000
+C1052,Tata,Tiago,Hatchback,2020,4,37000,Automatic,Second,Petrol,435000
+C1053,Maruti Suzuki,Celerio,Hatchback,2019,5,86000,Manual,First,Hybrid/CNG,390000
+C1054,Toyota,Glanza,Hatchback,2019,5,28000,Automatic,First,Petrol,625000
+C1055,Tata,Altroz,Hatchback,2022,2,23000,Manual,First,Diesel,950000
+C1056,Maruti Suzuki,Ertiga,MUV,2019,5,67999,Manual,First,Hybrid/CNG,963000
+C1057,Renault,Triber,MUV,2020,4,28000,Manual,First,Petrol,589000
+C1058,Maruti Suzuki,Celerio,Hatchback,2017,7,64000,Automatic,Second,Hybrid/CNG,320000
+C1059,Maruti Suzuki,Alto-K10,Hatchback,2016,8,75000,Automatic,Second,Hybrid/CNG,260000
+C1060,Maruti Suzuki,Wagon-R,Hatchback,2018,6,85000,Manual,Second,Petrol,390000
+C1061,Maruti Suzuki,Ertiga,MUV,2022,2,25000,Manual,First,Hybrid/CNG,1140000
+C1062,Maruti Suzuki,Dzire,Sedan,2023,1,1234,Manual,First,Hybrid/CNG,250000
+C1063,Mahindra,Bolero,SUV,2021,3,48000,Manual,First,Diesel,950000
+C1064,Maruti Suzuki,Alto-K10,Hatchback,2023,1,51000,Manual,First,Hybrid/CNG,550000
+C1065,Maruti Suzuki,Wagon-R,Hatchback,2021,3,35312,Manual,First,Hybrid/CNG,595000
+C1066,Maruti Suzuki,XL6,MUV,2021,3,26716,Manual,First,Petrol,1065000
+C1067,Maruti Suzuki,Swift,Hatchback,2021,3,52000,Automatic,First,Hybrid/CNG,649000
+C1068,Tata,Nexon,SUV,2019,5,90000,Automatic,Second,Hybrid/CNG,650000
+C1069,Maruti Suzuki,Celerio,Hatchback,2019,5,41000,Automatic,First,Hybrid/CNG,511000
+C1070,Maruti Suzuki,Alto-K10,Hatchback,2016,8,41000,Manual,First,Petrol,325000
+C1071,Maruti Suzuki,Eeco,MPV,2021,3,40000,Automatic,First,Hybrid/CNG,440000
+C1072,Maruti Suzuki,Baleno,Hatchback,2022,2,51000,Manual,First,Hybrid/CNG,800000
+C1073,Mahindra,Thar,SUV,2021,3,50922,Automatic,Second,Diesel,1645000
+C1074,Maruti Suzuki,Baleno,Hatchback,2018,6,65000,Automatic,Second,Hybrid/CNG,565000
+C1075,Honda,City,Sedan,2017,7,70000,Automatic,First,Petrol,810000
+C1076,Maruti Suzuki,Celerio,Hatchback,2017,7,45000,Automatic,Second,Hybrid/CNG,350000
+C1077,Maruti Suzuki,Baleno,Hatchback,2019,5,66510,Automatic,First,Petrol,690000
+C1078,Maruti Suzuki,Celerio,Hatchback,2016,8,62477,Manual,Second,Hybrid/CNG,295000
+C1079,Hyundai,New i20,Hatchback,2021,3,34500,Automatic,First,Petrol,795000
+C1080,Maruti Suzuki,Wagon-R,Hatchback,2016,8,95000,Automatic,Second,Hybrid/CNG,264999
+C1081,Maruti Suzuki,Eeco,MPV,2022,2,49000,Manual,First,Hybrid/CNG,565000
+C1082,Hyundai,Grand i10 Nios,Hatchback,2020,4,54000,Automatic,First,Hybrid/CNG,625000
+C1083,Toyota,Glanza,Hatchback,2019,5,28146,Manual,First,Petrol,650000
+C1084,Tata,Harrier,SUV,2021,3,129000,Automatic,First,Diesel,1650000
+C1085,Maruti Suzuki,Ertiga,MUV,2023,1,30000,Automatic,First,Hybrid/CNG,1190000
+C1086,Maruti Suzuki,Eeco,MPV,2022,2,55000,Automatic,Second,Hybrid/CNG,550000
+C1087,Hyundai,Creta,SUV,2020,4,35000,Automatic,First,Petrol,1190000
+C1088,Hyundai,Venue,SUV,2023,1,27000,Automatic,First,Petrol,1250000
+C1089,Hyundai,Creta,SUV,2016,8,55000,Manual,Second,Petrol,675000
+C1090,Hyundai,Creta,SUV,2017,7,69000,Automatic,Second,Petrol,785000
+C1091,Maruti Suzuki,Eeco,MPV,2022,2,20000,Manual,First,Petrol,485000
+C1092,MG,ASTOR,SUV,2022,2,67000,Automatic,Second,Hybrid/CNG,1150000
+C1093,Honda,City,Sedan,2016,8,74381,Automatic,First,Hybrid/CNG,599999
+C1094,Tata,Nexon,SUV,2021,3,33000,Manual,First,Diesel,845000
+C1095,Maruti Suzuki,Celerio,Hatchback,2019,5,60000,Automatic,First,Hybrid/CNG,385000
+C1096,Maruti Suzuki,Eeco,MPV,2022,2,19000,Manual,First,Petrol,610000
+C1097,Maruti Suzuki,Baleno,Hatchback,2018,6,54000,Manual,First,Petrol,497000
+C1098,Maruti Suzuki,Celerio,Hatchback,2016,8,39000,Automatic,Second,Petrol,325000
+C1099,Maruti Suzuki,Baleno,Hatchback,2016,8,60000,Manual,Second,Hybrid/CNG,485000
+C1100,Mahindra,Bolero Neo,SUV,2022,2,90000,Manual,First,Diesel,800000
+C1101,Maruti Suzuki,Baleno,Hatchback,2023,1,10500,Manual,First,Petrol,830000
+C1102,Maruti Suzuki,Eeco,MPV,2020,4,70000,Manual,Second,Hybrid/CNG,450000
+C1103,Maruti Suzuki,Ignis,Hatchback,2018,6,65000,Automatic,Second,Hybrid/CNG,475000
+C1104,Maruti Suzuki,Celerio,Hatchback,2016,8,72000,Manual,Second,Petrol,370000
+C1105,Maruti Suzuki,Wagon R 1.0,Hatchback,2017,7,66000,Manual,First,Hybrid/CNG,370000
+C1106,Renault,Kiger,SUV,2023,1,19800,Automatic,First,Hybrid/CNG,850000
+C1107,Maruti Suzuki,Celerio,Hatchback,2022,2,29000,Automatic,First,Petrol,570000
+C1108,Maruti Suzuki,Ignis,Hatchback,2019,5,59000,Automatic,First,Petrol,690000
+C1109,Maruti Suzuki,Ignis,Hatchback,2018,6,105000,Automatic,Second,Hybrid/CNG,380000
+C1110,Maruti Suzuki,Celerio,Hatchback,2018,6,45000,Automatic,Second,Petrol,475000
+C1111,Maruti Suzuki,Baleno,Hatchback,2020,4,49000,Manual,First,Petrol,540000
+C1112,Tata,Tigor,Sedan,2018,6,53550,Automatic,First,Hybrid/CNG,450000
+C1113,Maruti Suzuki,Wagon-R,Hatchback,2020,4,40000,Automatic,First,Petrol,610000
+C1114,Maruti Suzuki,Baleno,Hatchback,2016,8,77000,Automatic,Second,Hybrid/CNG,489999
+C1115,Honda,Amaze,Sedan,2017,7,40000,Manual,Second,Hybrid/CNG,400000
+C1116,Toyota,Innova Crysta,MPV,2019,5,28000,Automatic,First,Petrol,1499000
+C1117,Hyundai,Alcazar,SUV,2022,2,19523,Automatic,First,Petrol,1799999
+C1118,Hyundai,Verna,Sedan,2016,8,51200,Automatic,Second,Petrol,539000
+C1119,Kia,Seltos,SUV,2019,5,39000,Manual,First,Petrol,1075000
+C1120,Maruti Suzuki,Eeco,MPV,2019,5,94000,Manual,Second,Petrol,400000
+C1121,Hyundai,Creta,SUV,2016,8,88883,Automatic,First,Petrol,815000
+C1122,Maruti Suzuki,Eeco,MPV,2019,5,99000,Manual,First,Hybrid/CNG,400000
+C1123,Toyota,Fortuner,SUV,2024,0,4500,Automatic,First,Diesel,4100000
+C1124,Maruti Suzuki,Swift,Hatchback,2019,5,48000,Automatic,Second,Petrol,590000
+C1125,Maruti Suzuki,Swift,Hatchback,2022,2,40000,Automatic,First,Petrol,765000
+C1126,Maruti Suzuki,Celerio,Hatchback,2022,2,54600,Automatic,First,Petrol,650000
+C1127,Hyundai,Creta,SUV,2016,8,40000,Automatic,First,Petrol,715000
+C1128,Honda,Amaze,Sedan,2019,5,120000,Manual,Second,Petrol,399000
+C1129,Honda,City,Sedan,2021,3,30000,Manual,First,Petrol,1025000
+C1130,Tata,Tigor,Sedan,2019,5,52000,Automatic,First,Hybrid/CNG,685000
+C1131,Honda,City,Sedan,2018,6,68500,Manual,First,Petrol,850000
+C1132,Honda,Amaze,Sedan,2019,5,70000,Automatic,Second,Petrol,540000
+C1133,Hyundai,Aura,Sedan,2023,1,76652,Automatic,First,Hybrid/CNG,710000
+C1134,Maruti Suzuki,Celerio,Hatchback,2017,7,50000,Automatic,First,Petrol,425000
+C1135,Hyundai,Creta,SUV,2019,5,85599,Manual,First,Petrol,875000
+C1136,Maruti Suzuki,Alto-K10,Hatchback,2017,7,52685,Automatic,First,Hybrid/CNG,299000
+C1137,Maruti Suzuki,Ertiga,MUV,2022,2,31000,Manual,First,Hybrid/CNG,995000
+C1138,Maruti Suzuki,Ertiga,MUV,2020,4,70000,Manual,First,Hybrid/CNG,699000
+C1139,Tata,Tigor,Sedan,2017,7,49000,Automatic,Second,Petrol,400000
+C1140,Maruti Suzuki,Ignis,Hatchback,2022,2,10000,Manual,First,Petrol,620000
+C1141,Hyundai,Grand i10 Nios,Hatchback,2024,0,2300,Manual,First,Petrol,725000
+C1142,Maruti Suzuki,Celerio,Hatchback,2023,1,21000,Manual,First,Petrol,555000
+C1143,Hyundai,Creta,SUV,2021,3,68500,Manual,First,Diesel,1095000
+C1144,Maruti Suzuki,Ertiga,MUV,2019,5,62000,Automatic,Second,Hybrid/CNG,820000
+C1145,Maruti Suzuki,Alto K10,Hatchback,2017,7,52000,Automatic,First,Hybrid/CNG,350000
+C1146,Maruti Suzuki,Baleno,Hatchback,2018,6,110000,Automatic,First,Petrol,585000
+C1147,Mahindra,Bolero,SUV,2021,3,8500,Manual,Second,Diesel,1095000
+C1148,Maruti Suzuki,Eeco,MPV,2018,6,55000,Manual,First,Hybrid/CNG,435000
+C1149,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,550000
+C1150,Honda,Amaze,Sedan,2019,5,60000,Manual,First,Hybrid/CNG,530000
+C1151,Renault,KWID,Hatchback,2017,7,33000,Automatic,Second,Petrol,375000
+C1152,Maruti Suzuki,Eeco,MPV,2021,3,28000,Manual,First,Hybrid/CNG,590000
+C1153,Maruti Suzuki,Swift,Hatchback,2022,2,9000,Manual,Second,Petrol,670000
+C1154,Maruti Suzuki,Brezza,SUV,2023,1,25000,Manual,First,Hybrid/CNG,1085000
+C1155,Maruti Suzuki,Wagon-R,Hatchback,2016,8,199995,Manual,First,Hybrid/CNG,300000
+C1156,Maruti Suzuki,Eeco,MPV,2016,8,49000,Manual,Second,Petrol,360000
+C1157,Tata,Nexon,SUV,2019,5,52000,Automatic,First,Hybrid/CNG,525000
+C1158,Maruti Suzuki,Baleno,Hatchback,2022,2,32000,Automatic,Second,Petrol,650000
+C1159,Maruti Suzuki,Ertiga,MUV,2017,7,40000,Manual,First,Petrol,765000
+C1160,Maruti Suzuki,Baleno,Hatchback,2018,6,47500,Automatic,Second,Petrol,650000
+C1161,Hyundai,Verna,Sedan,2016,8,147000,Manual,First,Petrol,515000
+C1162,Toyota,Glanza,Hatchback,2019,5,59000,Manual,First,Petrol,575000
+C1163,Maruti Suzuki,Ertiga,MUV,2018,6,45000,Manual,First,Hybrid/CNG,760000
+C1164,Tata,Harrier,SUV,2023,1,21342,Automatic,First,Diesel,2585000
+C1165,Kia,Seltos,SUV,2019,5,28832,Manual,First,Petrol,1250000
+C1166,Maruti Suzuki,Wagon-R,Hatchback,2023,1,50000,Manual,Second,Hybrid/CNG,600000
+C1167,Maruti Suzuki,Wagon-R,Hatchback,2017,7,62500,Automatic,Second,Hybrid/CNG,345000
+C1168,Maruti Suzuki,Ignis,Hatchback,2020,4,43000,Automatic,Second,Petrol,600000
+C1169,Maruti Suzuki,Eeco,MPV,2018,6,76491,Automatic,Second,Hybrid/CNG,440000
+C1170,Toyota,Glanza,Hatchback,2019,5,90000,Automatic,First,Petrol,620000
+C1171,Hyundai,Creta,SUV,2022,2,89000,Automatic,First,Diesel,1651000
+C1172,Kia,Seltos,SUV,2019,5,79273,Manual,First,Petrol,950000
+C1173,Hyundai,Grand i10 Nios,Hatchback,2021,3,88000,Manual,First,Hybrid/CNG,575000
+C1174,Hyundai,Creta,SUV,2022,2,20012,Automatic,First,Petrol,1645000
+C1175,Maruti Suzuki,Alto-K10,Hatchback,2018,6,80000,Automatic,Second,Hybrid/CNG,350000
+C1176,Honda,City,Sedan,2021,3,60180,Automatic,First,Petrol,1170000
+C1177,Maruti Suzuki,Celerio,Hatchback,2019,5,59000,Manual,First,Hybrid/CNG,525000
+C1178,Maruti Suzuki,Baleno,Hatchback,2017,7,32000,Automatic,First,Hybrid/CNG,525000
+C1179,Tata,Nexon,SUV,2018,6,61000,Automatic,First,Hybrid/CNG,599000
+C1180,Mahindra,Thar,SUV,2021,3,26000,Automatic,Second,Petrol,1490000
+C1181,Hyundai,Creta,SUV,2018,6,32000,Automatic,First,Petrol,1190000
+C1182,Tata,Tiago,Hatchback,2017,7,51000,Automatic,Second,Hybrid/CNG,360000
+C1183,Tata,Nexon,SUV,2022,2,53000,Automatic,First,Diesel,950000
+C1184,Maruti Suzuki,Eeco,MPV,2022,2,26600,Manual,Second,Petrol,545000
+C1185,Honda,City,Sedan,2016,8,60000,Automatic,Second,Petrol,795000
+C1186,Hyundai,Grand i10 Nios,Hatchback,2022,2,24000,Manual,Second,Petrol,635000
+C1187,Hyundai,Creta,SUV,2022,2,16000,Automatic,Second,Diesel,1650000
+C1188,MG,ASTOR,SUV,2022,2,63000,Automatic,First,Petrol,1245000
+C1189,Maruti Suzuki,Alto-K10,Hatchback,2017,7,78647,Manual,Second,Hybrid/CNG,247000
+C1190,Maruti Suzuki,Ignis,Hatchback,2021,3,80000,Automatic,First,Petrol,685000
+C1191,Maruti Suzuki,Wagon-R,Hatchback,2017,7,62000,Automatic,Second,Hybrid/CNG,359000
+C1192,Maruti Suzuki,Ignis,Hatchback,2019,5,51000,Automatic,First,Petrol,545000
+C1193,Tata,Altroz,Hachback,2020,4,32000,Manual,First,Hybrid/CNG,570000
+C1194,Volkswagen,Virtus,Sedan,2021,3,61000,Automatic,First,Petrol,1575000
+C1195,Honda,City,Sedan,2018,6,76000,Automatic,Second,Petrol,850000
+C1196,Maruti Suzuki,Wagon-R,Hatchback,2021,3,80000,Manual,First,Hybrid/CNG,495000
+C1197,MG,Gloster,SUV,2021,3,18000,Automatic,First,Diesel,3298000
+C1198,Maruti Suzuki,Ertiga,MUV,2021,3,73000,Manual,First,Hybrid/CNG,1030000
+C1199,Maruti Suzuki,Celerio,Hatchback,2020,4,72000,Manual,First,Hybrid/CNG,455000
+C1200,Toyota,Urban Cruiser Hyryder,SUV,2022,2,45000,Automatic,First,Hybrid/CNG,1900000
+C1201,Maruti Suzuki,Ertiga,MUV,2021,3,81000,Manual,First,Hybrid/CNG,975000
+C1202,Renault,KWID,Hatchback,2020,4,42000,Manual,Second,Petrol,335000
+C1203,Honda,City,Sedan,2017,7,73000,Manual,Second,Hybrid/CNG,665000
+C1204,Maruti Suzuki,XL6,MUV,2021,3,86000,Automatic,First,Petrol,900000
+C1205,Maruti Suzuki,Swift,Hatchback,2019,5,91000,Manual,Second,Hybrid/CNG,619999
+C1206,Mahindra,Thar,SUV,2021,3,5000,Manual,Second,Petrol,1265000
+C1207,Maruti Suzuki,Alto-K10,Hatchback,2017,7,52358,Automatic,First,Hybrid/CNG,299000
+C1208,Hyundai,Creta,SUV,2017,7,70000,Manual,Second,Petrol,765000
+C1209,Tata,Tiago,Hatchback,2024,0,3000,Automatic,First,Hybrid/CNG,850000
+C1210,Maruti Suzuki,Swift,Hatchback,2019,5,40000,Manual,Second,Petrol,615000
+C1211,Hyundai,Grand i10 Nios,Hatchback,2020,4,60000,Manual,Second,Petrol,475000
+C1212,Renault,KWID,Hatchback,2016,8,30000,Automatic,Second,Petrol,290000
+C1213,Maruti Suzuki,Wagon-R,Hatchback,2016,8,120000,Automatic,First,Hybrid/CNG,250000
+C1214,Maruti Suzuki,Wagon-R,Hatchback,2022,2,15899,Automatic,Second,Petrol,655000
+C1215,Maruti Suzuki,Ertiga,MUV,2023,1,22000,Manual,First,Hybrid/CNG,1170000
+C1216,Maruti Suzuki,Ignis,Hatchback,2017,7,51000,Automatic,Second,Hybrid/CNG,400000
+C1217,Toyota,Innova Crysta,MPV,2021,3,44000,Automatic,First,Diesel,3050000
+C1218,Maruti Suzuki,Swift,Hatchback,2023,1,49000,Manual,First,Hybrid/CNG,720000
+C1219,Toyota,Urban Cruiser Hyryder,SUV,2023,1,19000,Automatic,First,Hybrid/CNG,1750000
+C1220,Maruti Suzuki,Brezza,SUV,2020,4,70000,Manual,First,Hybrid/CNG,750000
+C1221,Maruti Suzuki,Ertiga,MUV,2016,8,54000,Manual,Second,Hybrid/CNG,675000
+C1222,Maruti Suzuki,Celerio,Hatchback,2024,0,19000,Automatic,First,Petrol,725000
+C1223,Maruti Suzuki,Eeco,MPV,2024,0,35000,Automatic,First,Hybrid/CNG,230000
+C1224,Maruti Suzuki,Eeco,MPV,2021,3,63250,Manual,First,Hybrid/CNG,525111
+C1225,Maruti Suzuki,Ertiga,MUV,2020,4,45000,Automatic,Second,Hybrid/CNG,1020000
+C1226,Maruti Suzuki,Swift,Hatchback,2019,5,7000,Automatic,Second,Petrol,650000
+C1227,Maruti Suzuki,Ertiga,MUV,2020,4,181000,Manual,Second,Hybrid/CNG,880000
+C1228,Hyundai,i20 N Line,Hatchback,2021,3,26000,Automatic,First,Petrol,915000
+C1229,Mahindra,Thar,SUV,2022,2,18000,Automatic,First,Diesel,1600000
+C1230,Honda,City,Sedan,2017,7,51000,Automatic,Second,Hybrid/CNG,750000
+C1231,Hyundai,Verna,Sedan,2019,5,80000,Automatic,First,Hybrid/CNG,725000
+C1232,Hyundai,Venue,SUV,2020,4,43772,Automatic,First,Petrol,1099000
+C1233,Hyundai,Venue,SUV,2022,2,6000,Manual,First,Petrol,875000
+C1234,Hyundai,Verna,Sedan,2019,5,70000,Manual,First,Hybrid/CNG,849000
+C1235,Maruti Suzuki,Wagon-R,Hatchback,2020,4,62000,Manual,First,Petrol,500000
+C1236,Hyundai,Grand i10 Nios,Hatchback,2022,2,24000,Manual,First,Hybrid/CNG,690000
+C1237,Maruti Suzuki,Celerio,Hatchback,2016,8,68000,Automatic,Second,Petrol,400000
+C1238,Renault,KWID,Hatchback,2018,6,63000,Automatic,First,Petrol,325000
+C1239,Honda,Amaze,Sedan,2016,8,68000,Automatic,First,Hybrid/CNG,395000
+C1240,Renault,KWID,Hatchback,2016,8,48451,Manual,First,Petrol,245000
+C1241,Kia,Sonet,SUV,2022,2,68000,Manual,First,Diesel,1190000
+C1242,Maruti Suzuki,Celerio,Hatchback,2020,4,78000,Manual,First,Petrol,490000
+C1243,Maruti Suzuki,Celerio,Hatchback,2018,6,65630,Automatic,First,Hybrid/CNG,450000
+C1244,Maruti Suzuki,Ertiga,MUV,2023,1,7706,Manual,First,Hybrid/CNG,1300000
+C1245,Hyundai,Grand i10 Nios,Hatchback,2020,4,61000,Manual,First,Hybrid/CNG,590000
+C1246,Mahindra,Bolero,SUV,2021,3,57548,Manual,First,Diesel,825000
+C1247,Tata,Altroz,Hatchback,2022,2,30618,Manual,First,Diesel,895999
+C1248,Maruti Suzuki,Wagon-R,Hatchback,2024,0,50000,Automatic,First,Hybrid/CNG,750000
+C1249,Maruti Suzuki,Alto K10,Hatchback,2017,7,27000,Automatic,Second,Petrol,380000
+C1250,Maruti Suzuki,Wagon-R,Hatchback,2017,7,80000,Automatic,Second,Hybrid/CNG,420000
+C1251,Maruti Suzuki,Celerio,Hatchback,2020,4,45000,Manual,First,Hybrid/CNG,440000
+C1252,Honda,City,Sedan,2021,3,80100,Automatic,First,Petrol,1125000
+C1253,Maruti Suzuki,Eeco,MPV,2022,2,45000,Manual,First,Hybrid/CNG,645000
+C1254,Renault,Triber,MUV,2020,4,37000,Manual,First,Petrol,399000
+C1255,Mahindra,Scorpio-N,SUV,2023,1,17000,Automatic,First,Diesel,2199000
+C1256,Maruti Suzuki,Baleno,Hatchback,2022,2,17511,Manual,First,Petrol,865000
+C1257,Maruti Suzuki,Baleno,Hatchback,2021,3,65000,Manual,First,Petrol,680000
+C1258,Mahindra,Scorpio Classic,SUV,2024,0,5000,Automatic,First,Hybrid/CNG,1000000
+C1259,Maruti Suzuki,Baleno,Hatchback,2019,5,61000,Automatic,First,Petrol,600000
+C1260,Maruti Suzuki,Wagon-R,Hatchback,2022,2,80000,Automatic,First,Hybrid/CNG,520000
+C1261,Maruti Suzuki,Alto-K10,Hatchback,2017,7,45000,Manual,First,Petrol,290000
+C1262,Maruti Suzuki,Ignis,Hatchback,2022,2,9665,Automatic,First,Petrol,690000
+C1263,Maruti Suzuki,Ertiga,MUV,2020,4,30000,Manual,First,Petrol,875000
+C1264,Kia,Sonet,SUV,2021,3,29000,Automatic,First,Petrol,1075000
+C1265,Maruti Suzuki,Swift,Hatchback,2022,2,40000,Automatic,First,Diesel,765000
+C1266,Maruti Suzuki,Swift,Hatchback,2023,1,8235,Manual,First,Petrol,795000
+C1267,Tata,Tiago,Hatchback,2018,6,,Automatic,Second,Hybrid/CNG,420000
+C1268,Honda,City,Sedan,2017,7,45730,Automatic,Second,Hybrid/CNG,710000
+C1269,Maruti Suzuki,Eeco,MPV,2022,2,66000,Manual,Second,Hybrid/CNG,525000
+C1270,Maruti Suzuki,Celerio,Hatchback,2019,5,155000,Manual,Second,Hybrid/CNG,440000
+C1271,Maruti Suzuki,Wagon-R,Hatchback,2018,6,19000,Automatic,First,Petrol,375000
+C1272,Hyundai,Creta,SUV,2017,7,81000,Automatic,First,Petrol,725000
+C1273,Hyundai,Aura,Sedan,2023,1,41000,Automatic,First,Hybrid/CNG,200000
+C1274,Maruti Suzuki,Grand Vitara,SUV,2023,1,27000,Automatic,First,Hybrid/CNG,1670000
+C1275,Tata,Nexon,SUV,2019,5,20000,Automatic,Second,Petrol,579000
+C1276,Honda,City,Sedan,2020,4,33000,Automatic,First,Petrol,1185000
+C1277,Maruti Suzuki,Celerio,Hatchback,2017,7,85000,Automatic,Second,Hybrid/CNG,305000
+C1278,Maruti Suzuki,Wagon-R,Hatchback,2023,1,40000,Manual,Second,Hybrid/CNG,550000
+C1279,Maruti Suzuki,Ertiga,MUV,2022,2,320000,Manual,Second,Hybrid/CNG,1075000
+C1280,Maruti Suzuki,Ertiga,MUV,2021,3,49780,Manual,First,Petrol,894000
+C1281,Renault,KWID,Hatchback,2017,7,42193,Automatic,Second,Petrol,390000
+C1282,Maruti Suzuki,Celerio,Hatchback,2019,5,60000,Automatic,First,Hybrid/CNG,511000
+C1283,Tata,Tiago,Hatchback,2020,4,58000,Automatic,First,Hybrid/CNG,575000
+C1284,Maruti Suzuki,Wagon-R,Hatchback,2016,8,56000,Automatic,First,Petrol,525000
+C1285,Maruti Suzuki,Wagon-R,Hatchback,2020,4,70000,Manual,First,Hybrid/CNG,425000
+C1286,Hyundai,Alcazar,SUV,2022,2,72000,Automatic,First,Diesel,1545000
+C1287,Maruti Suzuki,Eeco,MPV,2020,4,50000,Manual,Second,Petrol,475000
+C1288,Maruti Suzuki,Celerio,Hatchback,2021,3,62000,Manual,First,Hybrid/CNG,450000
+C1289,Maruti Suzuki,Eeco,MPV,2021,3,165000,Automatic,First,Hybrid/CNG,540000
+C1290,Hyundai,Creta,SUV,2017,7,41000,Automatic,First,Hybrid/CNG,699000
+C1291,Maruti Suzuki,Wagon-R,Hatchback,2018,6,286000,Automatic,First,Hybrid/CNG,245000
+C1292,Honda,City,Sedan,2019,5,45000,Automatic,Second,Petrol,845000
+C1293,Hyundai,Grand i10 Nios,Hatchback,2021,3,8000,Automatic,Second,Petrol,675000
+C1294,Renault,KWID,Hatchback,2019,5,16000,Automatic,First,Petrol,420000
+C1295,Maruti Suzuki,Baleno,Hatchback,2017,7,60000,Manual,Second,Petrol,500000
+C1296,Maruti Suzuki,Ertiga,MUV,2019,5,68000,Manual,First,Hybrid/CNG,967000
+C1297,Honda,City,Sedan,2016,8,79000,Automatic,Second,Petrol,675000
+C1298,Tata,Altroz,Hatchback,2023,1,29000,Manual,First,Hybrid/CNG,875000
+C1299,Maruti Suzuki,Eeco,MPV,2021,3,52000,Automatic,First,Hybrid/CNG,500000
+C1300,Maruti Suzuki,Swift,Hatchback,2019,5,7000,Automatic,Second,Petrol,650000
+C1301,Maruti Suzuki,Ertiga,MUV,2023,1,21000,Automatic,First,Hybrid/CNG,1260000
+C1302,Mahindra,Thar,SUV,2022,2,52000,Manual,First,Diesel,1375000
+C1303,Hyundai,Venue,SUV,2020,4,23000,Manual,First,Petrol,599000
+C1304,Maruti Suzuki,Eeco,MPV,2024,0,25000,Automatic,First,Hybrid/CNG,850000
+C1305,Maruti Suzuki,Baleno,Hatchback,2020,4,37800,Manual,First,Petrol,615000
+C1306,Tata,Tiago,Hatchback,2020,4,58000,Automatic,First,Hybrid/CNG,475000
+C1307,Mahindra,Scorpio N,SUV,2024,0,0,Manual,First,Diesel,1424700
+C1308,Mahindra,Thar,SUV,2022,2,60000,Automatic,First,Diesel,1373000
+C1309,Maruti Suzuki,Ertiga,MUV,2021,3,53000,Automatic,Second,Hybrid/CNG,950000
+C1310,Hyundai,Verna,Sedan,2019,5,47500,Automatic,Second,Hybrid/CNG,785000
+C1311,Hyundai,Aura,Sedan,2021,3,43000,Automatic,First,Hybrid/CNG,599000
+C1312,Hyundai,Creta,SUV,2017,7,63441,Automatic,First,Petrol,950000
+C1313,Honda,City,Sedan,2019,5,55000,Manual,First,Hybrid/CNG,825000
+C1314,Nissan,Magnite,SUV,2022,2,30000,Automatic,Second,Petrol,750000
+C1315,Kia,Seltos,SUV,2020,4,45759,Automatic,First,Petrol,1346000
+C1316,Honda,City,Sedan,2017,7,75000,Automatic,Second,Petrol,765000
+C1317,Tata,Altroz,Hachback,2022,2,12000,Manual,First,Petrol,660000
+C1318,Maruti Suzuki,Wagon-R,Hatchback,2018,6,114000,Manual,Second,Hybrid/CNG,290000
+C1319,Maruti Suzuki,Wagon-R,Hatchback,2016,8,75000,Manual,First,Hybrid/CNG,315000
+C1320,Renault,Triber,MUV,2021,3,36250,Manual,First,Petrol,575000
+C1321,Mahindra,Thar,SUV,2022,2,40000,Manual,First,Diesel,1420000
+C1322,Maruti Suzuki,Wagon-R,Hatchback,2017,7,53000,Automatic,First,Hybrid/CNG,465000
+C1323,Renault,Triber,MUV,2020,4,26700,Automatic,First,Petrol,624999
+C1324,Maruti Suzuki,Ertiga,MUV,2022,2,54000,Manual,First,Hybrid/CNG,1125000
+C1325,Renault,KWID,Hatchback,2020,4,65000,Manual,First,Petrol,305000
+C1326,Maruti Suzuki,Ignis,Hatchback,2021,3,31000,Manual,First,Petrol,520000
+C1327,Maruti Suzuki,Ignis,Hatchback,2018,6,105000,Automatic,Second,Hybrid/CNG,380000
+C1328,Kia,Seltos,SUV,2022,2,27300,Automatic,Second,Petrol,1295000
+C1329,Maruti Suzuki,Ertiga,MUV,2017,7,70000,Automatic,First,Petrol,795000
+C1330,Maruti Suzuki,Eeco,MPV,2019,5,760000,Manual,Second,Hybrid/CNG,290000
+C1331,Renault,KWID,Hatchback,2017,7,61500,Manual,Second,Petrol,320000
+C1332,Maruti Suzuki,S-Presso,Hatchback,2019,5,59000,Automatic,First,Petrol,475000
+C1333,Maruti Suzuki,Ertiga,MUV,2016,8,41000,Manual,Second,Petrol,750000
+C1334,Maruti Suzuki,A-Star,Sedan,2024,0,180000,Manual,Second,Hybrid/CNG,65000
+C1335,Kia,Sonet,SUV,2021,3,65000,Automatic,First,Diesel,975000
+C1336,Maruti Suzuki,Ertiga,MUV,2023,1,9990,Automatic,First,Hybrid/CNG,1100000
+C1337,Maruti Suzuki,Baleno,Hatchback,2019,5,61000,Automatic,First,Petrol,645000
+C1338,Toyota,Fortuner,SUV,2023,1,7900,Automatic,First,Diesel,4575000
+C1339,Maruti Suzuki,Ertiga,MUV,2017,7,50000,Manual,Second,Hybrid/CNG,796000
+C1340,Maruti Suzuki,Wagon-R,Hatchback,2020,4,65874,Manual,Second,Hybrid/CNG,490000
+C1341,Maruti Suzuki,S-Presso,Hatchback,2022,2,170000,Automatic,First,Hybrid/CNG,170000
+C1342,Maruti Suzuki,Baleno,Hatchback,2018,6,72000,Manual,First,Hybrid/CNG,525000
+C1343,Maruti Suzuki,Brezza,SUV,2020,4,95000,Automatic,First,Petrol,751000
+C1344,Maruti Suzuki,Eeco,MPV,2017,7,142000,Automatic,Second,Hybrid/CNG,340000
+C1345,Honda,Amaze,Sedan,2019,5,30500,Automatic,Second,Petrol,642000
+C1346,Hyundai,Creta,SUV,2023,1,8394,Manual,First,Petrol,1437000
+C1347,Maruti Suzuki,Celerio,Hatchback,2019,5,68000,Manual,Second,Hybrid/CNG,410000
+C1348,Hyundai,Aura,Sedan,2021,3,68000,Manual,First,Hybrid/CNG,695000
+C1349,Maruti Suzuki,Celerio,Hatchback,2019,5,78000,Manual,First,Hybrid/CNG,425000
+C1350,Mahindra,Thar,SUV,2023,1,49000,Manual,First,Diesel,1575000
+C1351,Renault,KWID,Hatchback,2020,4,68000,Automatic,First,Hybrid/CNG,325000
+C1352,Maruti Suzuki,Baleno,Hatchback,2017,7,50000,Manual,Second,Hybrid/CNG,500000
+C1353,Mahindra,Thar,SUV,2021,3,10000,Automatic,Second,Petrol,1345000
+C1354,Maruti Suzuki,Baleno,Hatchback,2017,7,35866,Automatic,First,Hybrid/CNG,499536
+C1355,Maruti Suzuki,Baleno,Hatchback,2024,0,16500,Automatic,First,Hybrid/CNG,900000
+C1356,Hyundai,Alcazar,SUV,2023,1,28000,Automatic,Second,Diesel,1925000
+C1357,Honda,Amaze,Sedan,2019,5,60000,Manual,Second,Hybrid/CNG,535000
+C1358,Maruti Suzuki,Ertiga,MUV,2022,2,46000,Automatic,First,Hybrid/CNG,1175000
+C1359,Maruti Suzuki,Ertiga,MUV,2019,5,150000,Automatic,Second,Hybrid/CNG,650000
+C1360,Maruti Suzuki,Ertiga,MUV,2022,2,52000,Manual,First,Petrol,1175000
+C1361,Tata,Nexon,SUV,2021,3,24000,Automatic,First,Petrol,925000
+C1362,Maruti Suzuki,Grand Vitara,SUV,2024,0,2000,Manual,First,Hybrid/CNG,1450000
+C1363,Maruti Suzuki,Eeco,MPV,2021,3,170000,Automatic,First,Hybrid/CNG,370000
+C1364,Toyota,Innova Crysta,MPV,2021,3,77000,Automatic,First,Diesel,2651000
+C1365,Hyundai,Grand i10 Nios,Hatchback,2021,3,62457,Manual,First,Hybrid/CNG,565000
+C1366,Maruti Suzuki,Celerio,Hatchback,2018,6,58000,Automatic,Second,Petrol,530000
+C1367,Hyundai,Creta,SUV,2016,8,74000,Automatic,Second,Hybrid/CNG,850000
+C1368,Mahindra,Thar,SUV,2023,1,40000,Manual,First,Diesel,1380000
+C1369,Maruti Suzuki,Celerio,Hatchback,2017,7,49000,Manual,Second,Petrol,360000
+C1370,Maruti Suzuki,Celerio,Hatchback,2016,8,110000,Automatic,Second,Hybrid/CNG,299000
+C1371,Tata,Tiago,Hatchback,2022,2,37000,Manual,First,Hybrid/CNG,650000
+C1372,Maruti Suzuki,Swift,Hatchback,2020,4,65000,Manual,First,Hybrid/CNG,525000
+C1373,Maruti Suzuki,Celerio,Hatchback,2018,6,26000,Manual,First,Hybrid/CNG,490000
+C1374,Renault,Triber,MUV,2020,4,27800,Manual,First,Petrol,520000
+C1375,Volkswagen,Taigun,SUV,2021,3,59084,Automatic,First,Petrol,1565000
+C1376,Volkswagen,GTI,Hatchback,2016,8,75000,Automatic,Second,Petrol,530000
+C1377,Maruti Suzuki,Wagon-R,Hatchback,2016,8,73860,Automatic,Second,Hybrid/CNG,317000
+C1378,Toyota,Fortuner,SUV,2022,2,11500,Automatic,First,Petrol,3600000
+C1379,Maruti Suzuki,Baleno,Hatchback,2021,3,42470,Manual,First,Petrol,725000
+C1380,Maruti Suzuki,Celerio,Hatchback,2022,2,99999,Manual,Second,Hybrid/CNG,530000
+C1381,Hyundai,Verna,Sedan,2019,5,68580,Automatic,Second,Petrol,850000
+C1382,Honda,Amaze,Sedan,2017,7,107000,Automatic,Second,Hybrid/CNG,285000
+C1383,Hyundai,Venue,SUV,2022,2,20596,Manual,First,Diesel,1090000
+C1384,Maruti Suzuki,Wagon-R,Hatchback,2020,4,65000,Automatic,First,Hybrid/CNG,480000
+C1385,Maruti Suzuki,Eeco,MPV,2022,2,15000,Automatic,First,Hybrid/CNG,550000
+C1386,Skoda,Kushaq,SUV,2021,3,36000,Automatic,First,Petrol,1490000
+C1387,Hyundai,Creta,SUV,2022,2,44000,Automatic,First,Diesel,1690000
+C1388,Maruti Suzuki,Alto-K10,Hatchback,2017,7,82000,Manual,First,Hybrid/CNG,350000
+C1389,Hyundai,Grand i10 Nios,Hatchback,2022,2,50000,Manual,First,Hybrid/CNG,639999
+C1390,Mahindra,Thar,SUV,2022,2,13800,Manual,Second,Diesel,1250000
+C1391,Mahindra,Thar,SUV,2022,2,21700,Automatic,Second,Diesel,1475000
+C1392,Renault,KWID,Hatchback,2020,4,55000,Automatic,Second,Hybrid/CNG,325000
+C1393,Honda,City,Sedan,2017,7,74000,Automatic,Second,Petrol,765000
+C1394,Maruti Suzuki,Wagon-R,Hatchback,2017,7,61200,Manual,First,Hybrid/CNG,385000
+C1395,Maruti Suzuki,Eeco,MPV,2017,7,63000,Manual,First,Hybrid/CNG,440000
+C1396,Maruti Suzuki,Ignis,Hatchback,2018,6,25000,Automatic,First,Petrol,425000
+C1397,Maruti Suzuki,Baleno,Hatchback,2016,8,69000,Automatic,Second,Hybrid/CNG,489999
+C1398,Maruti Suzuki,Ertiga,MUV,2019,5,60000,Automatic,First,Petrol,950000
+C1399,Maruti Suzuki,Baleno,Hatchback,2016,8,77500,Automatic,Second,Hybrid/CNG,489999
+C1400,Maruti Suzuki,XL6,MUV,2023,1,10000,Manual,First,Hybrid/CNG,1250000
+C1401,Renault,Triber,MUV,2022,2,54000,Automatic,First,Petrol,725000
+C1402,Toyota,Glanza,Hatchback,2021,3,16500,Automatic,Second,Petrol,840000
+C1403,Maruti Suzuki,Wagon-R,Hatchback,2020,4,68000,Manual,Second,Petrol,49999
+C1404,Maruti Suzuki,Wagon-R,Hatchback,2017,7,77000,Manual,First,Hybrid/CNG,420000
+C1405,Maruti Suzuki,S-Presso,Hatchback,2023,1,20000,Automatic,First,Hybrid/CNG,600000
+C1406,Maruti Suzuki,Celerio,Hatchback,2018,6,49000,Automatic,First,Petrol,505000
+C1407,Maruti Suzuki,Ertiga,MUV,2018,6,72000,Manual,Second,Hybrid/CNG,690000
+C1408,Maruti Suzuki,Ertiga,MUV,2021,3,67000,Manual,First,Hybrid/CNG,1080000
+C1409,Honda,Amaze,Sedan,2017,7,81000,Manual,First,Hybrid/CNG,375000
+C1410,Maruti Suzuki,Baleno,Hatchback,2020,4,32000,Manual,First,Petrol,690000
+C1411,Maruti Suzuki,Ertiga,MUV,2017,7,58680,Manual,Second,Hybrid/CNG,675000
+C1412,Maruti Suzuki,Ertiga,MUV,2021,3,53885,Automatic,First,Hybrid/CNG,1090000
+C1413,Maruti Suzuki,Ertiga,MUV,2023,1,48000,Manual,First,Hybrid/CNG,1000000
+C1414,Hyundai,Aura,Sedan,2022,2,59000,Automatic,First,Hybrid/CNG,680000
+C1415,Skoda,Slavia,Sedan,2024,0,13000,Manual,First,Petrol,1200000
+C1416,Maruti Suzuki,Baleno,Hatchback,2017,7,31853,Automatic,First,Hybrid/CNG,529000
+C1417,Mahindra,Thar,SUV,2021,3,65000,Automatic,Second,Diesel,1295000
+C1418,Tata,Tiago,Hatchback,2018,6,58526,Manual,First,Hybrid/CNG,339000
+C1419,Maruti Suzuki,Eeco,MPV,2019,5,62400,Manual,First,Hybrid/CNG,470000
+C1420,Toyota,Innova Crysta,MPV,2021,3,57000,Automatic,First,Diesel,2150000
+C1421,Maruti Suzuki,Baleno,Hatchback,2018,6,78000,Manual,Second,Hybrid/CNG,500000
+C1422,Maruti Suzuki,Celerio,Hatchback,2020,4,114000,Manual,Second,Hybrid/CNG,410000
+C1423,Maruti Suzuki,Eeco,MPV,2020,4,67000,Manual,First,Hybrid/CNG,425000
+C1424,Maruti Suzuki,Ertiga,MUV,2019,5,35000,Automatic,Second,Petrol,1200000
+C1425,Tata,Tiago,Hatchback,2018,6,43000,Automatic,First,Hybrid/CNG,540000
+C1426,Hyundai,Creta,SUV,2022,2,75000,Manual,First,Diesel,1300000
+C1427,MG,Hector,SUV,2023,1,10500,Automatic,First,Petrol,2121000
+C1428,Renault,KWID,Hatchback,2018,6,34000,Manual,First,Petrol,400000
+C1429,Maruti Suzuki,Eeco,MPV,2022,2,12080,Automatic,First,Petrol,610000
+C1430,Maruti Suzuki,Swift,Hatchback,2023,1,5000,Automatic,First,Hybrid/CNG,750000
+C1431,Renault,KWID,Hatchback,2019,5,,Automatic,Second,Hybrid/CNG,310000
+C1432,Maruti Suzuki,Baleno,Hatchback,2018,6,70000,Automatic,Second,Hybrid/CNG,450000
+C1433,Maruti Suzuki,Eeco,MPV,2021,3,60000,Automatic,First,Hybrid/CNG,450000
+C1434,Maruti Suzuki,Alto-K10,Hatchback,2017,7,52350,Automatic,First,Hybrid/CNG,299000
+C1435,Kia,Sonet,SUV,2021,3,34000,Automatic,First,Hybrid/CNG,899000
+C1436,Hyundai,Aura,Sedan,2020,4,62370,Automatic,Second,Hybrid/CNG,675000
+C1437,Maruti Suzuki,Wagon-R,Hatchback,2021,3,65000,Manual,First,Hybrid/CNG,525000
+C1438,Tata,Harrier,SUV,2022,2,65550,Manual,First,Diesel,1400000
+C1439,Hyundai,Creta,SUV,2021,3,14125,Manual,First,Petrol,1152000
+C1440,Maruti Suzuki,Ertiga,MUV,2020,4,80000,Automatic,First,Hybrid/CNG,680000
+C1441,Maruti Suzuki,Celerio,Hatchback,2017,7,62000,Automatic,Second,Petrol,382000
+C1442,Maruti Suzuki,Baleno,Hatchback,2017,7,69000,Automatic,First,Petrol,685000
+C1443,Tata,Nexon,SUV,2021,3,24000,Manual,First,Petrol,780000
+C1444,Renault,KWID,Hatchback,2020,4,71200,Automatic,First,Hybrid/CNG,400000
+C1445,Hyundai,Creta,SUV,2017,7,68000,Automatic,First,Petrol,790000
+C1446,Honda,Amaze,Sedan,2016,8,102458,Manual,Second,Petrol,335000
+C1447,Maruti Suzuki,S-Presso,Hatchback,2021,3,82100,Manual,First,Hybrid/CNG,410000
+C1448,Maruti Suzuki,Celerio,Hatchback,2022,2,10000,Automatic,First,Petrol,590000
+C1449,Hyundai,Grand i10 Nios,Hatchback,2022,2,24512,Manual,First,Petrol,675000
+C1450,Maruti Suzuki,Baleno,Hatchback,2022,2,9800,Automatic,First,Petrol,790000
+C1451,Maruti Suzuki,Swift,Hatchback,2019,5,58000,Manual,First,Petrol,615000
+C1452,Kia,Seltos,SUV,2021,3,34500,Automatic,Second,Diesel,1550000
+C1453,Kia,Seltos,SUV,2023,1,23000,Automatic,First,Diesel,1845000
+C1454,Maruti Suzuki,Celerio,Hatchback,2017,7,63395,Manual,First,Hybrid/CNG,420000
+C1455,Honda,City,Sedan,2017,7,92000,Automatic,Second,Petrol,651000
+C1456,Maruti Suzuki,Grand Vitara,SUV,2022,2,27000,Automatic,First,Hybrid/CNG,1495000
+C1457,Maruti Suzuki,Dzire,Sedan,2022,2,24950,Manual,First,Hybrid/CNG,820000
+C1458,Maruti Suzuki,Ertiga,MUV,2021,3,81800,Manual,First,Hybrid/CNG,975000
+C1459,Maruti Suzuki,Ertiga,MUV,2019,5,90000,Manual,Second,Hybrid/CNG,750000
+C1460,Maruti Suzuki,Celerio,Hatchback,2017,7,80000,Manual,First,Hybrid/CNG,400000
+C1461,Maruti Suzuki,S-Presso,Hatchback,2020,4,31000,Automatic,First,Petrol,420000
+C1462,Maruti Suzuki,XL6,MUV,2021,3,70000,Automatic,First,Hybrid/CNG,960000
+C1463,Maruti Suzuki,Eeco,MPV,2022,2,11000,Automatic,First,Hybrid/CNG,650000
+C1464,Maruti Suzuki,Ertiga,MUV,2019,5,85000,Automatic,First,Petrol,845000
+C1465,Hyundai,Verna,Sedan,2019,5,37000,Manual,Second,Petrol,825000
+C1466,Honda,City,Sedan,2018,6,78000,Automatic,First,Petrol,710000
+C1467,Maruti Suzuki,Ertiga,MUV,2023,1,31500,Manual,First,Hybrid/CNG,1120000
+C1468,Renault,KWID,Hatchback,2020,4,52000,Automatic,First,Hybrid/CNG,349000
+C1469,Tata,Tigor,Sedan,2023,1,30000,Manual,First,Hybrid/CNG,680000
+C1470,Maruti Suzuki,Wagon-R,Hatchback,2019,5,49000,Manual,First,Hybrid/CNG,425000
+C1471,Kia,Seltos,SUV,2022,2,31000,Automatic,First,Petrol,1675000
+C1472,Maruti Suzuki,Eeco,MPV,2017,7,84240,Automatic,Second,Hybrid/CNG,295000
+C1473,Maruti Suzuki,Dzire,Sedan,2018,6,44574,Automatic,First,Petrol,675000
+C1474,Hyundai,Creta,SUV,2023,1,6000,Automatic,First,Diesel,2011000
+C1475,Mahindra,Bolero,SUV,2021,3,41000,Manual,First,Diesel,851000
+C1476,Maruti Suzuki,Baleno,Hatchback,2018,6,41000,Automatic,First,Petrol,745000
+C1477,Honda,City,Sedan,2017,7,90000,Automatic,Second,Hybrid/CNG,655000
+C1478,Maruti Suzuki,Celerio,Hatchback,2018,6,74000,Automatic,First,Hybrid/CNG,450000
+C1479,Maruti Suzuki,Baleno,Hatchback,2017,7,76483,Manual,Second,Petrol,572000
+C1480,Maruti Suzuki,Baleno,Hatchback,2016,8,46000,Automatic,Second,Petrol,525000
+C1481,Maruti Suzuki,Celerio,Hatchback,2017,7,160000,Automatic,First,Petrol,375000
+C1482,Toyota,Innova Crysta,MPV,2020,4,83000,Automatic,First,Petrol,1711000
+C1483,Maruti Suzuki,Swift,Hatchback,2023,1,15500,Manual,First,Hybrid/CNG,865000
+C1484,Toyota,Urban Cruiser Hyryder,SUV,2023,1,12000,Automatic,First,Hybrid/CNG,1950000
+C1485,Hyundai,Venue,SUV,2023,1,28000,Automatic,First,Petrol,1250000
+C1486,Maruti Suzuki,Ertiga,MUV,2021,3,76000,Automatic,First,Petrol,1075000
+C1487,Maruti Suzuki,Baleno,Hatchback,2017,7,14000,Automatic,First,Petrol,650000
+C1488,Maruti Suzuki,Eeco,MPV,2019,5,,Automatic,Second,Hybrid/CNG,450000
+C1489,MG,Hector,SUV,2020,4,29000,Automatic,First,Petrol,1370000
+C1490,Maruti Suzuki,Swift,Hatchback,2020,4,52000,Automatic,First,Petrol,625000
+C1491,Maruti Suzuki,Swift,Hatchback,2021,3,34000,Automatic,First,Petrol,790000
+C1492,Hyundai,Aura,Sedan,2022,2,59000,Automatic,Second,Hybrid/CNG,680000
+C1493,Maruti Suzuki,Wagon-R,Hatchback,2016,8,55000,Automatic,Second,Petrol,425000
+C1494,Kia,Seltos,SUV,2021,3,48500,Automatic,First,Diesel,1725000
+C1495,Maruti Suzuki,Swift,Hatchback,2022,2,15000,Automatic,First,Petrol,700000
+C1496,Hyundai,Aura,Sedan,2023,1,70000,Automatic,First,Hybrid/CNG,220000
+C1497,Mahindra,Bolero,SUV,2021,3,88200,Manual,First,Diesel,820000
+C1498,Maruti Suzuki,Wagon-R,Hatchback,2018,6,48000,Automatic,First,Petrol,448000
+C1499,Toyota,Urban Cruiser Hyryder,SUV,2022,2,29000,Automatic,First,Hybrid/CNG,1750000
+C1500,Tata,Punch ,SUV,2023,1,30000,Automatic,First,Diesel,350000
+C1501,Hyundai,Grand i10 Nios,Hatchback,2022,2,58000,Manual,First,Petrol,600000
+C1502,Maruti Suzuki,Swift,Hatchback,2016,8,85000,Manual,Second,Petrol,480000
+C1503,Maruti Suzuki,Wagon-R,Hatchback,2022,2,23000,Manual,First,Hybrid/CNG,599000
+C1504,Maruti Suzuki,Alto-K10,Hatchback,2019,5,60000,Manual,Second,Petrol,375000
+C1505,Hyundai,Aura,Sedan,2021,3,34300,Manual,First,Hybrid/CNG,705000
+C1506,Kia,Seltos,SUV,2020,4,58000,Automatic,Second,Petrol,1290000
+C1507,Maruti Suzuki,Ertiga,MUV,2016,8,80000,Manual,Second,Hybrid/CNG,689999
+C1508,Maruti Suzuki,Baleno,Hatchback,2019,5,46000,Manual,Second,Petrol,510000
+C1509,Maruti Suzuki,XL6,MUV,2021,3,63900,Automatic,First,Petrol,999000
+C1510,Renault,KWID,Hatchback,2017,7,58097,Manual,First,Petrol,355000
+C1511,Maruti Suzuki,Eeco,MPV,2022,2,16000,Manual,First,Hybrid/CNG,620000
+C1512,Maruti Suzuki,Wagon-R,Hatchback,2019,5,68000,Manual,Second,Hybrid/CNG,475000
+C1513,Maruti Suzuki,Wagon-R,Hatchback,2017,7,150000,Automatic,Second,Hybrid/CNG,230000
+C1514,Hyundai,Creta,SUV,2022,2,16000,Manual,First,Petrol,1300000
+C1515,Maruti Suzuki,Wagon-R,Hatchback,2016,8,78000,Automatic,Second,Hybrid/CNG,240000
+C1516,Maruti Suzuki,Baleno,Hatchback,2017,7,70000,Manual,First,Petrol,670000
+C1517,Maruti Suzuki,XL6,MUV,2023,1,19500,Automatic,First,Petrol,1375000
+C1518,Hyundai,Creta,SUV,2016,8,78000,Manual,Second,Petrol,675000
+C1519,Honda,City,Sedan,2017,7,75000,Automatic,Second,Petrol,765000
+C1520,MG,Hector,SUV,2020,4,46450,Automatic,First,Petrol,1550000
+C1521,Tata,Tiago,Hatchback,2024,0,17282,Manual,First,Hybrid/CNG,675000
+C1522,Maruti Suzuki,Swift,Hatchback,2024,0,18950,Automatic,First,Petrol,950000
+C1523,Hyundai,Grand i10 Nios,Hatchback,2023,1,7000,Manual,First,Petrol,825000
+C1524,Maruti Suzuki,Baleno,Hatchback,2018,6,122289,Automatic,Second,Petrol,574000
+C1525,Skoda,Kushaq,SUV,2022,2,8000,Automatic,First,Petrol,1290000
+C1526,Maruti Suzuki,Celerio,Hatchback,2021,3,32,Automatic,First,Hybrid/CNG,450000
+C1527,Tata,Tigor,Sedan,2024,0,4300,Automatic,First,Hybrid/CNG,1050000
+C1528,Honda,City,Sedan,2018,6,44902,Automatic,Second,Petrol,699000
+C1529,Maruti Suzuki,XL6,MUV,2019,5,35000,Manual,Second,Petrol,990000
+C1530,Maruti Suzuki,Wagon R,Hatchback,2016,8,89000,Automatic,First,Petrol,460000
+C1531,Maruti Suzuki,Grand Vitara,SUV,2024,0,13400,Automatic,First,Hybrid/CNG,2045000
+C1532,Kia,Sonet,SUV,2020,4,50000,Manual,First,Petrol,740000
+C1533,Tata,Tigor,Sedan,2019,5,52600,Automatic,First,Hybrid/CNG,685000
+C1534,Renault,KWID,Hatchback,2017,7,55000,Automatic,First,Petrol,345000
+C1535,Maruti Suzuki,Eeco,MPV,2021,3,52000,Manual,Second,Petrol,395000
+C1536,Hyundai,Aura,Sedan,2020,4,41000,Manual,Second,Hybrid/CNG,645001
+C1537,Honda,Amaze,Sedan,2021,3,3900,Manual,Second,Petrol,660000
+C1538,Maruti Suzuki,Celerio,Hatchback,2020,4,65000,Manual,Second,Hybrid/CNG,369000
+C1539,Maruti Suzuki,Baleno,Hatchback,2021,3,29000,Manual,First,Petrol,690000
+C1540,Maruti Suzuki,Jimny,SUV,2023,1,521,Manual,First,Petrol,1435000
+C1541,Toyota,Innova Crysta,MPV,2021,3,38000,Automatic,Second,Petrol,2000000
+C1542,Hyundai,Verna,Sedan,2023,1,23000,Automatic,First,Petrol,1560000
+C1543,Maruti Suzuki,S-Presso,Hatchback,2023,1,13000,Manual,First,Hybrid/CNG,499000
+C1544,Hyundai,Grand i10 Nios,Hatchback,2022,2,50000,Manual,First,Hybrid/CNG,639999
+C1545,Maruti Suzuki,Swift,Hatchback,2016,8,88000,Manual,First,Petrol,430000
+C1546,Tata,Nexon,SUV,2019,5,36788,Automatic,Second,Petrol,780000
+C1547,Maruti Suzuki,Celerio,Hatchback,2016,8,110000,Automatic,Second,Hybrid/CNG,299000
+C1548,Maruti Suzuki,Wagon-R,Hatchback,2016,8,150000,Automatic,First,Hybrid/CNG,180000
+C1549,Maruti Suzuki,Ertiga,MUV,2021,3,29500,Manual,First,Hybrid/CNG,1180000
+C1550,Maruti Suzuki,Alto-K10,Hatchback,2019,5,37000,Manual,Second,Hybrid/CNG,345000
+C1551,Maruti Suzuki,Eeco,MPV,2018,6,83200,Manual,Second,Hybrid/CNG,325000
+C1552,Maruti Suzuki,Wagon-R,Hatchback,2016,8,57000,Automatic,Second,Hybrid/CNG,345000
+C1553,Toyota,Glanza,Hatchback,2021,3,21000,Automatic,First,Petrol,850000
+C1554,Maruti Suzuki,Ertiga,MUV,2016,8,99000,Manual,Second,Hybrid/CNG,689000
+C1555,Maruti Suzuki,Ertiga,MUV,2016,8,63000,Manual,First,Hybrid/CNG,695000
+C1556,Mahindra,Thar,SUV,2023,1,4400,Automatic,Second,Petrol,1350000
+C1557,Renault,KWID,Hatchback,2017,7,30877,Automatic,Second,Hybrid/CNG,265000
+C1558,Toyota,Glanza,Hatchback,2023,1,24000,Automatic,First,Petrol,850000
+C1559,Maruti Suzuki,Celerio,Hatchback,2016,8,70000,Automatic,Second,Hybrid/CNG,380000
+C1560,Renault,Triber,MUV,2022,2,18000,Manual,First,Hybrid/CNG,695000
+C1561,Maruti Suzuki,Swift,Hatchback,2021,3,29000,Automatic,First,Petrol,765000
+C1562,Maruti Suzuki,Baleno,Hatchback,2016,8,62000,Automatic,Second,Petrol,582000
+C1563,Maruti Suzuki,Baleno,Hatchback,2021,3,55000,Manual,First,Petrol,575000
+C1564,Honda,Amaze,Sedan,2019,5,67000,Automatic,Second,Petrol,575000
+C1565,Maruti Suzuki,Ertiga,MUV,2023,1,69000,Automatic,First,Hybrid/CNG,450000
+C1566,Mahindra,Scorpio N,SUV,2023,1,28000,Automatic,First,Diesel,2450000
+C1567,Maruti Suzuki,Ignis,Hatchback,2019,5,25000,Automatic,First,Petrol,432000
+C1568,Maruti Suzuki,Celerio,Hatchback,2016,8,14123,Automatic,Second,Hybrid/CNG,313131
+C1569,Maruti Suzuki,Eeco,MPV,2018,6,72000,Automatic,First,Hybrid/CNG,350000
+C1570,Hyundai,Aura,Sedan,2022,2,64000,Manual,First,Hybrid/CNG,690000
+C1571,Maruti Suzuki,Wagon-R,Hatchback,2017,7,140000,Manual,First,Hybrid/CNG,200000
+C1572,Maruti Suzuki,Wagon-R,Hatchback,2020,4,52300,Manual,First,Hybrid/CNG,445000
+C1573,Hyundai,Verna,Sedan,2018,6,78000,Automatic,First,Hybrid/CNG,745000
+C1574,Renault,KWID,Hatchback,2016,8,69000,Manual,Second,Hybrid/CNG,210000
+C1575,Maruti Suzuki,Swift,Hatchback,2021,3,59000,Automatic,First,Hybrid/CNG,750000
+C1576,Mahindra,Thar,SUV,2023,1,18000,Automatic,First,Diesel,1325000
+C1577,Toyota,Fortuner,SUV,2023,1,18500,Automatic,First,Diesel,4500000
+C1578,Maruti Suzuki,Wagon-R,Hatchback,2019,5,48055,Manual,First,Petrol,535000
+C1579,Maruti Suzuki,Celerio,Hatchback,2019,5,75000,Manual,First,Hybrid/CNG,460000
+C1580,Hyundai,Grand i10 Nios,Hatchback,2021,3,87500,Manual,First,Hybrid/CNG,575000
+C1581,Maruti Suzuki,Wagon-R,Hatchback,2017,7,57099,Automatic,First,Hybrid/CNG,465000
+C1582,Tata,Tigor,Sedan,2023,1,18000,Manual,First,Hybrid/CNG,751000
+C1583,Volkswagen,Taigun,SUV,2023,1,8000,Automatic,First,Petrol,1440000
+C1584,Maruti Suzuki,Wagon-R,Hatchback,2018,6,74000,Automatic,Second,Hybrid/CNG,430000
+C1585,Renault,KWID,Hatchback,2016,8,51000,Automatic,Second,Petrol,259999
+C1586,Maruti Suzuki,Eeco,MPV,2016,8,75000,Automatic,Second,Hybrid/CNG,300000
+C1587,Maruti Suzuki,Wagon-R,Hatchback,2017,7,25122,Manual,First,Petrol,415000
+C1588,Kia,Sonet,SUV,2021,3,35000,Automatic,First,Hybrid/CNG,899000
+C1589,Maruti Suzuki,Eeco,MPV,2024,0,1300,Automatic,First,Hybrid/CNG,750000
+C1590,Maruti Suzuki,Celerio,Hatchback,2024,0,8000,Manual,First,Petrol,630000
+C1591,Maruti Suzuki,Ignis,Hatchback,2017,7,53402,Manual,Second,Petrol,490000
+C1592,Maruti Suzuki,Eeco,MPV,2018,6,57000,Manual,Second,Hybrid/CNG,425000
+C1593,Hyundai,Creta,SUV,2016,8,89600,Automatic,Second,Petrol,785000
+C1594,Renault,KWID,Hatchback,2016,8,1,Manual,Second,Petrol,199999
+C1595,Mahindra,Scorpio-N,SUV,2024,0,28000,Automatic,First,Diesel,2025000
+C1596,Maruti Suzuki,Ertiga,MUV,2017,7,74000,Manual,First,Hybrid/CNG,675000
+C1597,Maruti Suzuki,S-Presso,Hatchback,2023,1,8500,Manual,Second,Petrol,425000
+C1598,Maruti Suzuki,Wagon-R,Hatchback,2016,8,125000,Automatic,First,Hybrid/CNG,315000
+C1599,Honda,Amaze,Sedan,2018,6,52000,Automatic,First,Petrol,649999
+C1600,Nissan,Magnite,SUV,2021,3,35000,Manual,First,Petrol,510000
+C1601,Maruti Suzuki,Ertiga,MUV,2016,8,65000,Manual,Second,Hybrid/CNG,689000
+C1602,Maruti Suzuki,Ertiga,MUV,2018,6,58000,Manual,First,Hybrid/CNG,801000
+C1603,Maruti Suzuki,Invicto,MPV,2023,1,25000,Automatic,First,Hybrid/CNG,2550000
+C1604,Renault,Triber,MUV,2022,2,81525,Manual,First,Petrol,445000
+C1605,Maruti Suzuki,Celerio,Hatchback,2016,8,36000,Automatic,First,Petrol,475000
+C1606,Maruti Suzuki,XL6,MUV,2019,5,40000,Automatic,First,Petrol,975000
+C1607,Hyundai,Creta,SUV,2020,4,55000,Automatic,Second,Petrol,1325000
+C1608,Maruti Suzuki,Wagon-R,Hatchback,2022,2,11000,Manual,First,Hybrid/CNG,590000
+C1609,Mahindra,XUV700,SUV,2022,2,36000,Automatic,Second,Diesel,2275111
+C1610,Maruti Suzuki,Swift,Hatchback,2019,5,5500,Automatic,First,Hybrid/CNG,600000
+C1611,Honda,City,Sedan,2016,8,85000,Automatic,Second,Petrol,649999
+C1612,Tata,Altroz,Hatchback,2023,1,26500,Automatic,Second,Petrol,745000
+C1613,Maruti Suzuki,Ertiga,MUV,2020,4,63500,Manual,First,Hybrid/CNG,1000000
+C1614,Tata,Tiago,Hatchback,2022,2,62000,Automatic,First,Hybrid/CNG,700000
+C1615,Maruti Suzuki,Wagon-R,Hatchback,2017,7,78000,Manual,First,Hybrid/CNG,280000
+C1616,Tata,Tiago,Hatchback,2020,4,60000,Manual,Second,Petrol,525000
+C1617,Hyundai,Creta,SUV,2018,6,32000,Automatic,First,Petrol,1190000
+C1618,Maruti Suzuki,Wagon-R,Hatchback,2018,6,62217,Automatic,Second,Hybrid/CNG,421999
+C1619,Tata,Altroz,Hatchback,2022,2,45000,Manual,First,Diesel,775000
+C1620,Maruti Suzuki,Celerio,Hatchback,2019,5,66000,Automatic,First,Hybrid/CNG,465000
+C1621,Maruti Suzuki,Wagon R,Hatchback,2018,6,72000,Manual,First,Hybrid/CNG,415000
+C1622,Kia,Seltos,SUV,2021,3,37900,Automatic,First,Diesel,1545000
+C1623,Maruti Suzuki,Wagon R,Hatchback,2016,8,70000,Manual,Second,Petrol,440000
+C1624,Hyundai,Creta,SUV,2019,5,56000,Manual,First,Petrol,985000
+C1625,Maruti Suzuki,Ertiga,MUV,2017,7,72000,Manual,First,Hybrid/CNG,750000
+C1626,Maruti Suzuki,Ertiga,MUV,2021,3,82000,Manual,First,Hybrid/CNG,975000
+C1627,Maruti Suzuki,Ertiga,MUV,2019,5,62000,Automatic,Second,Hybrid/CNG,820000
+C1628,Toyota,Fortuner,SUV,2024,0,9000,Automatic,First,Diesel,4150000
+C1629,Hyundai,Grand i10 Nios,Hatchback,2019,5,35485,Manual,Second,Petrol,565000
+C1630,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,515000
+C1631,Maruti Suzuki,Swift,Hatchback,2020,4,98000,Manual,First,Petrol,600000
+C1632,Maruti Suzuki,Baleno,Hatchback,2023,1,15000,Manual,First,Petrol,785000
+C1633,Maruti Suzuki,Wagon-R,Hatchback,2019,5,63000,Manual,Second,Hybrid/CNG,475000
+C1634,Kia,Seltos,SUV,2020,4,59000,Manual,First,Petrol,1045000
+C1635,Tata,Punch ,SUV,2024,0,40000,Manual,First,Hybrid/CNG,800000
+C1636,Toyota,Fortuner,SUV,2021,3,38351,Manual,First,Diesel,3500000
+C1637,Honda,City,Sedan,2016,8,62500,Automatic,Second,Hybrid/CNG,550000
+C1638,Maruti Suzuki,Ertiga,MUV,2020,4,30000,Manual,First,Petrol,875000
+C1639,Honda,City,Sedan,2016,8,47000,Automatic,Second,Hybrid/CNG,611000
+C1640,Maruti Suzuki,Wagon-R,Hatchback,2016,8,4286,Manual,Second,Hybrid/CNG,330000
+C1641,Skoda,Slavia,Sedan,2024,0,5000,Automatic,First,Petrol,1569000
+C1642,Maruti Suzuki,Ertiga,MUV,2021,3,66000,Manual,Second,Hybrid/CNG,365000
+C1643,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,535000
+C1644,Mahindra,Bolero,SUV,2024,0,14000,Manual,First,Petrol,1075000
+C1645,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,515000
+C1646,Maruti Suzuki,Brezza,SUV,2020,4,49000,Manual,First,Petrol,690000
+C1647,Tata,Nexon,SUV,2021,3,54000,Manual,First,Diesel,775000
+C1648,Maruti Suzuki,Celerio,Hatchback,2017,7,37000,Automatic,First,Petrol,500000
+C1649,Mahindra,Thar,SUV,2023,1,14500,Automatic,First,Diesel,1735000
+C1650,Maruti Suzuki,Ertiga,MUV,2017,7,107000,Manual,First,Hybrid/CNG,750000
+C1651,Skoda,Kushaq,SUV,2022,2,16000,Automatic,Second,Petrol,1675000
+C1652,Maruti Suzuki,Ertiga,MUV,2022,2,100000,Manual,First,Hybrid/CNG,930000
+C1653,Maruti Suzuki,Baleno,Hatchback,2022,2,18000,Manual,Second,Petrol,595000
+C1654,Maruti Suzuki,Ignis,Hatchback,2017,7,81890,Manual,First,Petrol,435000
+C1655,Maruti Suzuki,Wagon-R,Hatchback,2022,2,38000,Manual,First,Hybrid/CNG,600000
+C1656,Maruti Suzuki,Celerio,Hatchback,2019,5,155000,Manual,Second,Hybrid/CNG,440000
+C1657,Maruti Suzuki,Ignis,Hatchback,2017,7,51000,Automatic,Second,Hybrid/CNG,400000
+C1658,Kia,Seltos,SUV,2022,2,22000,Automatic,First,Petrol,1550000
+C1659,Maruti Suzuki,Alto-K10,Hatchback,2018,6,34000,Automatic,Second,Petrol,290000
+C1660,Maruti Suzuki,Wagon-R,Hatchback,2016,8,72000,Manual,First,Petrol,280000
+C1661,Maruti Suzuki,Ertiga,MUV,2016,8,25,Automatic,Second,Hybrid/CNG,520000
+C1662,Kia,Sonet,SUV,2021,3,30000,Automatic,First,Diesel,1190000
+C1663,Maruti Suzuki,Celerio,Hatchback,2020,4,40000,Automatic,Second,Hybrid/CNG,490000
+C1664,Maruti Suzuki,Wagon-R,Hatchback,2016,8,92000,Manual,First,Hybrid/CNG,315000
+C1665,Hyundai,Grand i10 Nios,Hatchback,2021,3,58241,Manual,First,Hybrid/CNG,585000
+C1666,Maruti Suzuki,Swift,Hatchback,2021,3,72782,Manual,First,Petrol,630000
+C1667,Honda,Amaze,Sedan,2021,3,57000,Manual,Second,Petrol,585000
+C1668,Maruti Suzuki,Wagon-R,Hatchback,2019,5,56000,Manual,First,Hybrid/CNG,425000
+C1669,Maruti Suzuki,Ertiga,MUV,2019,5,94000,Manual,First,Hybrid/CNG,865000
+C1670,Mahindra,XUV700,SUV,2021,3,52000,Manual,First,Petrol,1925000
+C1671,Maruti Suzuki,Swift,Hatchback,2022,2,40000,Manual,First,Hybrid/CNG,660000
+C1672,Renault,KWID,Hatchback,2016,8,61600,Automatic,Second,Petrol,240000
+C1673,Volkswagen,Virtus,Sedan,2023,1,11021,Manual,First,Petrol,1220000
+C1674,Maruti Suzuki,Wagon-R,Hatchback,2016,8,80000,Manual,Second,Hybrid/CNG,225000
+C1675,Kia,Sonet,SUV,2021,3,65000,Automatic,First,Diesel,975000
+C1676,Maruti Suzuki,Celerio,Hatchback,2018,6,38000,Automatic,Second,Petrol,380000
+C1677,Hyundai,Alcazar,SUV,2021,3,32000,Automatic,First,Petrol,900000
+C1678,Maruti Suzuki,Wagon-R,Hatchback,2020,4,82000,Automatic,First,Hybrid/CNG,560000
+C1679,Maruti Suzuki,Ertiga,MUV,2017,7,72000,Manual,Second,Hybrid/CNG,750000
+C1680,Hyundai,Aura,Sedan,2020,4,70000,Manual,First,Hybrid/CNG,625000
+C1681,Maruti Suzuki,Ignis,Hatchback,2018,6,65000,Automatic,Second,Hybrid/CNG,475000
+C1682,Maruti Suzuki,Ertiga,MUV,2017,7,72300,Manual,First,Hybrid/CNG,749000
+C1683,Maruti Suzuki,Celerio,Hatchback,2016,8,49000,Automatic,First,Petrol,425000
+C1684,Maruti Suzuki,Ertiga,MUV,2023,1,41000,Manual,First,Hybrid/CNG,1135000
+C1685,Maruti Suzuki,Baleno,Hatchback,2017,7,80000,Automatic,Second,Petrol,650000
+C1686,Hyundai,Venue,SUV,2023,1,69000,Manual,First,Diesel,975000
+C1687,Maruti Suzuki,Celerio,Hatchback,2016,8,55500,Automatic,First,Hybrid/CNG,321000
+C1688,Honda,City,Sedan,2018,6,38000,Automatic,Second,Hybrid/CNG,715000
+C1689,Volkswagen,GTI,Hatchback,2016,8,75000,Automatic,Second,Petrol,530000
+C1690,Hyundai,Aura,Sedan,2023,1,1234,Manual,First,Hybrid/CNG,190000
+C1691,Honda,Amaze,Sedan,2018,6,68000,Automatic,First,Hybrid/CNG,635000
+C1692,Maruti Suzuki,Eeco,MPV,2021,3,55110,Automatic,First,Hybrid/CNG,450000
+C1693,Honda,Amaze,Sedan,2017,7,65000,Manual,Second,Hybrid/CNG,399000
+C1694,Hyundai,Aura,Sedan,2022,2,,Automatic,First,Hybrid/CNG,780000
+C1695,Maruti Suzuki,Wagon-R,Hatchback,2021,3,53000,Automatic,First,Hybrid/CNG,510000
+C1696,Maruti Suzuki,Baleno,Hatchback,2018,6,33000,Automatic,Second,Petrol,599000
+C1697,Mahindra,Thar,SUV,2023,1,15000,Automatic,First,Petrol,1450000
+C1698,Maruti Suzuki,Ertiga,MUV,2018,6,57200,Manual,First,Hybrid/CNG,799000
+C1699,Toyota,Innova Crysta,MPV,2021,3,75000,Automatic,First,Diesel,2600000
+C1700,Maruti Suzuki,Wagon R 1.0,Hatchback,2016,8,75000,Manual,First,Hybrid/CNG,325000
+C1701,Hyundai,Creta,SUV,2019,5,59980,Automatic,First,Petrol,1140000
+C1702,Maruti Suzuki,Brezza,SUV,2023,1,,Automatic,First,Hybrid/CNG,150000
+C1703,Tata,Nexon,SUV,2019,5,52000,Automatic,First,Hybrid/CNG,515000
+C1704,Maruti Suzuki,Wagon-R,Hatchback,2022,2,59000,Manual,First,Hybrid/CNG,598000
+C1705,Maruti Suzuki,Ertiga,MUV,2016,8,92200,Manual,Second,Hybrid/CNG,745000
+C1706,Toyota,Innova Crysta,MPV,2021,3,35000,Automatic,Second,Diesel,3100000
+C1707,Honda,Amaze,Sedan,2019,5,50000,Manual,First,Hybrid/CNG,535000
+C1708,Honda,Amaze,Sedan,2019,5,67000,Automatic,Second,Petrol,575000
+C1709,Hyundai,Grand i10 Nios,Hatchback,2020,4,61000,Manual,First,Hybrid/CNG,599000
+C1710,Hyundai,Verna,Sedan,2019,5,47000,Automatic,Second,Hybrid/CNG,795000
+C1711,Mahindra,Thar,SUV,2024,0,150,Automatic,First,Hybrid/CNG,234567
+C1712,Maruti Suzuki,Celerio,Hatchback,2016,8,57250,Manual,First,Hybrid/CNG,368000
+C1713,Renault,KWID,Hatchback,2018,6,35000,Automatic,First,Petrol,380000
+C1714,Maruti Suzuki,Eeco,MPV,2019,5,33000,Manual,First,Hybrid/CNG,485000
+C1715,Maruti Suzuki,Ertiga,MUV,2020,4,80000,Manual,First,Hybrid/CNG,979999
+C1716,Maruti Suzuki,Ertiga,MUV,2022,2,29000,Automatic,First,Hybrid/CNG,1050000
+C1717,Tata,Nexon,SUV,2019,5,52000,Automatic,First,Hybrid/CNG,510000
+C1718,Mahindra,Scorpio-N,SUV,2022,2,20545,Manual,Second,Diesel,2150000
+C1719,Maruti Suzuki,Wagon-R,Hatchback,2019,5,63000,Manual,Second,Hybrid/CNG,475000
+C1720,Hyundai,Grand i10 Nios,Hatchback,2023,1,13863,Manual,First,Hybrid/CNG,697000
+C1721,Honda,City,Sedan,2017,7,68000,Automatic,First,Hybrid/CNG,745000
+C1722,Honda,City,Sedan,2017,7,35000,Manual,Second,Petrol,695000
+C1723,Maruti Suzuki,Swift,Hatchback,2024,0,2000,Automatic,First,Hybrid/CNG,900000
+C1724,Renault,KWID,Hatchback,2018,6,28000,Manual,First,Petrol,295000
+C1725,Maruti Suzuki,Swift,Hatchback,2020,4,82000,Automatic,First,Hybrid/CNG,551000
+C1726,Honda,City,Sedan,2018,6,58000,Automatic,Second,Petrol,750000
+C1727,Tata,Tiago,Hatchback,2018,6,43220,Automatic,First,Petrol,480000
+C1728,Maruti Suzuki,Ertiga,MUV,2017,7,52000,Manual,Second,Hybrid/CNG,690000
+C1729,Mahindra,Thar,SUV,2021,3,60000,Manual,First,Diesel,1350000
+C1730,Hyundai,Creta,SUV,2020,4,120488,Manual,First,Petrol,865000
+C1731,Maruti Suzuki,Ertiga,MUV,2021,3,73300,Manual,First,Hybrid/CNG,1030000
+C1732,Maruti Suzuki,Ignis,Hatchback,2019,5,29770,Automatic,Second,Petrol,525000
+C1733,Maruti Suzuki,Eeco,MPV,2022,2,130000,Automatic,First,Hybrid/CNG,115000
+C1734,Honda,Amaze,Sedan,2021,3,58000,Automatic,First,Petrol,680000
+C1735,Volkswagen,Virtus,Sedan,2023,1,20000,Automatic,Second,Petrol,1650000
+C1736,Maruti Suzuki,Celerio,Hatchback,2020,4,62000,Manual,First,Petrol,525000
+C1737,Renault,Triber,MUV,2020,4,26000,Automatic,First,Petrol,625000
+C1738,Maruti Suzuki,Eeco,MPV,2019,5,62000,Manual,First,Hybrid/CNG,576000
+C1739,Maruti Suzuki,Eeco,MPV,2023,1,11293,Manual,First,Petrol,575000
+C1740,Maruti Suzuki,Celerio,Hatchback,2017,7,65000,Manual,Second,Petrol,375000
+C1741,Hyundai,Creta,SUV,2021,3,27531,Manual,First,Petrol,1295000
+C1742,Maruti Suzuki,Ignis,Hatchback,2017,7,51000,Automatic,Second,Hybrid/CNG,400000
+C1743,Volkswagen,GTI,Hatchback,2016,8,75000,Automatic,Second,Petrol,530000
+C1744,Honda,Amaze,Sedan,2019,5,37100,Automatic,Second,Hybrid/CNG,620000
+C1745,Maruti Suzuki,Ignis,Hatchback,2019,5,31000,Manual,First,Petrol,500000
+C1746,Mahindra,Thar,SUV,2021,3,65000,Automatic,Second,Diesel,1315000
+C1747,Maruti Suzuki,Ertiga,MUV,2017,7,68558,Manual,First,Hybrid/CNG,675000
+C1748,Maruti Suzuki,Eeco,MPV,2018,6,98130,Automatic,Second,Hybrid/CNG,390000
+C1749,Maruti Suzuki,Swift,Hatchback,2017,7,69053,Manual,Second,Petrol,600000
+C1750,Tata,Tiago,Hatchback,2020,4,5589,Automatic,First,Petrol,725000
+C1751,Hyundai,Alcazar,SUV,2021,3,35000,Automatic,First,Diesel,1850000
+C1752,Maruti Suzuki,Ignis,Hatchback,2018,6,44500,Automatic,Second,Petrol,490000
+C1753,Maruti Suzuki,Baleno,Hatchback,2018,6,65000,Automatic,Second,Hybrid/CNG,565000
+C1754,Hyundai,Aura,Sedan,2024,0,1234,Manual,First,Hybrid/CNG,190000
+C1755,Maruti Suzuki,Eeco,MPV,2022,2,85000,Manual,First,Hybrid/CNG,625000
+C1756,Honda,Amaze,Sedan,2022,2,26500,Automatic,First,Hybrid/CNG,825000
+C1757,Maruti Suzuki,Ertiga,MUV,2022,2,90000,Automatic,First,Hybrid/CNG,900000
+C1758,Tata,Tiago,Hatchback,2022,2,17200,Manual,First,Petrol,520000
+C1759,Maruti Suzuki,Celerio,Hatchback,2017,7,78000,Automatic,First,Petrol,425000
+C1760,Honda,Amaze,Sedan,2018,6,62000,Manual,Second,Petrol,665000
+C1761,Maruti Suzuki,Wagon-R,Hatchback,2017,7,170000,Automatic,First,Hybrid/CNG,240000
+C1762,Maruti Suzuki,Wagon R,Hatchback,2022,2,9000,Automatic,First,Petrol,650000
+C1763,Maruti Suzuki,Wagon R,Hatchback,2021,3,42000,Manual,First,Hybrid/CNG,635000
+C1764,Renault,KWID,Hatchback,2017,7,49600,Manual,Second,Petrol,299900
+C1765,Maruti Suzuki,Baleno,Hatchback,2019,5,47000,Manual,First,Petrol,520000
+C1766,Maruti Suzuki,Celerio,Hatchback,2016,8,65000,Automatic,Second,Hybrid/CNG,365000
+C1767,Hyundai,Venue,SUV,2020,4,67000,Manual,First,Hybrid/CNG,725000
+C1768,Renault,KWID,Hatchback,2018,6,48000,Automatic,Second,Hybrid/CNG,295000
+C1769,Mahindra,XUV700,SUV,2024,0,13000,Automatic,First,Diesel,1985000
+C1770,Maruti Suzuki,Wagon-R,Hatchback,2017,7,58000,Automatic,First,Hybrid/CNG,345000
+C1771,Maruti Suzuki,Eeco,MPV,2019,5,80000,Automatic,First,Hybrid/CNG,535000
+C1772,Volkswagen,Taigun,SUV,2024,0,1933,Automatic,First,Petrol,1965000
+C1773,Honda,Amaze,Sedan,2017,7,250000,Automatic,First,Hybrid/CNG,190000
+C1774,Maruti Suzuki,Baleno,Hatchback,2020,4,37800,Manual,First,Petrol,615000
+C1775,Maruti Suzuki,Alto K10,Hatchback,2016,8,63000,Automatic,Second,Petrol,375000
+C1776,Maruti Suzuki,Wagon-R,Hatchback,2017,7,78200,Automatic,First,Hybrid/CNG,290000
+C1777,Maruti Suzuki,Baleno,Hatchback,2018,6,29500,Automatic,First,Petrol,695000
+C1778,Maruti Suzuki,Ignis,Hatchback,2018,6,40000,Automatic,First,Hybrid/CNG,500000
+C1779,Tata,Nexon,SUV,2019,5,50000,Automatic,First,Hybrid/CNG,625000
+C1780,Hyundai,Aura,Sedan,2024,0,10000,Automatic,First,Hybrid/CNG,240000
+C1781,Maruti Suzuki,Celerio,Hatchback,2020,4,42000,Manual,Second,Petrol,480000
+C1782,Maruti Suzuki,Ertiga,MUV,2020,4,40000,Automatic,Second,Hybrid/CNG,1000000
+C1783,Maruti Suzuki,Grand Vitara,SUV,2022,2,28850,Manual,First,Petrol,1630000
+C1784,Hyundai,Creta,SUV,2022,2,71000,Manual,First,Diesel,1545000
+C1785,Maruti Suzuki,Ertiga,MUV,2020,4,24,Automatic,First,Hybrid/CNG,1020000
+C1786,Maruti Suzuki,Wagon-R,Hatchback,2016,8,43000,Manual,Second,Hybrid/CNG,350000
+C1787,Maruti Suzuki,Ertiga,MUV,2020,4,96000,Manual,First,Hybrid/CNG,1035000
+C1788,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,545000
+C1789,MG,Hector,SUV,2021,3,43000,Automatic,First,Petrol,1595000
+C1790,Kia,Sonet,SUV,2021,3,50000,Automatic,First,Diesel,1360000
+C1791,Maruti Suzuki,Eeco,MPV,2017,7,100000,Automatic,Second,Hybrid/CNG,340000
+C1792,Maruti Suzuki,Wagon R 1.0,Hatchback,2019,5,52000,Manual,First,Hybrid/CNG,490000
+C1793,Kia,Seltos,SUV,2021,3,40000,Automatic,First,Petrol,1550000
+C1794,Maruti Suzuki,Celerio,Hatchback,2017,7,80000,Manual,First,Hybrid/CNG,390000
+C1795,Honda,Amaze,Sedan,2019,5,61000,Manual,Second,Hybrid/CNG,530000
+C1796,Maruti Suzuki,Swift,Hatchback,2023,1,39000,Manual,First,Hybrid/CNG,675000
+C1797,Maruti Suzuki,S-Presso,Hatchback,2020,4,54000,Manual,First,Petrol,430000
+C1798,Maruti Suzuki,Swift,Hatchback,2019,5,57000,Automatic,First,Petrol,595000
+C1799,Mahindra,Thar,SUV,2022,2,26000,Automatic,First,Diesel,1790000
+C1800,Maruti Suzuki,Swift,Hatchback,2016,8,65000,Manual,First,Hybrid/CNG,399000
+C1801,MG,Hector,SUV,2021,3,9000,Automatic,First,Petrol,1721000
+C1802,Maruti Suzuki,Wagon-R,Hatchback,2016,8,100000,Automatic,Second,Hybrid/CNG,240000
+C1803,Maruti Suzuki,Ertiga,MUV,2017,7,46000,Automatic,Second,Petrol,725000
+C1804,Tata,Tigor,Sedan,2017,7,48000,Manual,First,Hybrid/CNG,445000
+C1805,Renault,KWID,Hatchback,2017,7,30000,Automatic,Second,Petrol,375000
+C1806,Maruti Suzuki,Grand Vitara,SUV,2023,1,14000,Automatic,First,Hybrid/CNG,2225000
+C1807,Maruti Suzuki,XL6,MUV,2024,0,11000,Automatic,First,Hybrid/CNG,1324999
+C1808,Maruti Suzuki,Swift,Hatchback,2016,8,65000,Manual,First,Hybrid/CNG,399000
+C1809,Hyundai,Grand i10 Nios,Hatchback,2019,5,59284,Automatic,Second,Petrol,533000
+C1810,Hyundai,Creta,SUV,2021,3,56000,Manual,Second,Diesel,1590000
+C1811,Renault,KWID,Hatchback,2018,6,70000,Automatic,Second,Petrol,325000
+C1812,Hyundai,Venue,SUV,2022,2,45000,Manual,First,Petrol,760000
+C1813,Skoda,Slavia,Sedan,2022,2,48000,Manual,First,Petrol,1350000
+C1814,Toyota,Urban Cruiser Hyryder,SUV,2022,2,28000,Automatic,First,Hybrid/CNG,2095000
+C1815,Toyota,Innova Crysta,MPV,2019,5,27000,Automatic,First,Petrol,1899000
+C1816,Tata,Harrier,SUV,2022,2,14000,Automatic,First,Diesel,1780000
+C1817,Maruti Suzuki,Ignis,Hatchback,2022,2,39000,Automatic,First,Petrol,675000
+C1818,Hyundai,Grand i10 Nios,Hatchback,2021,3,88000,Manual,First,Hybrid/CNG,575000
+C1819,Tata,Tiago,Hatchback,2017,7,52000,Automatic,Second,Petrol,400000
+C1820,Maruti Suzuki,Swift,Hatchback,2018,6,68364,Manual,First,Petrol,685000
+C1821,Maruti Suzuki,Eeco,MPV,2021,3,75000,Manual,First,Hybrid/CNG,515000
+C1822,Kia,Sonet,SUV,2022,2,27000,Manual,First,Diesel,1175000
+C1823,Maruti Suzuki,Wagon-R,Hatchback,2018,6,80000,Automatic,Second,Hybrid/CNG,351000
+C1824,Hyundai,Creta,SUV,2021,3,32000,Manual,First,Diesel,975000
+C1825,Maruti Suzuki,Baleno,Hatchback,2016,8,31000,Automatic,Second,Petrol,4999000
+C1826,Maruti Suzuki,Baleno,Hatchback,2016,8,60837,Manual,First,Petrol,467000
+C1827,Maruti Suzuki,Ertiga,MUV,2018,6,76000,Manual,Second,Hybrid/CNG,695000
+C1828,Hyundai,Verna,Sedan,2020,4,49500,Automatic,First,Petrol,1099000
+C1829,Renault,Triber,MUV,2021,3,58000,Automatic,Second,Petrol,475000
+C1830,Maruti Suzuki,Wagon-R,Hatchback,2020,4,73500,Manual,First,Hybrid/CNG,550000
+C1831,Maruti Suzuki,Baleno,Hatchback,2016,8,77000,Automatic,Second,Hybrid/CNG,489999
+C1832,Hyundai,Venue,SUV,2022,2,39000,Manual,Second,Petrol,955000
+C1833,Maruti Suzuki,Ertiga,MUV,2021,3,64000,Automatic,First,Hybrid/CNG,950000
+C1834,Hyundai,Verna,Sedan,2018,6,48000,Automatic,Second,Petrol,899999
+C1835,Maruti Suzuki,Wagon-R,Hatchback,2020,4,40000,Manual,Second,Hybrid/CNG,525000
+C1836,Hyundai,Aura,Sedan,2023,1,40000,Manual,First,Hybrid/CNG,730000
+C1837,Maruti Suzuki,Baleno,Hatchback,2017,7,66500,Manual,First,Petrol,665000
+C1838,Maruti Suzuki,Baleno,Hatchback,2020,4,17500,Automatic,First,Petrol,595000
+C1839,Maruti Suzuki,Celerio,Hatchback,2017,7,710000,Automatic,First,Petrol,425000
+C1840,Maruti Suzuki,Ertiga,MUV,2021,3,110000,Manual,First,Hybrid/CNG,1051000
+C1841,Hyundai,Grand i10 Nios,Hatchback,2021,3,40000,Automatic,First,Petrol,625000
+C1842,Kia,Sonet,SUV,2022,2,69726,Manual,First,Diesel,1050000
+C1843,Maruti Suzuki,S-Presso,Hatchback,2020,4,52000,Automatic,First,Petrol,490000
+C1844,Maruti Suzuki,XL6,MUV,2019,5,71000,Automatic,First,Petrol,925000
+C1845,Maruti Suzuki,Eeco,MPV,2018,6,0,Manual,Second,Hybrid/CNG,350000
+C1846,Maruti Suzuki,Wagon-R,Hatchback,2021,3,113707,Manual,First,Petrol,485000
+C1847,Maruti Suzuki,Wagon-R,Hatchback,2022,2,16000,Manual,First,Hybrid/CNG,560000
+C1848,Toyota,Urban Cruiser Hyryder,SUV,2022,2,38000,Automatic,First,Hybrid/CNG,1550000
+C1849,Maruti Suzuki,Baleno,Hatchback,2023,1,27164,Automatic,First,Hybrid/CNG,905000
+C1850,Tata,Nexon,SUV,2018,6,62000,Automatic,Second,Petrol,675000
+C1851,Maruti Suzuki,Ertiga,MUV,2016,8,74000,Automatic,First,Hybrid/CNG,689000
+C1852,Maruti Suzuki,Celerio,Hatchback,2016,8,34000,Automatic,Second,Petrol,399999
+C1853,Mahindra,Thar,SUV,2022,2,98000,Automatic,First,Diesel,1600000
+C1854,Maruti Suzuki,Ertiga,MUV,2020,4,780000,Automatic,First,Hybrid/CNG,949999
+C1855,Maruti Suzuki,Eeco,MPV,2019,5,88000,Automatic,First,Hybrid/CNG,455000
+C1856,Hyundai,Grand i10 Nios,Hatchback,2021,3,19500,Manual,Second,Petrol,575000
+C1857,Hyundai,Grand i10 Nios,Hatchback,2020,4,47523,Manual,First,Petrol,495000
+C1858,Maruti Suzuki,Wagon-R,Hatchback,2022,2,63000,Manual,First,Hybrid/CNG,590000
+C1859,Honda,City,Sedan,2016,8,52000,Manual,First,Petrol,499000
+C1860,Maruti Suzuki,Wagon R,Hatchback,2017,7,52000,Manual,First,Hybrid/CNG,350000
+C1861,Maruti Suzuki,Wagon-R,Hatchback,2022,2,22000,Automatic,First,Petrol,600000
+C1862,Hyundai,Verna,Sedan,2016,8,55000,Automatic,Second,Petrol,280000
+C1863,Kia,Seltos,SUV,2022,2,48000,Manual,Second,Diesel,1190000
+C1864,Hyundai,Verna,Sedan,2019,5,29000,Automatic,Second,Petrol,1000000
+C1865,Renault,KWID,Hatchback,2022,2,17000,Manual,First,Petrol,400000
+C1866,Maruti Suzuki,Ertiga,MUV,2024,0,28,Automatic,First,Hybrid/CNG,1320000
+C1867,Maruti Suzuki,Wagon-R,Hatchback,2019,5,44000,Automatic,First,Hybrid/CNG,430000
+C1868,Renault,KWID,Hatchback,2018,6,60000,Automatic,First,Petrol,405000
+C1869,Maruti Suzuki,Baleno,Hatchback,2016,8,68000,Automatic,Second,Hybrid/CNG,489999
+C1870,Tata,Altroz,Hachback,2020,4,26000,Manual,First,Petrol,759000
+C1871,Maruti Suzuki,Wagon R,Hatchback,2020,4,36230,Automatic,First,Petrol,625000
+C1872,Maruti Suzuki,Celerio,Hatchback,2018,6,73000,Automatic,First,Petrol,475000
+C1873,Kia,Seltos,SUV,2019,5,22000,Automatic,Second,Petrol,1195000
+C1874,Hyundai,Creta,SUV,2017,7,45000,Automatic,First,Petrol,869000
+C1875,Honda,City,Sedan,2017,7,29000,Automatic,Second,Petrol,775000
+C1876,Maruti Suzuki,Swift,Hatchback,2019,5,30000,Manual,First,Petrol,610000
+C1877,Renault,Triber,MUV,2024,0,12000,Manual,First,Petrol,625000
+C1878,Mahindra,Thar,SUV,2022,2,7500,Automatic,First,Petrol,1250000
+C1879,Kia,Sonet,SUV,2021,3,34000,Automatic,First,Hybrid/CNG,899000
+C1880,Maruti Suzuki,Swift,Hatchback,2019,5,71000,Automatic,First,Petrol,649000
+C1881,Maruti Suzuki,Ertiga,MUV,2022,2,14000,Manual,First,Hybrid/CNG,1109000
+C1882,Maruti Suzuki,S-Presso,Hatchback,2019,5,55000,Automatic,First,Hybrid/CNG,395000
+C1883,Maruti Suzuki,Fronx ,SUV,2024,0,8000,Manual,First,Petrol,100000
+C1884,Hyundai,Grand i10 Nios,Hatchback,2020,4,46000,Automatic,First,Hybrid/CNG,590000
+C1885,Maruti Suzuki,Celerio,Hatchback,2017,7,80000,Automatic,Second,Hybrid/CNG,450000
+C1886,Tata,Punch ,SUV,2022,2,7900,Automatic,Second,Petrol,890000
+C1887,Honda,Amaze,Sedan,2019,5,72000,Manual,First,Hybrid/CNG,451000
+C1888,Toyota,Urban Cruiser Hyryder,SUV,2022,2,36240,Manual,First,Petrol,1550000
+C1889,Renault,Triber,MUV,2019,5,39892,Manual,First,Petrol,560000
+C1890,Tata,Nexon,SUV,2020,4,105800,Automatic,First,Petrol,675000
+C1891,Maruti Suzuki,Eeco,MPV,2017,7,85000,Automatic,Second,Hybrid/CNG,460000
+C1892,Honda,City,Sedan,2016,8,64000,Manual,First,Hybrid/CNG,585000
+C1893,Maruti Suzuki,Baleno,Hatchback,2020,4,37000,Manual,First,Petrol,665000
+C1894,Honda,City,Sedan,2021,3,20000,Automatic,Second,Petrol,1325000
+C1895,Maruti Suzuki,Baleno,Hatchback,2016,8,72000,Automatic,Second,Petrol,545000
+C1896,Renault,KWID,Hatchback,2016,8,38000,Manual,Second,Petrol,235000
+C1897,Hyundai,Verna,Sedan,2017,7,63000,Manual,Second,Hybrid/CNG,515000
+C1898,Maruti Suzuki,Invicto,MPV,2023,1,6100,Automatic,Second,Hybrid/CNG,2800000
+C1899,Maruti Suzuki,Ertiga,MUV,2021,3,64000,Manual,First,Hybrid/CNG,899000
+C1900,Skoda,Slavia,Sedan,2022,2,84000,Automatic,First,Petrol,1030000
+C1901,Maruti Suzuki,Celerio,Hatchback,2019,5,85000,Manual,Second,Hybrid/CNG,449000
+C1902,Honda,Amaze,Sedan,2018,6,68000,Automatic,First,Hybrid/CNG,550000
+C1903,Maruti Suzuki,Ertiga,MUV,2016,8,90000,Manual,Second,Hybrid/CNG,689000
+C1904,Maruti Suzuki,Baleno,Hatchback,2019,5,75000,Automatic,Second,Petrol,650000
+C1905,Kia,Seltos,SUV,2022,2,39000,Automatic,First,Diesel,1825000
+C1906,Maruti Suzuki,Wagon-R,Hatchback,2017,7,58670,Manual,First,Petrol,365000
+C1907,Maruti Suzuki,Wagon-R,Hatchback,2016,8,62000,Automatic,Second,Petrol,365000
+C1908,Maruti Suzuki,Wagon-R,Hatchback,2016,8,42000,Automatic,First,Petrol,311000
+C1909,Maruti Suzuki,Ertiga,MUV,2019,5,59000,Automatic,First,Hybrid/CNG,1150000
+C1910,Toyota,Innova Crysta,MPV,2022,2,55000,Automatic,First,Diesel,2050000
+C1911,Honda,Amaze,Sedan,2017,7,85500,Manual,Second,Hybrid/CNG,295000
+C1912,Maruti Suzuki,Eeco,MPV,2021,3,47000,Automatic,First,Hybrid/CNG,505000
+C1913,Maruti Suzuki,Ignis,Hatchback,2017,7,48125,Manual,First,Petrol,435000
+C1914,Honda,Amaze,Sedan,2021,3,119000,Automatic,First,Diesel,900000
+C1915,Maruti Suzuki,Ertiga,MUV,2021,3,64035,Manual,First,Hybrid/CNG,975000
+C1916,Honda,Amaze,Sedan,2022,2,25000,Automatic,First,Petrol,805000
+C1917,Tata,Tiago,Hatchback,2016,8,110818,Manual,Second,Petrol,325000
+C1918,Maruti Suzuki,Baleno,Hatchback,2019,5,38032,Automatic,Second,Petrol,690000
+C1919,Skoda,Kushaq,SUV,2022,2,24000,Manual,First,Petrol,1250000
+C1920,Toyota,Innova Crysta,MPV,2021,3,90000,Automatic,First,Diesel,1975000
+C1921,Maruti Suzuki,Eeco,MPV,2020,4,36000,Automatic,First,Hybrid/CNG,475000
+C1922,Maruti Suzuki,Wagon-R,Hatchback,2023,1,85000,Automatic,First,Hybrid/CNG,210000
+C1923,Maruti Suzuki,Swift,Hatchback,2022,2,40000,Automatic,First,Petrol,765000
+C1924,Hyundai,Grand i10 Nios,Hatchback,2021,3,30941,Manual,Second,Hybrid/CNG,625000
+C1925,Maruti Suzuki,Wagon-R,Hatchback,2016,8,55962,Manual,Second,Hybrid/CNG,215500
+C1926,Mahindra,Thar,SUV,2022,2,14000,Automatic,Second,Hybrid/CNG,1600000
+C1927,Kia,Seltos,SUV,2022,2,17000,Automatic,First,Petrol,1575000
+C1928,Kia,Sonet,SUV,2021,3,17451,Automatic,First,Petrol,1265000
+C1929,Maruti Suzuki,S-Presso,Hatchback,2022,2,12000,Automatic,First,Petrol,520000
+C1930,Toyota,Urban Cruiser Hyryder,SUV,2023,1,18246,Automatic,First,Hybrid/CNG,1950000
+C1931,Tata,Nexon,SUV,2021,3,26000,Automatic,First,Hybrid/CNG,895000
+C1932,Hyundai,Creta,SUV,2018,6,68000,Automatic,First,Petrol,850000
+C1933,Kia,Sonet,SUV,2021,3,65000,Automatic,First,Diesel,975000
+C1934,Honda,City,Sedan,2021,3,60180,Automatic,First,Petrol,1170000
+C1935,Maruti Suzuki,Celerio,Hatchback,2018,6,75698,Manual,Second,Petrol,430000
+C1936,Maruti Suzuki,Wagon-R,Hatchback,2021,3,60000,Manual,Second,Hybrid/CNG,570000
+C1937,Maruti Suzuki,Eeco,MPV,2018,6,82000,Automatic,Second,Hybrid/CNG,350000
+C1938,Maruti Suzuki,Ignis,Hatchback,2022,2,38000,Manual,First,Petrol,490000
+C1939,Toyota,Innova Crysta,MPV,2021,3,7500,Automatic,First,Diesel,3310000
+C1940,Maruti Suzuki,Swift,Hatchback,2022,2,23000,Manual,First,Petrol,698000
+C1941,Hyundai,Aura,Sedan,2024,0,3500,Manual,First,Hybrid/CNG,700000
+C1942,Hyundai,Creta,SUV,2020,4,120488,Manual,First,Petrol,865000
+C1943,Renault,KWID,Hatchback,2018,6,53000,Automatic,Second,Hybrid/CNG,375000
+C1944,Hyundai,Venue,SUV,2020,4,18000,Automatic,First,Petrol,950000
+C1945,Maruti Suzuki,Wagon-R,Hatchback,2021,3,65000,Manual,First,Hybrid/CNG,450000
+C1946,Maruti Suzuki,Eeco,MPV,2020,4,75000,Manual,Second,Hybrid/CNG,411000
+C1947,Volkswagen,Taigun,SUV,2021,3,19000,Automatic,Second,Petrol,1180000
+C1948,Maruti Suzuki,Ertiga,MUV,2019,5,62000,Automatic,Second,Hybrid/CNG,820000
+C1949,Maruti Suzuki,Celerio,Hatchback,2018,6,70000,Manual,Second,Hybrid/CNG,395000
+C1950,Honda,City,Sedan,2019,5,32500,Manual,Second,Hybrid/CNG,725000
+C1951,Honda,Amaze,Sedan,2021,3,78000,Automatic,Second,Diesel,1075000
+C1952,Maruti Suzuki,Wagon-R,Hatchback,2020,4,6000,Manual,First,Petrol,550000
+C1953,Hyundai,Creta,SUV,2021,3,63000,Automatic,First,Diesel,1550000
+C1954,Renault,KWID,Hatchback,2019,5,90000,Manual,Second,Petrol,325000
+C1955,Tata,Tiago,Hatchback,2018,6,56000,Manual,First,Petrol,260000
+C1956,Hyundai,Creta,SUV,2018,6,120000,Manual,First,Hybrid/CNG,726000
+C1957,Tata,Nexon,SUV,2021,3,67000,Manual,First,Diesel,890000
+C1958,Hyundai,Creta,SUV,2022,2,27000,Automatic,Second,Petrol,1425000
+C1959,Renault,KWID,Hatchback,2017,7,71000,Manual,First,Petrol,245000
+C1960,Tata,Tiago,Hatchback,2022,2,19300,Manual,First,Hybrid/CNG,684000
+C1961,Maruti Suzuki,Ertiga,MUV,2022,2,38000,Manual,First,Hybrid/CNG,1100000
+C1962,Maruti Suzuki,Eeco,MPV,2020,4,93000,Manual,First,Hybrid/CNG,575000
+C1963,Maruti Suzuki,Eeco,MPV,2018,6,59000,Manual,First,Hybrid/CNG,390000
+C1964,Toyota,Urban Cruiser Hyryder,SUV,2024,0,1900,Automatic,First,Hybrid/CNG,2125000
+C1965,Honda,City,Sedan,2016,8,71000,Automatic,First,Petrol,675000
+C1966,Maruti Suzuki,Wagon-R,Hatchback,2018,6,51000,Manual,Second,Hybrid/CNG,395000
+C1967,Kia,Sonet,SUV,2022,2,23000,Automatic,First,Petrol,1150000
+C1968,Honda,City,Sedan,2019,5,43000,Manual,Second,Hybrid/CNG,750000
+C1969,Honda,City,Sedan,2017,7,69000,Manual,Second,Petrol,610000
+C1970,Tata,Nexon,SUV,2019,5,55000,Manual,Second,Hybrid/CNG,480000
+C1971,Honda,Amaze,Sedan,2017,7,55000,Manual,First,Petrol,395000
+C1972,Renault,Triber,MUV,2020,4,27500,Manual,First,Petrol,520000
+C1973,Maruti Suzuki,Ertiga,MUV,2019,5,54000,Manual,First,Hybrid/CNG,971000
+C1974,Tata,Harrier,SUV,2022,2,33000,Manual,First,Diesel,1450000
+C1975,Maruti Suzuki,Wagon-R,Hatchback,2022,2,30500,Manual,First,Hybrid/CNG,580000
+C1976,Hyundai,Aura,Sedan,2021,3,40000,Manual,First,Petrol,700000
+C1977,MG,Hector,SUV,2019,5,46000,Automatic,First,Hybrid/CNG,1250000
+C1978,Maruti Suzuki,Fronx ,SUV,2024,0,8254,Manual,First,Petrol,825000
+C1979,Hyundai,New i20,Hatchback,2022,2,12214,Automatic,First,Petrol,953000
+C1980,Honda,City,Sedan,2017,7,54000,Automatic,Second,Petrol,715000
+C1981,Maruti Suzuki,Grand Vitara,SUV,2023,1,9000,Manual,First,Petrol,1450000
+C1982,Maruti Suzuki,Wagon-R,Hatchback,2019,5,42000,Automatic,First,Hybrid/CNG,415000
+C1983,Maruti Suzuki,S-Presso,Hatchback,2020,4,28000,Manual,First,Petrol,445000
+C1984,Renault,KWID,Hatchback,2017,7,39000,Automatic,First,Petrol,270000
+C1985,Maruti Suzuki,Celerio,Hatchback,2017,7,59968,Manual,First,Petrol,385000
+C1986,Maruti Suzuki,Eeco,MPV,2018,6,51000,Automatic,First,Hybrid/CNG,365000
+C1987,Toyota,Innova Crysta,MPV,2021,3,24000,Automatic,First,Diesel,3150000
+C1988,Honda,City,Sedan,2017,7,71000,Automatic,First,Hybrid/CNG,725000
+C1989,Volkswagen,Virtus,Sedan,2022,2,40000,Manual,Second,Petrol,1199900
+C1990,Hyundai,Verna,Sedan,2023,1,24600,Automatic,First,Petrol,1599000
+C1991,Maruti Suzuki,Ignis,Hatchback,2020,4,28000,Automatic,Second,Petrol,649999
+C1992,MG,Gloster,SUV,2022,2,52000,Automatic,Second,Diesel,3800000
+C1993,Skoda,Slavia,Sedan,2022,2,20000,Automatic,First,Petrol,1100000
+C1994,Hyundai,Verna,Sedan,2018,6,52536,Automatic,Second,Hybrid/CNG,780000
+C1995,Honda,Amaze,Sedan,2019,5,52400,Manual,Second,Petrol,540000
+C1996,Maruti Suzuki,Ertiga,MUV,2020,4,185000,Manual,First,Hybrid/CNG,720000
+C1997,Tata,Tiago,Hatchback,2024,0,3500,Automatic,First,Hybrid/CNG,820000
+C1998,Honda,Amaze,Sedan,2018,6,52000,Automatic,Second,Hybrid/CNG,590000
+C1999,Honda,Amaze,Sedan,2020,4,64000,Automatic,Second,Hybrid/CNG,550000
+C2000,Maruti Suzuki,Baleno,Hatchback,2017,7,31235,Automatic,First,Hybrid/CNG,555000
+C2001,Maruti Suzuki,Alto K10,Hatchback,2018,6,11000,Automatic,Second,Petrol,378000
+C2002,Maruti Suzuki,Baleno,Hatchback,2017,7,53000,Manual,First,Hybrid/CNG,595000
+C2003,Kia,Seltos,SUV,2021,3,89000,Automatic,First,Diesel,1665000
+C2004,Tata,Nexon,SUV,2018,6,61000,Automatic,First,Hybrid/CNG,599000
+C2005,Maruti Suzuki,Celerio,Hatchback,2017,7,43000,Manual,First,Hybrid/CNG,375000
+C2006,Kia,Seltos,SUV,2021,3,16,Manual,First,Petrol,800000
+C2007,Maruti Suzuki,Swift,Hatchback,2016,8,117592,Manual,First,Petrol,550000
+C2008,Maruti Suzuki,Dzire,Sedan,2018,6,25000,Automatic,Second,Petrol,630000
+C2009,Maruti Suzuki,Wagon-R,Hatchback,2022,2,42000,Manual,First,Hybrid/CNG,575000
+C2010,Hyundai,Creta,SUV,2021,3,83000,Manual,First,Diesel,1290000
+C2011,Maruti Suzuki,Ignis,Hatchback,2019,5,82123,Automatic,First,Hybrid/CNG,455000
+C2012,Maruti Suzuki,Celerio,Hatchback,2018,6,25193,Manual,First,Petrol,370000
+C2013,Tata,Nexon,SUV,2021,3,31000,Manual,Second,Hybrid/CNG,650000
+C2014,Hyundai,Grand i10 Nios,Hatchback,2019,5,59284,Automatic,Second,Petrol,533000
+C2015,Renault,KWID,Hatchback,2017,7,100000,Manual,First,Petrol,200000
+C2016,Maruti Suzuki,Ignis,Hatchback,2017,7,53000,Automatic,First,Petrol,550000
+C2017,Maruti Suzuki,Celerio,Hatchback,2016,8,65000,Automatic,Second,Hybrid/CNG,365000
+C2018,Maruti Suzuki,Celerio,Hatchback,2016,8,90000,Automatic,First,Hybrid/CNG,360000
+C2019,Maruti Suzuki,Baleno,Hatchback,2017,7,33555,Automatic,First,Hybrid/CNG,499555
+C2020,Kia,Seltos,SUV,2023,1,23000,Automatic,First,Diesel,1845000
+C2021,Maruti Suzuki,Ertiga,MUV,2022,2,53000,Manual,First,Hybrid/CNG,1121000
+C2022,Honda,Amaze,Sedan,2018,6,29295,Automatic,Second,Petrol,530000
+C2023,Maruti Suzuki,Celerio,Hatchback,2018,6,89124,Automatic,Second,Petrol,485000
+C2024,Maruti Suzuki,Wagon-R,Hatchback,2016,8,91000,Manual,Second,Hybrid/CNG,421000
+C2025,Maruti Suzuki,Swift,Hatchback,2018,6,62000,Automatic,Second,Petrol,615000
+C2026,Toyota,Fortuner,SUV,2022,2,34000,Automatic,First,Diesel,4400000
+C2027,Tata,Nexon,SUV,2020,4,69000,Manual,First,Hybrid/CNG,675000
+C2028,Hyundai,Verna,Sedan,2019,5,44500,Automatic,Second,Hybrid/CNG,820000
+C2029,Renault,Triber,MUV,2021,3,70000,Manual,First,Petrol,615000
+C2030,Honda,Amaze,Sedan,2019,5,42000,Manual,Second,Hybrid/CNG,555000
+C2031,Tata,Tiago,Hatchback,2023,1,27000,Automatic,First,Hybrid/CNG,670000
+C2032,Maruti Suzuki,Ertiga,MUV,2020,4,120000,Manual,Second,Hybrid/CNG,875000
+C2033,Tata,Harrier,SUV,2021,3,47000,Automatic,First,Diesel,1175000
+C2034,Hyundai,Grand i10 Nios,Hatchback,2021,3,55000,Manual,First,Hybrid/CNG,621000
+C2035,Renault,Triber,MUV,2021,3,40000,Automatic,First,Petrol,625000
+C2036,Maruti Suzuki,Wagon-R,Hatchback,2020,4,80000,Automatic,First,Hybrid/CNG,560000
+C2037,Hyundai,Verna,Sedan,2016,8,65000,Automatic,First,Petrol,695000
+C2038,Honda,Amaze,Sedan,2021,3,69052,Manual,Second,Petrol,577000
+C2039,Renault,Triber,MUV,2020,4,69000,Manual,Second,Hybrid/CNG,475000
+C2040,Maruti Suzuki,Alto-K10,Hatchback,2018,6,70150,Automatic,Second,Hybrid/CNG,281111
+C2041,Hyundai,Creta,SUV,2023,1,21000,Automatic,First,Petrol,1699999
+C2042,Tata,Tiago,Hatchback,2022,2,65000,Automatic,First,Hybrid/CNG,498000
+C2043,Maruti Suzuki,Eeco,MPV,2020,4,62000,Manual,First,Hybrid/CNG,410000
+C2044,Kia,Sonet,SUV,2023,1,20600,Manual,First,Diesel,1250000
+C2045,Maruti Suzuki,Wagon-R,Hatchback,2018,6,0,Automatic,First,Hybrid/CNG,449999
+C2046,Mahindra,Bolero Neo,SUV,2021,3,65000,Manual,Second,Diesel,875000
+C2047,Maruti Suzuki,Ertiga,MUV,2022,2,80000,Automatic,Second,Hybrid/CNG,1125000
+C2048,Hyundai,Aura,Sedan,2021,3,89500,Automatic,Second,Hybrid/CNG,551521
+C2049,Mahindra,Thar,SUV,2022,2,7000,Automatic,First,Diesel,1620000
+C2050,Maruti Suzuki,Baleno,Hatchback,2021,3,22000,Manual,First,Petrol,660000
+C2051,Tata,Tiago,Hatchback,2017,7,82010,Manual,Second,Hybrid/CNG,370000
+C2052,Maruti Suzuki,Wagon-R,Hatchback,2020,4,63000,Manual,Second,Hybrid/CNG,475000
+C2053,Maruti Suzuki,Eeco,MPV,2021,3,37000,Automatic,First,Hybrid/CNG,430000
+C2054,Maruti Suzuki,Ertiga,MUV,2022,2,88392,Manual,Second,Hybrid/CNG,920000
+C2055,Maruti Suzuki,Baleno,Hatchback,2018,6,67000,Automatic,Second,Petrol,525000
+C2056,Maruti Suzuki,Eeco,MPV,2019,5,81520,Automatic,First,Hybrid/CNG,360000
+C2057,Hyundai,Verna,Sedan,2019,5,52000,Manual,Second,Hybrid/CNG,695000
+C2058,Maruti Suzuki,Swift,Hatchback,2023,1,30000,Manual,First,Hybrid/CNG,765000
+C2059,Maruti Suzuki,Eeco,MPV,2023,1,35000,Automatic,Second,Hybrid/CNG,510000
+C2060,Honda,City,Sedan,2019,5,37000,Automatic,Second,Petrol,935000
+C2061,Tata,Tigor,Sedan,2020,4,61000,Automatic,First,Hybrid/CNG,561000
+C2062,Nissan,Magnite,SUV,2022,2,17000,Manual,First,Petrol,745000
+C2063,Hyundai,Grand i10 Nios,Hatchback,2021,3,20121,Manual,Second,Petrol,665000
+C2064,Maruti Suzuki,Eeco,MPV,2019,5,95000,Automatic,First,Hybrid/CNG,430000
+C2065,Maruti Suzuki,Ertiga,MUV,2023,1,62000,Manual,First,Hybrid/CNG,1260000
+C2066,MG,Hector,SUV,2023,1,17000,Automatic,First,Petrol,2025000
+C2067,Maruti Suzuki,Ertiga,MUV,2020,4,47000,Automatic,First,Hybrid/CNG,995000
+C2068,Mahindra,Bolero Neo,SUV,2022,2,42000,Manual,First,Diesel,905000
+C2069,Maruti Suzuki,Celerio,Hatchback,2017,7,64000,Automatic,Second,Hybrid/CNG,390000
+C2070,Honda,City,Sedan,2017,7,45000,Automatic,Second,Petrol,775000
+C2071,Hyundai,Creta,SUV,2019,5,68000,Automatic,Second,Petrol,1175000
+C2072,Maruti Suzuki,Eeco,MPV,2022,2,56000,Automatic,First,Hybrid/CNG,500000
+C2073,Maruti Suzuki,Eeco,MPV,2021,3,50000,Automatic,Second,Petrol,480000
+C2074,Maruti Suzuki,XL6,MUV,2019,5,68738,Manual,First,Hybrid/CNG,900000
+C2075,Hyundai,Creta,SUV,2017,7,69000,Automatic,Second,Petrol,785000
+C2076,Hyundai,New i20,Hatchback,2020,4,48298,Automatic,Second,Petrol,945000
+C2077,Maruti Suzuki,Alto-K10,Hatchback,2018,6,27000,Automatic,First,Petrol,365000
+C2078,Maruti Suzuki,Wagon-R,Hatchback,2017,7,59000,Manual,Second,Hybrid/CNG,320000
+C2079,Maruti Suzuki,Eeco,MPV,2018,6,180000,Automatic,First,Hybrid/CNG,351000
+C2080,Maruti Suzuki,Eeco,MPV,2019,5,49000,Manual,Second,Hybrid/CNG,450000
+C2081,Maruti Suzuki,Ertiga,MUV,2023,1,32000,Manual,First,Hybrid/CNG,1171000
+C2082,Maruti Suzuki,Celerio,Hatchback,2017,7,75000,Automatic,Second,Hybrid/CNG,300000
+C2083,Maruti Suzuki,Celerio,Hatchback,2019,5,68000,Automatic,Second,Petrol,425000
+C2084,Maruti Suzuki,Eeco,MPV,2018,6,77738,Manual,Second,Hybrid/CNG,490000
+C2085,Kia,Sonet,SUV,2021,3,81236,Automatic,First,Petrol,970000
+C2086,Hyundai,Creta,SUV,2016,8,71000,Manual,First,Hybrid/CNG,690000
+C2087,Maruti Suzuki,Baleno,Hatchback,2017,7,102000,Manual,Second,Petrol,540000
+C2088,Maruti Suzuki,Celerio,Hatchback,2019,5,71000,Manual,Second,Hybrid/CNG,450000
+C2089,Maruti Suzuki,Ertiga,MUV,2019,5,59000,Automatic,First,Hybrid/CNG,1150000
+C2090,Maruti Suzuki,Ertiga,MUV,2020,4,65846,Manual,First,Hybrid/CNG,870000
+C2091,Maruti Suzuki,Swift,Hatchback,2018,6,36000,Automatic,First,Petrol,665000
+C2092,Maruti Suzuki,Celerio,Hatchback,2017,7,35000,Automatic,First,Hybrid/CNG,450000
+C2093,Mahindra,XUV700,SUV,2023,1,25000,Automatic,First,Petrol,2275000
+C2094,Maruti Suzuki,Swift,Hatchback,2022,2,40000,Automatic,First,Petrol,775000
+C2095,Mahindra,Thar,SUV,2021,3,70000,Manual,First,Diesel,1350000
+C2096,Renault,KWID,Hatchback,2020,4,52000,Automatic,First,Hybrid/CNG,350000
+C2097,Tata,Tiago,Hatchback,2020,4,70716,Manual,First,Petrol,490000
+C2098,Maruti Suzuki,Baleno,Hatchback,2017,7,75000,Manual,First,Hybrid/CNG,580000
+C2099,Maruti Suzuki,Swift,Hatchback,2018,6,55000,Automatic,Second,Petrol,565000
+C2100,Hyundai,Grand i10 Nios,Hatchback,2022,2,35000,Automatic,First,Petrol,685000
+C2101,Maruti Suzuki,Swift,Hatchback,2020,4,67850,Automatic,First,Hybrid/CNG,675000
+C2102,Hyundai,Grand i10 Nios,Hatchback,2021,3,22000,Manual,First,Petrol,549000
+C2103,Mahindra,XUV700,SUV,2021,3,23883,Automatic,Second,Petrol,2245000
+C2104,Tata,Tigor,Sedan,2022,2,29000,Automatic,First,Hybrid/CNG,700000
+C2105,Honda,Amaze,Sedan,2019,5,67000,Automatic,Second,Petrol,575000
+C2106,Maruti Suzuki,Baleno,Hatchback,2021,3,40022,Manual,First,Petrol,640000
+C2107,Renault,KWID,Hatchback,2019,5,16000,Automatic,First,Petrol,420000
+C2108,Tata,Altroz,Hatchback,2022,2,10000,Automatic,First,Petrol,990000
+C2109,Kia,Sonet,SUV,2020,4,38271,Automatic,Second,Petrol,1045000
+C2110,Maruti Suzuki,Ertiga,MUV,2024,0,1234,Manual,First,Hybrid/CNG,360000
+C2111,Tata,Nexon,SUV,2019,5,47000,Manual,First,Petrol,599999
+C2112,Mahindra,Thar,SUV,2021,3,28000,Manual,First,Diesel,1445000
+C2113,Renault,KWID,Hatchback,2019,5,36000,Manual,Second,Petrol,310000
+C2114,Maruti Suzuki,Wagon-R,Hatchback,2018,6,66000,Manual,First,Hybrid/CNG,390000
+C2115,Maruti Suzuki,Wagon R,Hatchback,2019,5,34000,Manual,First,Hybrid/CNG,565000
+C2116,Maruti Suzuki,Swift,Hatchback,2018,6,66000,Automatic,First,Hybrid/CNG,530000
+C2117,Honda,Amaze,Sedan,2016,8,85000,Manual,Second,Hybrid/CNG,310000
+C2118,Maruti Suzuki,Grand Vitara,SUV,2022,2,21000,Automatic,First,Hybrid/CNG,1300000
+C2119,Maruti Suzuki,Ertiga,MUV,2024,0,35,Automatic,Second,Hybrid/CNG,1250000
+C2120,Maruti Suzuki,Eeco,MPV,2023,1,15000,Manual,First,Petrol,600000
+C2121,Maruti Suzuki,Ertiga,MUV,2021,3,90000,Automatic,First,Hybrid/CNG,950000
+C2122,Maruti Suzuki,Wagon-R,Hatchback,2023,1,28,Manual,First,Hybrid/CNG,615000
+C2123,Maruti Suzuki,Baleno,Hatchback,2018,6,32000,Automatic,First,Petrol,690000
+C2124,Maruti Suzuki,Baleno,Hatchback,2020,4,40000,Manual,First,Petrol,650000
+C2125,Maruti Suzuki,Swift,Hatchback,2020,4,38000,Automatic,First,Hybrid/CNG,580000
+C2126,Tata,Tiago,Hatchback,2024,0,3800,Automatic,First,Hybrid/CNG,850000
+C2127,Maruti Suzuki,Wagon R 1.0,Hatchback,2018,6,32000,Manual,Second,Petrol,395000
+C2128,Hyundai,Venue,SUV,2019,5,28000,Automatic,First,Petrol,925000
+C2129,Maruti Suzuki,Eeco,MPV,2022,2,71200,Manual,First,Hybrid/CNG,472000
+C2130,Maruti Suzuki,Swift,Hatchback,2016,8,80000,Manual,First,Petrol,453000
+C2131,Maruti Suzuki,Swift,Hatchback,2016,8,72000,Manual,Second,Hybrid/CNG,390000
+C2132,Honda,City,Sedan,2017,7,75000,Automatic,Second,Petrol,765000
+C2133,Maruti Suzuki,Baleno,Hatchback,2016,8,74000,Automatic,Second,Hybrid/CNG,445000
+C2134,Mahindra,Thar,SUV,2024,0,7000,Automatic,First,Diesel,1575000
+C2135,Maruti Suzuki,Ertiga,MUV,2016,8,70000,Manual,First,Hybrid/CNG,445000
+C2136,Maruti Suzuki,Eeco,MPV,2020,4,68000,Manual,Second,Hybrid/CNG,485000
+C2137,Maruti Suzuki,XL6,MUV,2021,3,40000,Manual,Second,Petrol,935000
+C2138,Mahindra,Scorpio Classic,SUV,2021,3,64000,Manual,Second,Diesel,1231000
+C2139,Tata,Nexon,SUV,2019,5,41000,Automatic,Second,Petrol,525000
+C2140,Honda,Amaze,Sedan,2019,5,56000,Manual,First,Hybrid/CNG,555000
+C2141,Maruti Suzuki,XL6,MUV,2021,3,64000,Manual,First,Petrol,925000
+C2142,Maruti Suzuki,Wagon-R,Hatchback,2017,7,53000,Automatic,First,Hybrid/CNG,465000
+C2143,Hyundai,Venue,SUV,2022,2,17000,Manual,First,Petrol,830000
+C2144,Maruti Suzuki,Ertiga,MUV,2016,8,62000,Manual,First,Hybrid/CNG,619000
+C2145,Honda,Amaze,Sedan,2021,3,32000,Automatic,First,Petrol,590000
+C2146,Tata,Harrier,SUV,2021,3,71000,Automatic,First,Diesel,1750000
+C2147,Maruti Suzuki,Eeco,MPV,2018,6,65000,Automatic,First,Hybrid/CNG,450000
+C2148,Maruti Suzuki,Eeco,MPV,2016,8,77718,Manual,First,Hybrid/CNG,360000
+C2149,Mahindra,Scorpio Classic,SUV,2023,1,31500,Manual,First,Diesel,1690000
+C2150,Maruti Suzuki,Eeco,MPV,2017,7,120000,Automatic,Second,Hybrid/CNG,280000
+C2151,Maruti Suzuki,Baleno,Hatchback,2021,3,47000,Manual,Second,Petrol,575000
+C2152,Maruti Suzuki,Ertiga,MUV,2020,4,62000,Manual,First,Hybrid/CNG,975000
+C2153,Honda,Amaze,Sedan,2021,3,52689,Automatic,First,Petrol,710000
+C2154,Maruti Suzuki,Baleno,Hatchback,2017,7,60000,Manual,Second,Petrol,500000
+C2155,Maruti Suzuki,Grand Vitara,SUV,2021,3,31000,Manual,First,Petrol,745000
+C2156,Maruti Suzuki,Swift,Hatchback,2017,7,72000,Manual,Second,Petrol,540000
+C2157,Maruti Suzuki,Wagon-R,Hatchback,2016,8,185000,Automatic,First,Hybrid/CNG,205000
+C2158,Maruti Suzuki,Celerio,Hatchback,2018,6,54553,Manual,Second,Petrol,325000
+C2159,Kia,Sonet,SUV,2021,3,77000,Manual,First,Diesel,1151000
+C2160,Tata,Nexon,SUV,2022,2,55000,Automatic,First,Diesel,1290000
+C2161,Maruti Suzuki,Ertiga,MUV,2023,1,120000,Automatic,First,Hybrid/CNG,950000
+C2162,Honda,City,Sedan,2016,8,69000,Manual,Second,Hybrid/CNG,575000
+C2163,Kia,Sonet,SUV,2022,2,26793,Manual,First,Petrol,821000
+C2164,Tata,Harrier,SUV,2023,1,7500,Manual,First,Diesel,1675000
+C2165,Hyundai,Creta,SUV,2016,8,63500,Manual,First,Hybrid/CNG,735000
+C2166,Tata,Altroz,Hatchback,2021,3,27999,Manual,First,Petrol,660000
+C2167,Maruti Suzuki,S-Presso,Hatchback,2020,4,19000,Automatic,First,Petrol,485000
+C2168,Tata,Tiago,Hatchback,2021,3,25000,Automatic,First,Petrol,650000
+C2169,Kia,Seltos,SUV,2021,3,43123,Automatic,First,Petrol,1445000
+C2170,Renault,KWID,Hatchback,2017,7,55000,Automatic,Second,Hybrid/CNG,219000
+C2171,Maruti Suzuki,Eeco,MPV,2016,8,25,Automatic,Second,Hybrid/CNG,280000
+C2172,Maruti Suzuki,Wagon-R,Hatchback,2022,2,23000,Manual,First,Hybrid/CNG,595000
+C2173,Maruti Suzuki,Ertiga,MUV,2024,0,5000,Manual,First,Hybrid/CNG,1225000
+C2174,Kia,Carens,MPV,2022,2,39000,Manual,Second,Diesel,1350000
+C2175,Maruti Suzuki,Celerio,Hatchback,2017,7,47000,Manual,Second,Petrol,390000
+C2176,Hyundai,Creta,SUV,2023,1,70000,Automatic,First,Diesel,1800000
+C2177,Renault,KWID,Hatchback,2016,8,17000,Manual,Second,Petrol,295000
+C2178,Maruti Suzuki,Swift,Hatchback,2016,8,47884,Manual,First,Petrol,450000
+C2179,Toyota,Fortuner,SUV,2021,3,31500,Automatic,First,Diesel,3699000
+C2180,Maruti Suzuki,Wagon-R,Hatchback,2021,3,75000,Manual,First,Hybrid/CNG,499000
+C2181,Maruti Suzuki,Baleno,Hatchback,2019,5,65000,Automatic,Second,Petrol,585000
+C2182,Hyundai,Creta,SUV,2016,8,58000,Automatic,Second,Petrol,745000
+C2183,Toyota,Glanza,Hatchback,2023,1,49000,Manual,First,Hybrid/CNG,830000
+C2184,Maruti Suzuki,Baleno,Hatchback,2023,1,22000,Manual,First,Petrol,939999
+C2185,Maruti Suzuki,Baleno,Hatchback,2017,7,57500,Automatic,First,Hybrid/CNG,565000
+C2186,Maruti Suzuki,Ignis,Hatchback,2018,6,46000,Automatic,First,Hybrid/CNG,500000
+C2187,Hyundai,Creta,SUV,2018,6,57000,Automatic,First,Petrol,1075000
+C2188,Tata,Altroz,Hachback,2023,1,20000,Automatic,First,Hybrid/CNG,655000
+C2189,Hyundai,Grand i10 Nios,Hatchback,2020,4,62000,Manual,First,Petrol,580000
+C2190,Tata,Nexon,SUV,2018,6,76209,Automatic,Second,Petrol,666000
+C2191,Mahindra,XUV700,SUV,2022,2,13000,Automatic,First,Petrol,2150000
+C2192,Hyundai,Creta,SUV,2022,2,38000,Manual,First,Petrol,1175000
+C2193,Skoda,Kushaq,SUV,2021,3,8600,Automatic,First,Petrol,1700000
+C2194,Maruti Suzuki,Wagon-R,Hatchback,2022,2,58000,Manual,First,Hybrid/CNG,590000
+C2195,Maruti Suzuki,Celerio,Hatchback,2019,5,111000,Automatic,First,Hybrid/CNG,525000
+C2196,Maruti Suzuki,Wagon-R,Hatchback,2018,6,66000,Manual,First,Hybrid/CNG,380000
+C2197,Hyundai,Grand i10 Nios,Hatchback,2023,1,10000,Automatic,First,Petrol,775000
+C2198,Hyundai,New i20,Hatchback,2022,2,21000,Manual,First,Petrol,860000
+C2199,Renault,KWID,Hatchback,2019,5,49600,Automatic,First,Petrol,369000
+C2200,Maruti Suzuki,Ignis,Hatchback,2021,3,14607,Automatic,First,Petrol,597000
+C2201,Maruti Suzuki,Wagon-R,Hatchback,2021,3,54900,Manual,First,Hybrid/CNG,549000
+C2202,Maruti Suzuki,Alto-K10,Hatchback,2019,5,53000,Automatic,First,Petrol,395000
+C2203,Maruti Suzuki,Eeco,MPV,2018,6,55644,Manual,First,Hybrid/CNG,495000
+C2204,Maruti Suzuki,Wagon-R,Hatchback,2018,6,68000,Manual,First,Hybrid/CNG,390000
+C2205,Maruti Suzuki,Ertiga,MUV,2018,6,57125,Manual,First,Hybrid/CNG,800000
+C2206,Tata,Tigor,Sedan,2024,0,4700,Automatic,First,Hybrid/CNG,945000
+C2207,Maruti Suzuki,Celerio,Hatchback,2017,7,85000,Automatic,First,Petrol,455000
+C2208,Maruti Suzuki,Swift,Hatchback,2021,3,73086,Manual,First,Petrol,630000
+C2209,Tata,Tiago,Hatchback,2022,2,19300,Manual,First,Hybrid/CNG,684000
+C2210,Renault,KWID,Hatchback,2020,4,52000,Automatic,First,Hybrid/CNG,350000
+C2211,Hyundai,Grand i10 Nios,Hatchback,2022,2,14000,Manual,Second,Hybrid/CNG,625000
+C2212,Toyota,Urban Cruiser Hyryder,SUV,2022,2,29000,Automatic,First,Hybrid/CNG,1750000
+C2213,Maruti Suzuki,Wagon-R,Hatchback,2017,7,82000,Automatic,Second,Hybrid/CNG,385000
+C2214,Maruti Suzuki,Wagon-R,Hatchback,2016,8,45000,Automatic,First,Petrol,299000
+C2215,Hyundai,Creta,SUV,2021,3,36046,Automatic,First,Petrol,1463000
+C2216,Honda,Amaze,Sedan,2019,5,44199,Automatic,First,Petrol,635000
+C2217,Maruti Suzuki,Celerio,Hatchback,2019,5,64504,Manual,First,Hybrid/CNG,520000
+C2218,Maruti Suzuki,Ertiga,MUV,2024,0,29000,Manual,First,Hybrid/CNG,1199999
+C2219,Hyundai,Grand i10 Nios,Hatchback,2021,3,18000,Automatic,First,Hybrid/CNG,700000
+C2220,Maruti Suzuki,Baleno,Hatchback,2018,6,32000,Manual,First,Petrol,685000
+C2221,Renault,KWID,Hatchback,2019,5,16000,Automatic,First,Petrol,420000
+C2222,Maruti Suzuki,Wagon-R,Hatchback,2019,5,53000,Automatic,First,Petrol,490000
+C2223,Hyundai,Venue,SUV,2019,5,28000,Automatic,First,Petrol,925000
+C2224,Maruti Suzuki,Baleno,Hatchback,2022,2,18000,Manual,Second,Petrol,595000
+C2225,Maruti Suzuki,Baleno,Hatchback,2018,6,51000,Manual,First,Hybrid/CNG,395000
+C2226,Tata,Tiago,Hatchback,2018,6,43000,Automatic,First,Hybrid/CNG,535000
+C2227,Hyundai,Creta,SUV,2022,2,25000,Automatic,First,Petrol,1650000
+C2228,Honda,City,Sedan,2017,7,59700,Automatic,Second,Hybrid/CNG,568000
+C2229,Maruti Suzuki,Celerio,Hatchback,2018,6,82000,Automatic,First,Petrol,425000
+C2230,Honda,Amaze,Sedan,2019,5,19000,Automatic,First,Petrol,695000
+C2231,Toyota,Urban Cruiser Hyryder,SUV,2024,0,3600,Automatic,First,Hybrid/CNG,2200000
+C2232,Maruti Suzuki,Swift,Hatchback,2024,0,19000,Manual,First,Petrol,728000
+C2233,Maruti Suzuki,Ertiga,MUV,2019,5,65000,Automatic,Second,Hybrid/CNG,820000
+C2234,Maruti Suzuki,Wagon-R,Hatchback,2017,7,60000,Manual,Second,Hybrid/CNG,295000
+C2235,Skoda,Kodiaq,SUV,2023,1,15000,Automatic,First,Petrol,4200000
+C2236,Maruti Suzuki,Eeco,MPV,2019,5,82453,Automatic,Second,Hybrid/CNG,360000
+C2237,Maruti Suzuki,Wagon-R,Hatchback,2019,5,19000,Manual,First,Petrol,525000
+C2238,Renault,Triber,MUV,2021,3,18000,Automatic,Second,Petrol,550000
+C2239,Maruti Suzuki,Swift,Hatchback,2018,6,80000,Automatic,First,Petrol,499999
+C2240,Honda,City,Sedan,2016,8,71000,Automatic,Second,Petrol,549999
+C2241,Maruti Suzuki,Wagon-R,Hatchback,2022,2,80000,Manual,First,Hybrid/CNG,499999
+C2242,MG,Hector,SUV,2019,5,45000,Automatic,Second,Petrol,1290000
+C2243,Maruti Suzuki,Wagon-R,Hatchback,2022,2,24000,Manual,First,Hybrid/CNG,639000
+C2244,Maruti Suzuki,Ignis,Hatchback,2022,2,8000,Automatic,Second,Petrol,669000
+C2245,Skoda,Slavia,Sedan,2022,2,14000,Automatic,First,Petrol,1680000
+C2246,Maruti Suzuki,Grand Vitara,SUV,2023,1,17000,Manual,First,Petrol,1495000
+C2247,Maruti Suzuki,Ignis,Hatchback,2018,6,40200,Manual,Second,Petrol,550000
+C2248,Honda,City,Sedan,2021,3,62000,Automatic,First,Petrol,1050000
+C2249,Renault,KWID,Hatchback,2017,7,24000,Automatic,Second,Hybrid/CNG,230000
+C2250,Maruti Suzuki,Wagon-R,Hatchback,2018,6,102200,Manual,First,Hybrid/CNG,320000
+C2251,Tata,Harrier,SUV,2023,1,10000,Automatic,First,Diesel,2700000
+C2252,Hyundai,Tucson,SUV,2019,5,42000,Automatic,First,Petrol,1635000
+C2253,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,535000
+C2254,Maruti Suzuki,Ertiga,MUV,2024,0,12000,Manual,First,Hybrid/CNG,1450000
+C2255,Honda,City,Sedan,2016,8,74000,Automatic,Second,Petrol,590000
+C2256,Maruti Suzuki,Eeco,MPV,2018,6,85000,Manual,First,Hybrid/CNG,325000
+C2257,Maruti Suzuki,Wagon-R,Hatchback,2016,8,138922,Manual,Second,Hybrid/CNG,285000
+C2258,Maruti Suzuki,Eeco,MPV,2022,2,80000,Manual,First,Petrol,250000
+C2259,Maruti Suzuki,Wagon R 1.0,Hatchback,2016,8,65000,Automatic,Second,Petrol,460000
+C2260,Honda,Amaze,Sedan,2019,5,51000,Manual,First,Petrol,575000
+C2261,Maruti Suzuki,Swift,Hatchback,2021,3,63946,Automatic,First,Petrol,615000
+C2262,Maruti Suzuki,Baleno,Hatchback,2021,3,64852,Automatic,First,Hybrid/CNG,650000
+C2263,Maruti Suzuki,Eeco,MPV,2017,7,120000,Automatic,Second,Hybrid/CNG,280000
+C2264,Maruti Suzuki,Eeco,MPV,2017,7,98656,Manual,Second,Hybrid/CNG,355000
+C2265,Hyundai,Verna,Sedan,2023,1,15000,Automatic,First,Petrol,1750000
+C2266,Maruti Suzuki,Wagon-R,Hatchback,2016,8,62125,Manual,Second,Hybrid/CNG,320000
+C2267,Maruti Suzuki,Swift,Hatchback,2018,6,72000,Automatic,First,Hybrid/CNG,645000
+C2268,Maruti Suzuki,Eeco,MPV,2016,8,12500,Manual,First,Petrol,414000
+C2269,Toyota,Urban Cruiser Hyryder,SUV,2022,2,29000,Automatic,First,Hybrid/CNG,1750000
+C2270,Hyundai,Alcazar,SUV,2021,3,28987,Automatic,First,Diesel,1700000
+C2271,Hyundai,Creta,SUV,2017,7,55000,Automatic,Second,Petrol,870000
+C2272,Maruti Suzuki,Eeco,MPV,2017,7,79000,Manual,Second,Hybrid/CNG,305000
+C2273,Maruti Suzuki,Celerio,Hatchback,2017,7,53000,Automatic,First,Petrol,495000
+C2274,Maruti Suzuki,Ertiga,MUV,2024,0,35,Manual,First,Hybrid/CNG,1180000
+C2275,Maruti Suzuki,Celerio,Hatchback,2018,6,85000,Manual,Second,Petrol,380000
+C2276,Maruti Suzuki,Ertiga,MUV,2021,3,110085,Automatic,Second,Hybrid/CNG,1000000
+C2277,Maruti Suzuki,Ertiga,MUV,2016,8,62000,Manual,Second,Hybrid/CNG,625000
+C2278,MG,Hector,SUV,2020,4,48000,Automatic,First,Petrol,1430000
+C2279,Maruti Suzuki,Baleno,Hatchback,2016,8,64000,Automatic,Second,Petrol,565000
+C2280,Hyundai,Venue,SUV,2020,4,46462,Manual,First,Petrol,709000
+C2281,Hyundai,Alcazar,SUV,2017,7,15000,Automatic,First,Petrol,1895000
+C2282,Maruti Suzuki,Ertiga,MUV,2019,5,164681,Automatic,Second,Hybrid/CNG,1050000
+C2283,Maruti Suzuki,Celerio,Hatchback,2019,5,84000,Manual,Second,Hybrid/CNG,445000
+C2284,Maruti Suzuki,Ertiga,MUV,2017,7,65000,Manual,Second,Hybrid/CNG,725000
+C2285,Honda,City,Sedan,2016,8,55000,Automatic,Second,Hybrid/CNG,575000
+C2286,Maruti Suzuki,Ertiga,MUV,2024,0,58000,Automatic,First,Hybrid/CNG,380000
+C2287,Renault,KWID,Hatchback,2021,3,28000,Manual,Second,Petrol,375000
+C2288,Toyota,Glanza,Hatchback,2020,4,84450,Manual,Second,Petrol,622000
+C2289,Maruti Suzuki,Wagon-R,Hatchback,2021,3,48000,Manual,Second,Hybrid/CNG,565000
+C2290,Mahindra,Thar,SUV,2021,3,22000,Automatic,First,Petrol,1375000
+C2291,Renault,KWID,Hatchback,2018,6,50743,Manual,First,Petrol,316000
+C2292,Toyota,Innova Crysta,MPV,2017,7,90000,Automatic,First,Petrol,1325000
+C2293,Tata,Harrier,SUV,2021,3,40000,Manual,Second,Diesel,1080000
+C2294,Maruti Suzuki,Ertiga,MUV,2020,4,80000,Manual,First,Hybrid/CNG,979999
+C2295,Maruti Suzuki,Wagon-R,Hatchback,2019,5,60000,Automatic,First,Hybrid/CNG,270000
+C2296,Renault,KWID,Hatchback,2017,7,55000,Automatic,Second,Petrol,365000
+C2297,Maruti Suzuki,Baleno,Hatchback,2020,4,18100,Manual,First,Petrol,650000
+C2298,Hyundai,Alcazar,SUV,2022,2,41000,Automatic,First,Diesel,1575000
+C2299,Maruti Suzuki,Wagon-R,Hatchback,2019,5,60000,Automatic,First,Hybrid/CNG,540000
+C2300,Maruti Suzuki,Swift,Hatchback,2018,6,72000,Manual,First,Hybrid/CNG,510000
+C2301,Maruti Suzuki,Baleno,Hatchback,2019,5,37000,Automatic,Second,Petrol,750000
+C2302,Maruti Suzuki,S-Presso,Hatchback,2020,4,801270,Automatic,First,Hybrid/CNG,465000
+C2303,Maruti Suzuki,Celerio,Hatchback,2018,6,53000,Automatic,Second,Hybrid/CNG,525000
+C2304,Maruti Suzuki,Alto K10,Hatchback,2017,7,76443,Manual,First,Petrol,310000
+C2305,Maruti Suzuki,Ignis,Hatchback,2018,6,95000,Automatic,Second,Hybrid/CNG,385000
+C2306,Honda,City,Sedan,2017,7,70000,Automatic,Second,Petrol,640000
+C2307,Honda,Amaze,Sedan,2020,4,34000,Automatic,First,Petrol,845000
+C2308,Hyundai,New i20,Hatchback,2019,5,56000,Automatic,First,Hybrid/CNG,611000
+C2309,Kia,Sonet,SUV,2023,1,39000,Manual,First,Petrol,865000
+C2310,Kia,Seltos,SUV,2022,2,22000,Automatic,First,Petrol,1550000
+C2311,Honda,City,Sedan,2016,8,93000,Automatic,Second,Hybrid/CNG,615000
+C2312,Renault,Kiger,SUV,2022,2,25000,Manual,First,Hybrid/CNG,600000
+C2313,Kia,Sonet,SUV,2021,3,65000,Automatic,First,Diesel,975000
+C2314,Tata,Nexon,SUV,2021,3,33000,Manual,First,Diesel,845000
+C2315,Maruti Suzuki,Celerio,Hatchback,2020,4,41000,Automatic,Second,Hybrid/CNG,491000
+C2316,Maruti Suzuki,Ertiga,MUV,2019,5,22600,Manual,Second,Hybrid/CNG,975000
+C2317,Hyundai,Creta,SUV,2023,1,27000,Manual,First,Petrol,1425000
+C2318,Tata,Tiago,Hatchback,2020,4,26000,Manual,Second,Petrol,445000
+C2319,Renault,KWID,Hatchback,2017,7,44000,Manual,First,Petrol,295000
+C2320,Maruti Suzuki,Swift,Hatchback,2022,2,23000,Manual,First,Petrol,675000
+C2321,Hyundai,Grand i10 Nios,Hatchback,2022,2,34165,Manual,First,Hybrid/CNG,775000
+C2322,Honda,City,Sedan,2019,5,49000,Automatic,First,Petrol,800000
+C2323,Maruti Suzuki,Ertiga,MUV,2016,8,81200,Manual,First,Hybrid/CNG,649999
+C2324,Mahindra,Scorpio-N,SUV,2023,1,24000,Automatic,First,Diesel,2451000
+C2325,Maruti Suzuki,XL6,MUV,2022,2,40000,Automatic,Second,Petrol,1220000
+C2326,Kia,Sonet,SUV,2021,3,65000,Automatic,First,Diesel,975000
+C2327,Mahindra,Bolero,SUV,2021,3,3000,Manual,First,Diesel,1075000
+C2328,Honda,Amaze,Sedan,2016,8,21000,Manual,First,Petrol,540000
+C2329,Maruti Suzuki,Alto-K10,Hatchback,2016,8,62000,Automatic,First,Hybrid/CNG,250000
+C2330,Maruti Suzuki,Ertiga,MUV,2021,3,64000,Manual,First,Hybrid/CNG,899000
+C2331,Maruti Suzuki,Wagon-R,Hatchback,2017,7,32,Automatic,Second,Hybrid/CNG,375000
+C2332,Hyundai,Creta,SUV,2019,5,68000,Automatic,Second,Petrol,1175000
+C2333,Maruti Suzuki,Eeco,MPV,2021,3,63000,Manual,First,Hybrid/CNG,575000
+C2334,Maruti Suzuki,Brezza,SUV,2023,1,8700,Automatic,First,Petrol,1285999
+C2335,Maruti Suzuki,Celerio,Hatchback,2022,2,9054,Manual,Second,Petrol,635000
+C2336,Maruti Suzuki,Ertiga,MUV,2022,2,32000,Manual,First,Hybrid/CNG,1099000
+C2337,Maruti Suzuki,Eeco,MPV,2021,3,80000,Manual,First,Hybrid/CNG,510000
+C2338,Maruti Suzuki,Eeco,MPV,2016,8,100000,Automatic,Second,Hybrid/CNG,350000
+C2339,Honda,City,Sedan,2019,5,55000,Automatic,First,Petrol,899000
+C2340,Mahindra,Thar,SUV,2021,3,14000,Automatic,First,Diesel,1620000
+C2341,Maruti Suzuki,Ertiga,MUV,2022,2,58000,Manual,First,Hybrid/CNG,1070000
+C2342,Tata,Nexon,SUV,2018,6,78689,Manual,First,Petrol,450000
+C2343,Hyundai,Aura,Sedan,2022,2,44000,Manual,First,Petrol,670000
+C2344,Maruti Suzuki,Ertiga,MUV,2021,3,62000,Manual,First,Hybrid/CNG,1000000
+C2345,Renault,KWID,Hatchback,2017,7,54000,Automatic,Second,Petrol,365000
+C2346,Honda,City,Sedan,2017,7,69000,Automatic,Second,Petrol,649999
+C2347,Maruti Suzuki,Eeco,MPV,2020,4,34309,Manual,Second,Petrol,454000
+C2348,Maruti Suzuki,Celerio,Hatchback,2017,7,35000,Manual,First,Petrol,350000
+C2349,Hyundai,Creta,SUV,2017,7,57000,Automatic,First,Petrol,910000
+C2350,Nissan,Magnite,SUV,2022,2,17000,Manual,First,Petrol,745000
+C2351,Maruti Suzuki,Eeco,MPV,2016,8,100000,Automatic,Second,Hybrid/CNG,350000
+C2352,Hyundai,Creta,SUV,2019,5,59980,Automatic,First,Petrol,1140000
+C2353,Toyota,Urban Cruiser Hyryder,SUV,2023,1,24000,Automatic,First,Petrol,1895000
+C2354,Honda,City,Sedan,2017,7,55000,Automatic,Second,Petrol,690000
+C2355,Maruti Suzuki,Alto-K10,Hatchback,2017,7,3240,Manual,Second,Petrol,290000
+C2356,Tata,Tigor,Sedan,2017,7,65000,Manual,First,Petrol,375000
+C2357,Hyundai,Aura,Sedan,2023,1,7000,Manual,First,Hybrid/CNG,895000
+C2358,Renault,KWID,Hatchback,2016,8,43600,Manual,First,Petrol,255000
+C2359,Maruti Suzuki,Alto K10,Hatchback,2018,6,10500,Automatic,Second,Petrol,375000
+C2360,Maruti Suzuki,Baleno,Hatchback,2017,7,26000,Automatic,Second,Petrol,450000
+C2361,Hyundai,Venue,SUV,2020,4,28000,Manual,First,Petrol,750000
+C2362,Maruti Suzuki,Ertiga,MUV,2019,5,72000,Manual,First,Hybrid/CNG,1041000
+C2363,Toyota,Urban Cruiser Hyryder,SUV,2024,0,6000,Automatic,First,Hybrid/CNG,2250000
+C2364,Mahindra,Thar,SUV,2022,2,22000,Automatic,First,Diesel,1545000
+C2365,Maruti Suzuki,Swift,Hatchback,2024,0,7250,Manual,First,Petrol,780000
+C2366,Maruti Suzuki,Ertiga,MUV,2021,3,54000,Manual,First,Hybrid/CNG,975000
+C2367,Volkswagen,Taigun,SUV,2023,1,2300,Manual,First,Petrol,1700000
+C2368,Toyota,Innova Crysta,MPV,2021,3,37000,Automatic,First,Diesel,3250000
+C2369,Maruti Suzuki,Ertiga,MUV,2023,1,24000,Manual,First,Hybrid/CNG,1230000
+C2370,Maruti Suzuki,Ertiga,MUV,2022,2,38000,Manual,First,Hybrid/CNG,1050000
+C2371,Maruti Suzuki,Wagon-R,Hatchback,2018,6,44700,Automatic,Second,Petrol,410000
+C2372,Hyundai,Creta,SUV,2022,2,33000,Automatic,First,Diesel,1835000
+C2373,Maruti Suzuki,Wagon-R,Hatchback,2017,7,25000,Automatic,Second,Hybrid/CNG,395000
+C2374,Maruti Suzuki,Baleno,Hatchback,2021,3,22,Manual,Second,Petrol,535000
+C2375,Tata,Nexon,SUV,2019,5,50000,Automatic,First,Hybrid/CNG,650000
+C2376,Kia,Sonet,SUV,2020,4,32550,Manual,First,Petrol,740000
+C2377,Maruti Suzuki,Celerio,Hatchback,2019,5,61382,Automatic,First,Petrol,495000
+C2378,Maruti Suzuki,Alto-K10,Hatchback,2022,2,18305,Manual,First,Petrol,495000
+C2379,Maruti Suzuki,Baleno,Hatchback,2019,5,28303,Manual,First,Petrol,635000
+C2380,Tata,Tiago,Hatchback,2018,6,34128,Manual,First,Petrol,440000
+C2381,Hyundai,Aura,Sedan,2024,0,4000,Manual,First,Petrol,835000
+C2382,Maruti Suzuki,Baleno,Hatchback,2021,3,51600,Manual,First,Petrol,515000
+C2383,Honda,Amaze,Sedan,2020,4,68000,Automatic,First,Petrol,595000
+C2384,Maruti Suzuki,Celerio,Hatchback,2018,6,86000,Manual,Second,Hybrid/CNG,365000
+C2385,Tata,Tiago,Hatchback,2019,5,61000,Automatic,Second,Hybrid/CNG,400000
+C2386,Toyota,Innova Crysta,MPV,2021,3,40000,Automatic,First,Diesel,2650000
+C2387,Tata,Nexon,SUV,2020,4,105800,Automatic,First,Petrol,675000
+C2388,Hyundai,Venue,SUV,2019,5,26000,Automatic,First,Petrol,945000
+C2389,Maruti Suzuki,Wagon-R,Hatchback,2023,1,42000,Automatic,First,Hybrid/CNG,606666
+C2390,Maruti Suzuki,Ertiga,MUV,2019,5,65000,Automatic,Second,Hybrid/CNG,820000
+C2391,Hyundai,Verna,Sedan,2017,7,41435,Manual,First,Petrol,676000
+C2392,Hyundai,Creta,SUV,2020,4,30000,Manual,First,Petrol,875000
+C2393,Maruti Suzuki,Brezza,SUV,2023,1,25000,Automatic,First,Hybrid/CNG,1095000
+C2394,Tata,Nexon,SUV,2022,2,38400,Automatic,First,Diesel,1200000
+C2395,Honda,City,Sedan,2016,8,38000,Automatic,Second,Petrol,625000
+C2396,Hyundai,Creta,SUV,2016,8,64000,Automatic,Second,Petrol,775000
+C2397,Hyundai,Verna,Sedan,2023,1,12000,Automatic,First,Petrol,1549999
+C2398,Maruti Suzuki,Ertiga,MUV,2019,5,100000,Manual,Second,Hybrid/CNG,365000
+C2399,Hyundai,Verna,Sedan,2018,6,44500,Automatic,Second,Petrol,765000
+C2400,Hyundai,Aura,Sedan,2022,2,37444,Automatic,First,Hybrid/CNG,758500
+C2401,Mahindra,Bolero Neo,SUV,2022,2,41000,Manual,First,Diesel,1050000
+C2402,Hyundai,Verna,Sedan,2019,5,39000,Automatic,Second,Hybrid/CNG,785000
+C2403,Toyota,Fortuner,SUV,2024,0,3500,Automatic,First,Diesel,4150000
+C2404,Hyundai,Venue,SUV,2019,5,19000,Automatic,First,Petrol,925000
+C2405,Hyundai,Venue,SUV,2019,5,73000,Automatic,Second,Petrol,865000
+C2406,Tata,Harrier,SUV,2021,3,34000,Automatic,First,Diesel,1650000
+C2407,Renault,KWID,Hatchback,2018,6,75000,Manual,Second,Hybrid/CNG,280000
+C2408,Maruti Suzuki,Swift,Hatchback,2018,6,82000,Automatic,Second,Petrol,620000
+C2409,Hyundai,Alcazar,SUV,2021,3,32000,Automatic,First,Petrol,900000
+C2410,Hyundai,Creta,SUV,2022,2,30000,Automatic,Second,Petrol,1690000
+C2411,Maruti Suzuki,Fronx ,SUV,2024,0,10700,Manual,First,Hybrid/CNG,890000
+C2412,Maruti Suzuki,Baleno,Hatchback,2018,6,66000,Automatic,Second,Hybrid/CNG,535000
+C2413,Maruti Suzuki,XL6,MUV,2020,4,42000,Automatic,First,Petrol,1040000
+C2414,Maruti Suzuki,Wagon R,Hatchback,2020,4,800000,Automatic,First,Hybrid/CNG,535000
+C2415,Toyota,Fortuner,SUV,2021,3,114000,Manual,First,Diesel,3349000
+C2416,Tata,Harrier,SUV,2022,2,19000,Automatic,First,Diesel,2000000
+C2417,Tata,Harrier,SUV,2023,1,9000,Automatic,First,Diesel,2690000
+C2418,Maruti Suzuki,Wagon-R,Hatchback,2021,3,50000,Manual,First,Hybrid/CNG,525000
+C2419,Maruti Suzuki,Wagon-R,Hatchback,2017,7,63000,Automatic,First,Hybrid/CNG,340000
+C2420,Honda,Amaze,Sedan,2020,4,23500,Manual,Second,Hybrid/CNG,575000
+C2421,Maruti Suzuki,Baleno,Hatchback,2023,1,28000,Manual,First,Petrol,875000
+C2422,Honda,Amaze,Sedan,2018,6,45600,Automatic,First,Petrol,595000
+C2423,Maruti Suzuki,Fronx ,SUV,2024,0,3000,Automatic,First,Petrol,1195000
+C2424,Maruti Suzuki,Alto-K10,Hatchback,2018,6,34000,Automatic,First,Hybrid/CNG,350000
+C2425,Maruti Suzuki,Baleno,Hatchback,2017,7,65000,Automatic,Second,Hybrid/CNG,570000
+C2426,Maruti Suzuki,Wagon-R,Hatchback,2016,8,58000,Automatic,Second,Petrol,350000
+C2427,Honda,City,Sedan,2016,8,54000,Manual,First,Petrol,625000
+C2428,Maruti Suzuki,S-Presso,Hatchback,2020,4,57805,Manual,First,Petrol,405000
+C2429,Maruti Suzuki,Alto-K10,Hatchback,2023,1,22000,Automatic,First,Petrol,575000
+C2430,Maruti Suzuki,S-Presso,Hatchback,2021,3,24008,Manual,First,Petrol,480000
+C2431,Maruti Suzuki,S-Presso,Hatchback,2022,2,12000,Manual,First,Petrol,465000
+C2432,Maruti Suzuki,Celerio,Hatchback,2023,1,40000,Automatic,First,Hybrid/CNG,680000
+C2433,Volkswagen,Taigun,SUV,2022,2,43000,Manual,Second,Petrol,1045000
+C2434,Maruti Suzuki,Eeco,MPV,2017,7,85000,Automatic,Second,Hybrid/CNG,460000
+C2435,Hyundai,Creta,SUV,2022,2,49596,Manual,First,Diesel,1735000
+C2436,Maruti Suzuki,Ertiga,MUV,2017,7,73000,Manual,First,Hybrid/CNG,751000
+C2437,Kia,Sonet,SUV,2021,3,34000,Automatic,First,Hybrid/CNG,899000
+C2438,Maruti Suzuki,S-Presso,Hatchback,2021,3,21000,Manual,First,Petrol,395000
+C2439,Tata,Nexon,SUV,2018,6,51167,Automatic,First,Petrol,865001
+C2440,Maruti Suzuki,Ertiga,MUV,2019,5,15000,Automatic,Second,Petrol,1055000
+C2441,Maruti Suzuki,S-Presso,Hatchback,2021,3,10000,Automatic,Second,Petrol,515000
+C2442,Maruti Suzuki,XL6,MUV,2019,5,32000,Manual,First,Petrol,975000
+C2443,Maruti Suzuki,Ignis,Hatchback,2022,2,16000,Manual,First,Petrol,525000
+C2444,Tata,Tiago,Hatchback,2019,5,33000,Automatic,First,Hybrid/CNG,490000
+C2445,Honda,City,Sedan,2016,8,74000,Manual,Second,Hybrid/CNG,499900
+C2446,Tata,Nexon,SUV,2024,0,4500,Automatic,First,Petrol,1575000
+C2447,Honda,Amaze,Sedan,2018,6,50000,Automatic,First,Hybrid/CNG,250000
+C2448,Maruti Suzuki,Swift,Hatchback,2022,2,40000,Automatic,First,Hybrid/CNG,695000
+C2449,Maruti Suzuki,Wagon-R,Hatchback,2022,2,22000,Automatic,First,Petrol,600000
+C2450,Hyundai,Venue,SUV,2022,2,42000,Manual,First,Petrol,985000
+C2451,Hyundai,Creta,SUV,2017,7,54479,Manual,Second,Petrol,865000
+C2452,Hyundai,Creta,SUV,2020,4,26000,Manual,Second,Petrol,1040000
+C2453,Maruti Suzuki,Swift,Hatchback,2016,8,71000,Manual,Second,Hybrid/CNG,488888
+C2454,Renault,KWID,Hatchback,2018,6,56765,Automatic,First,Petrol,388000
+C2455,Maruti Suzuki,Eeco,MPV,2017,7,84240,Automatic,Second,Hybrid/CNG,295000
+C2456,Maruti Suzuki,Ignis,Hatchback,2019,5,39800,Manual,First,Petrol,425000
+C2457,Mahindra,XUV700,SUV,2022,2,29705,Automatic,First,Diesel,2695000
+C2458,Maruti Suzuki,Wagon-R,Hatchback,2018,6,85000,Automatic,First,Hybrid/CNG,380000
+C2459,Maruti Suzuki,Celerio,Hatchback,2023,1,1234,Manual,First,Hybrid/CNG,130000
+C2460,Maruti Suzuki,Eeco,MPV,2018,6,93000,Manual,First,Hybrid/CNG,445000
+C2461,Maruti Suzuki,Ertiga,MUV,2020,4,42000,Manual,First,Hybrid/CNG,865000
+C2462,Maruti Suzuki,Celerio,Hatchback,2018,6,48000,Automatic,Second,Petrol,350000
+C2463,Honda,City,Sedan,2016,8,105000,Automatic,First,Petrol,695000
+C2464,Renault,KWID,Hatchback,2019,5,78000,Manual,First,Petrol,390000
+C2465,Hyundai,Verna,Sedan,2019,5,41000,Automatic,Second,Hybrid/CNG,875000
+C2466,Maruti Suzuki,Eeco,MPV,2022,2,85024,Automatic,First,Hybrid/CNG,450000
+C2467,Maruti Suzuki,Celerio,Hatchback,2017,7,65000,Automatic,First,Petrol,490000
+C2468,Maruti Suzuki,XL6,MUV,2021,3,36831,Automatic,First,Petrol,1210000
+C2469,Hyundai,Alcazar,SUV,2022,2,42200,Automatic,Second,Diesel,1840000
+C2470,Renault,KWID,Hatchback,2020,4,35000,Manual,First,Petrol,435000
+C2471,Maruti Suzuki,Celerio,Hatchback,2017,7,53000,Automatic,First,Hybrid/CNG,399999
+C2472,Maruti Suzuki,Wagon R,Hatchback,2017,7,58000,Automatic,First,Hybrid/CNG,399999
+C2473,Maruti Suzuki,Baleno,Hatchback,2017,7,42000,Automatic,First,Hybrid/CNG,485000
+C2474,Hyundai,Grand i10 Nios,Hatchback,2020,4,22000,Automatic,First,Petrol,625000
+C2475,Honda,City,Sedan,2022,2,11000,Automatic,First,Petrol,1275000
+C2476,Maruti Suzuki,Ertiga,MUV,2017,7,80000,Manual,First,Hybrid/CNG,775000
+C2477,Maruti Suzuki,Wagon-R,Hatchback,2019,5,65000,Manual,First,Hybrid/CNG,475000
+C2478,Skoda,Kushaq,SUV,2021,3,57000,Manual,First,Petrol,1190000
+C2479,Maruti Suzuki,Baleno,Hatchback,2022,2,22000,Manual,First,Petrol,980000
+C2480,Kia,Sonet,SUV,2023,1,12000,Manual,First,Petrol,970000
+C2481,Hyundai,Verna,Sedan,2019,5,72000,Automatic,First,Petrol,855000
+C2482,Hyundai,New i20,Hatchback,2021,3,83228,Manual,Second,Petrol,699000
