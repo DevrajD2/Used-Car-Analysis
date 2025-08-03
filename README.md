@@ -26,6 +26,9 @@ This interactive Tableau dashboard visualizes insights from a dataset of 2,474 u
 - 📅 **Model Year Distribution**: 2016–2024  
 - 📌 **Top Models**: Wagon R, Ertiga, Baleno, Creta, Celerio
 
+  ![Used Cars Python](https://github.com/user-attachments/assets/3a599805-d95f-436b-9e20-1c33eb75af08)
+
+
 The Jupyter notebook in this repo includes:
 - ✅ Data cleaning (e.g., handling strings, type conversion)
 - 📈 Exploratory Data Analysis (EDA)
